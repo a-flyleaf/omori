@@ -16,17 +16,19 @@ Hi there~ I'm [a-flyleaf](https://a-flyleaf.github.io/) and <i class="omo">Omori
 ## Stats, for fun.
 - <b>Foe Facts</b>: Someone who refuses to be associated with a visual personae. A little obsessive.
 - ~~Favorite character~~ <b>Character tierlist<!--this can be a link later--> in a nutshell</b>: Aubrey & Kel \>\> Sunny/Omori & Basil > Mari & Hero (sorry. damned by lack of strong feelings, not active dislike)
-- <b>Favorite scenes</b> in chronological order because ordering favorites is a struggle: entirety of the church conflict; ghost dance; Omori boss fight
+- <b>Favorite scenes</b>: "It Means Everything." scene (including talk before the fight) & Omori boss fight for the drama; ghost dance cutscene for the Top 10 Heartwarming Moments Before Certain Disaster
 - <b>Has played Hikikomori</b>: Not yet....
-- <b>Plays piano</b>: With the aptitude of someone who's gotten really good at paint-by-numbers but doesn't understand anatomy. But nonetheless, yes!
+- <b>Plays piano</b>: With the aptitude of someone who's gotten really good at paint-by-numbers but doesn't understand anatomy. Nonetheless, yes!
+- <b>Other RPGs played</b>: [<i class="omo">Off</i>](https://off.fandom.com/wiki/OFF_Wiki), [<i class="omo">Undertale</i>](https://undertale.com/) + [<i>deltarune</i>](https://deltarune.com/), and a handful of <i>Pokémon</i> installments
 - <b>Most likely to</b>:
-	- point at [<i style="text-transform:uppercase;">Off</i>](https://off.fandom.com/wiki/OFF_Wiki) references and go "That's an <i style="text-transform:uppercase;">Off</i> reference :D"
+	- point at <i style="text-transform:uppercase;">Off</i> references and go "That's an <i style="text-transform:uppercase;">Off</i> reference :D"
 	- froth at the mouth about any sort of visual and/or thematic parallel
 	- draw absolutely insane conclusions from breadcrumb similarities
 	- get pummeled into fetal position by Steel Folding Chairs™ of "that offhand comment wasn't *supposed* to bite back later---" liveblogging caliber
-- <b>Assorted childhood memories that hint vaguely at an age</b>: Watching VHS tapes. Sticking fingers in casette tapes to rewind them (and sometimes rendering them unplayable forever in the process!). "Playing on the computer" was kind of a big deal. Could have had a Tamagotchi phase, but mostly watched over cousins' shoulders in bewilderment.
+- <b>Assorted childhood memories that hint vaguely at an age</b>: Watching VHS tapes on a giant TV that made your hair stand up if you got close. Sticking fingers in casette tapes to rewind them (and sometimes rendering them unplayable forever in the process!). "Can I play on the computer?". Looking over cousins' shoulders in bewilderment as they played Tamagotchis. All in all, spending probably too much time at a screen, but nonetheless a hell of a lot less than whatever the kids and their smartphones are doing these days.
 - <b>Remembers dial-up</b>: No.
 - <b>Relates to "90s kid" memes</b>: It's a roulette....
+- <b>Was around for Geocities-type web design</b>: Absolutely not, but vaguely influenced by it in making this site anyway.
 - <b>Has had fucked-up dreams about teeth</b>: Inexplicably, on multiple occasions. They cronch.
 
 ## Thabks...
@@ -76,7 +78,8 @@ Scribbles and scrawlings. Feel free to use for whatever, just link back here som
 +would be neat to have an idea dump somewhere
 
 # FREUDIAN CONSPIRACY HELL (tissues)
-[scrawled-up jpeg diagram, then slap it on a pepe silvia meme]
+[scrawled-up jpeg diagram, then slap it on a pepe silvia meme]  
+...Something will be linked here someday, maybe.
 
 # other pages (hand-forks)
 - Black Space reference-table-thing, with the *actual filenames of the goddamn places* instead of fanon-assigned "area" names
