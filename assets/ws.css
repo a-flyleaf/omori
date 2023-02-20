@@ -1,0 +1,6 @@
+body{font-size:1.15em; line-height:1.25;}
+.wrap{padding:1em;}
+a{color:inherit;} a:hover,a:focus,a:active{color:red;}
+p{margin:1em 0;}
+::selection{background:#000; color:#fff;}
+footer{text-align:center; font-size:.85em; max-width:30em; margin:5em auto -1em; color:#808080;}

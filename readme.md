@@ -1,0 +1,1 @@
+Fansite for [OMORI](https://www.omori-game.com/en), spawned & maintained by [a-flyleaf](https://a-flyleaf.github.io/). No official assets have been used in the creation of this site.
