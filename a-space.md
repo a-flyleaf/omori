@@ -36,6 +36,7 @@ Hi there~ I'm [a-flyleaf](https://a-flyleaf.github.io/) and <i class="omo">Omori
 ...to my friend [?], with whom I had a hell of a Gaem Time.  
 ...and to you, random internet denizen, for clicking around and finding out.
 
+## Contact
 [Comments welcome](https://a-notebox.dreamwidth.org/2023/01/31/welcome.html?style=site)~
 
 # LINKS (lightbulb)

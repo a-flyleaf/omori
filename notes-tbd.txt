@@ -16,3 +16,7 @@ splash optional, homepage looks like white space (with doodles in place of sprit
 
 also naturally there can should and Must be bonus pages, which could be accessed through the door. *what* bonuses idek, maybe one’s a straight-up sitemap, but The Potential Is There. (would also be fun to make other little fansites like this for past interests (ena, ddlc) but that’s getting WAY too ahead of myself)
 edit: WAIT NO ok: Mewo in the footer (with the dialogue bonus, but mostly as a visual mark at the end of the page), keep this simple for now, and the door’s on the *splash* page (click to enter). bonus stuff can be hands.
+
+----
+
+[20:18] having actually coded part of the site, ohhhh: hand in the footer *as a return to the index*, which will be especially necessary on offshoots like the Black Space wall. (for the index itself, it links to the splash page!)
