@@ -4,5 +4,5 @@ css: ws
 ---
 <div class="wrap">
 	{{content}}
-	<footer>{%unless page.noback%}<a href="{%include url.html%}/{%if page.back%}{{page.back}}{%else%}a-space{%endif%}" id="back"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a>{%endunless%}<p>All code, text, and art by <a href="https://a-flyleaf.github.io/">a-flyleaf</a> unless otherwise stated. No official assets are used, but may have been referenced.</p><p><span class="omo">Omori © Omocat, LLC.</span></p></footer>
+	<footer>{%unless page.noback%}<a href="{%include url.html%}/{%if page.back%}{{page.back}}{%else%}a-space{%endif%}" id="back"{%if page.dark%} class="dark"{%endif%}><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a>{%endunless%}<p>All code, text, and art by <a href="https://a-flyleaf.github.io/">a-flyleaf</a> unless otherwise stated. No official assets are used, but may have been referenced.</p><p><span class="omo">Omori © Omocat, LLC.</span></p></footer>
 </div>
