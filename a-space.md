@@ -82,10 +82,12 @@ Scribbles and scrawlings. Feel free to use for whatever, just link back here som
 [scrawled-up jpeg diagram, then slap it on a pepe silvia meme]  
 ...Something will be linked here someday, maybe.
 
-# other pages (hand-forks)
+# other pages (Omori?)
 - Black Space reference-table-thing, with the *actual filenames of the goddamn places* instead of fanon-assigned "area" names
 - spriterip fileguide? mostly for me but would probably be useful to others
 
 # MEWO (Mewo)
 - Waiting for something to happen? \[details no summary, use the CSS open selector to change the gif]
+
+use hand-forks in footer as a back button; usually links here (the pseudo-index), but the one on this page specifically goes back to splash (the actual index)
 </main>

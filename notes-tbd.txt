@@ -1,22 +1,11 @@
 [2023-02-20 12:51]
-ok. hype of thetically. omori fansite, and make it look 90s. would look at home on neocities but use github anyway for ease of updates
-splash optional, homepage looks like white space (with doodles in place of sprites, as not to use official material)
-- LINKS (lightbulb?)
-— official: website, bandcamp, social media (both the game & devs)
-— fanmade resources: fandom wiki, goats.dev data dump, that one neocities site that mirrors the omoriboy posts
-— me: github site, dA
-— maybe?: fanart and/or fic recs that live in my head rent free (could be a separate page maybe, meta included; hell even a tumblr to dissuade link rot), that one site that lets you rip all the files (not directly omori-related But Like.)
-- BLOG (laptop)
-— “Today I thought about OMORI.” < that’s it that’s the header, but actual content is more like an update/changelog. changelog more than anything actually, not full blog posts
-- ART (sketchbook)
-— obligate shameless fanart dumping
-- Mewo & Omori are There; details? Mewo: “Waiting for something to happen?” and Omori just sits down (use the CSS open selector)
-- no hand-forks, those can be a design element maybe (lists might be too busy but maybe like, section headers or general Important indicators)
-- oh and the tissue box. idek, uh. credits?? eventually this could be a Batshit Freud Theory portal lmao
-
 also naturally there can should and Must be bonus pages, which could be accessed through the door. *what* bonuses idek, maybe one’s a straight-up sitemap, but The Potential Is There. (would also be fun to make other little fansites like this for past interests (ena, ddlc) but that’s getting WAY too ahead of myself)
-edit: WAIT NO ok: Mewo in the footer (with the dialogue bonus, but mostly as a visual mark at the end of the page), keep this simple for now, and the door’s on the *splash* page (click to enter). bonus stuff can be hands.
 
-----
+-----
 
-[20:18] having actually coded part of the site, ohhhh: hand in the footer *as a return to the index*, which will be especially necessary on offshoots like the Black Space wall. (for the index itself, it links to the splash page!)
+[2023-02-21, unholy hour of the morning]
+oh, oh, other potential pages:
+- asset rip folder guide (one plain, one with extra commentary drawing loosely from the txt note)
+- achievement guide (checklist with wiki links, plus a version for me as of current). notes which route (both, true, hikikomori) & the simplest version of how (story checkpoint, other). for ease of copying, a textarea with two versions—one with markdown formatting (so [ ] at the start of each & ###h3 headers), and one that’s basically identical but without the () and ###
+
+ALSO link the lparchive in fansources!! the player’s made some presentation decisions that I Do Not Like (giving “talksprites” to characters without, including spirit!Mari; inserting dialogue in the Omori fight which is *not* there in-game, without making clear this is their own insert; assorted punctuation nitpicks; and I’m fairly certain I’ve caught things they missed but don’t remember off the top of my head… maybe like, sprite movements in cutscenes?)—HOWEVER, it’s still a more or less faithful transcription from what I’ve seen, without *significant* commentary that might mess with impressions, so it’s a decent way to recheck conversation scripts. also unlike the data dump it’s in context, and unlike a video :sparkle:it’s skimmable:sparkle:
