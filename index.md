@@ -2,6 +2,7 @@
 layout: ws
 title: Welcome.
 css: "body{text-align:center;} .wrap{max-width:700px;} h1{font-size:2em; margin:1em 0 .5em;} span{display:inline-block;} #enter{margin-top:2em;} #enter a:hover,#enter a:focus,#enter a:active{opacity:.5;} #enter ::selection{background:#fff;}"
+noback: y
 ---
 <header><h1>Welcome.</h1></header>
 

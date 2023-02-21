@@ -1,6 +1,7 @@
 ---
 layout: ws
 title: A space.
+back: index.html
 ---
 <header>
 <h1>A space.</h1>
@@ -12,6 +13,11 @@ title: A space.
 
 # ABOUT (Omori? standing on the homepage, sitting on the actual page)
 Hi there~ I'm [a-flyleaf](https://a-flyleaf.github.io/) and <i class="omo">Omori</i> has taken over my life. I don't use social media these days but wanted to dump my unhinged scrawlings *somewhere,* and I *do* know how to code, so this site exists! There are no secrets in the HTML, but feel free to poke around.<!--You fucker. ;V ...But seriously, this is it. Any other code comments are notes-to-self that I probably forgot to delete.-->
+
+## Why is the back button at the bottom of every page so pointy?
+I spent like a third of the game thinking those squiggly little guys in White Space were forks and not hands. To commemorate my lunacy I've made them actual forks here.
+
+<img src="assets/img/fork.png" alt="A White Space hand, but with thin, long, pointed “fingers” like a fork." title="A White Space hand, but with thin, long, pointed “fingers” like a fork.">
 
 ## Stats, for fun.
 - <b>Foe Facts</b>: Someone who refuses to be associated with a visual personae. A little obsessive.
@@ -78,6 +84,7 @@ Not technically <span class="omo">Omori</span>-related, but if you own the game 
 	- full page: Black Space reference table
 - 2023-02-20: Today I thought about <i class="omo">Omori</i>. Continued working on site.
 	- full page: nothing here (404.html)
+	- art+code: back button
 - 2023-02-??: Today I thought about <i class="omo">Omori</i>. [Did something else.]
 
 # ART (sketchbook)
@@ -94,7 +101,7 @@ Scribbles and scrawlings. Feel free to use for whatever, just link back here som
 [scrawled-up jpeg diagram, then slap it on a pepe silvia meme]  
 "What does it mean? What does it all mean???"
 
-# other pages (Omori?)
+# other pages (Omori? ---no wait he's already the about uhh. hm. mini door?? yeah that makes more sense I think)
 - [Black Space.](black-space)
 - guide to ripping the sprites + what the folders actually are
 	- optional commentary for the latter (compiled from the txt note); either separate pages or use details
@@ -106,6 +113,4 @@ Scribbles and scrawlings. Feel free to use for whatever, just link back here som
 
 # MEWO (Mewo)
 - Waiting for something to happen? \[details no summary, use the CSS open selector to change the gif]
-
-use hand-forks in footer as a back button; usually links here (the pseudo-index), but the one on this page specifically goes back to splash (the actual index)
 </main>

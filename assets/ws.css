@@ -5,3 +5,4 @@ a{color:inherit;} a:hover,a:focus,a:active{color:red;}
 p{margin:1em 0;}
 .box{background:#000; color:#fff; font-family:sans-serif;} .box ::selection{color:#808080;}
 footer{text-align:center; font-size:.85em; max-width:30em; margin:5em auto -1em; color:#808080;}
+#back ::selection{background:0;} #back:hover,#back:focus,#back:active{opacity:.5;} footer p:first-of-type{margin-top:.75em;}
