@@ -1,0 +1,12 @@
+---
+layout: ws
+---
+<div class="wrap">
+	<!--feels like there needs to be something here, a back to either the a-space homepage or (for blog posts) a general sort of index, but I don't want to have all the buttons... hmm. about+links seem most generally-applicable
+	also an image of some sort, optional-->
+	<header class="box">
+		<h1>{{page.title}}</h1>{%if page.date%}
+		<div id="date">{{page.date}}</div>{%endif%}
+	</header>
+	<main class="box txt">{{content}}</main>
+</div>
