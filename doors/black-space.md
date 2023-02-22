@@ -1,6 +1,7 @@
 ---
 layout: ws
 title: Black Space, but with the areas titled as the game code intended.
+permalink: black-space
 css: "body{font-family:courier,monospace; background:#000; color:#fff; line-height:1.5;} ::selection{background:#000; color:red;} h1{font-size:1.5em; line-height:1.25; max-width:22.5em;} #desc{max-width:50em; font-size:.85em;} th{font-weight:normal; text-transform:uppercase;} td.omo a{text-decoration:none;} th:last-child{text-align:left;} th,td{padding:0 .5em;} td.omo{text-align:center;} .img a:focus,.img a:hover,.img a active{opacity:.5;} .img img{border:1px solid #404040;} td:last-child{padding:.5em;} @media only screen and (min-width:825px){td:last-child .nm{margin-top:-1em;}} ul{line-height:1.25;} small{font-size:.85em;} hr{max-width:50em; margin:1em 0;} @media only screen and (min-width:1000px){#melt{background:url(assets/img/bs-omori-static.png); height:448px; width:286px; position:fixed; bottom:-71px; left:950px;}"
 dark: y
 
