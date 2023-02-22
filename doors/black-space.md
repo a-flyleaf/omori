@@ -2,7 +2,7 @@
 layout: ws
 title: Black Space, but with the areas titled as the game code intended.
 permalink: black-space
-css: "body{font-family:courier,monospace; background:#000; color:#fff; line-height:1.5;} ::selection{background:#000; color:red;} h1{font-size:1.5em; line-height:1.25; max-width:22.5em;} #desc{max-width:50em; font-size:.85em;} th{font-weight:normal; text-transform:uppercase;} td.omo a{text-decoration:none;} th:last-child{text-align:left;} th,td{padding:0 .5em;} td.omo{text-align:center;} .img a:focus,.img a:hover,.img a active{opacity:.5;} .img img{border:1px solid #404040;} td:last-child{padding:.5em;} @media only screen and (min-width:825px){td:last-child .nm{margin-top:-1em;}} ul{line-height:1.25;} small{font-size:.85em;} hr{max-width:50em; margin:1em 0;} @media only screen and (min-width:1000px){#melt{background:url(assets/img/bs-omori-static.png); height:448px; width:286px; position:fixed; bottom:-71px; left:950px;}"
+css: "body{font-family:courier,monospace; background:#000; color:#fff; line-height:1.5;} ::selection{background:#000; color:red;} h1{font-size:1.5em; line-height:1.25; max-width:22.5em;} #desc{max-width:50em; font-size:.85em;} a{text-decoration-color:#808080;} th{font-weight:normal; text-transform:uppercase;} td.omo a{text-decoration:none;} th:last-child{text-align:left;} th,td{padding:0 .5em;} td.omo{text-align:center;} .img a:focus,.img a:hover,.img a active{opacity:.5;} .img img{border:1px solid #404040;} td:last-child{padding:.5em;} .bs-note{color:#dfdfdf; text-align:center; font-size:.75em; padding:0 !important;} .bs-note p{margin:0 .5em 1.5em;} @media only screen and (min-width:825px){td:last-child .nm{margin-top:-1em;}} ul{line-height:1.25;} hr{max-width:50em; margin:1em 0;} @media only screen and (min-width:1000px){#melt{background:url(assets/img/bs-omori-static.png); height:448px; width:286px; position:fixed; bottom:-71px; left:950px;}}"
 dark: y
 
 area:
@@ -70,6 +70,7 @@ area:
     bc: august-water
     yt: OGwi7G59Lfc
     ext: fEjvFprshik
+  note: \*No map available.
 - wiki: spider
   file: spider forest
   mapid: 459
@@ -135,6 +136,8 @@ area:
   file: time
   mapid: 511
   img: d/de/BED_AREA.png
+  note: >-
+    †There *is* a sound here (a clock ticking, an occasional ding) but it's not on the soundtrack.
 - wiki: reef
   file: incubation
   mapid: 506
@@ -166,7 +169,7 @@ Also wanted to put the thumbnails near the track links for faster reference than
 
 <hr>
 
-<table><thead><th>name</th><th>img</th><th>OST</th></thead>
+<table><thead><tr><th>name</th><th>img</th><th>OST</th></tr></thead>
 <tbody><tr>
 		<td class="omo"><b><a href="https://goats.dev/omori/map.html#264">blackspace entrance</a></b></td>
 		<td class="img"><a href="https://omori.fandom.com/wiki/BLACK_SPACE?file=BLACK_SPACE.png"><img src="https://static.wikia.nocookie.net/omori/images/c/c3/BLACK_SPACE.png" alt="blackspace entrance"></a></td>
@@ -182,15 +185,19 @@ Also wanted to put the thumbnails near the track links for faster reference than
 			<li><a href="https://omori.bandcamp.com/track/{%if ar.ost.bc%}{{ar.ost.bc}}{%else%}{{ar.ost.nm|downcase}}{%endif%}">Bandcamp</a></li>
 			<li><a href="https://piped.video/watch?v={{ar.ost.yt}}&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">YouTube (official)</a></li>
 			<li><a href="https://piped.garudalinux.org/watch?v={{ar.ost.ext}}&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">YouTube (extended)</a></li>
-		</ul>{%else%}[N/A]**{%endif%}</td>
-	</tr>{%endfor%}<tr>
-		<td class="omo"><b><a href="https://goats.dev/omori/map.html#455">snowy hill</a></b> →<br><b><a href="https://omori.fandom.com/wiki/CHURCH_OF_SOMETHING">church of something</a></b></td>
+		</ul>{%else%}[N/A]†{%endif%}</td>
+	</tr>{%if ar.note%}<tr colspan="3">
+		<td class="bs-note" colspan="3">{{ar.note|markdownify}}</td>
+	</tr>{%endif%}{%endfor%}<tr>
+		<td class="omo"><b><a href="https://goats.dev/omori/map.html#455">snowy hill</a></b> →<br><b><a href="https://goats.dev/omori/map.html#456">church of something</a></b>‡</td>
 		<td class="img"><a href="https://omori.fandom.com/wiki/CHURCH_OF_SOMETHING?file=CHURCH_OF_SOMETHING.png"><img src="https://static.wikia.nocookie.net/omori/images/1/11/CHURCH_OF_SOMETHING.png" alt="Church of Something"></a></td>
 		<td><div class="nm"><b>Orchard</b> → <b>Temple</b></div><ul>
 			<li>Bandcamp: <a href="https://omori.bandcamp.com/track/orchard">Orchard</a> & <a href="https://omori.bandcamp.com/track/temple">Temple</a></li>
 			<li>YouTube (official): <a href="https://piped.video/watch?v=g7lfPT4jNQQ&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">Orchard</a> & <a href="https://piped.video/watch?v=wiGmzLwTy5o&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">Temple</a></li>
 			<li>YouTube (extended): <a href="https://piped.garudalinux.org/watch?v=7fYiUa4nmVQ&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">Orchard</a> & <a href="https://piped.garudalinux.org/watch?v=6k2pFv2JRP8&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">Temple</a></li>
 		</ul></td>
+	</tr><tr colspan="3">
+		<td class="bs-note" colspan="3"><p>‡Has two maps; <a href="https://goats.dev/omori/map.html#457">the second</a> is longer.</p></td>
 	</tr><tr>
 		<td class="omo"><b><a href="https://goats.dev/omori/map.html#465">Red Space</a></b></td>
 		<td class="img"><a href="https://omori.fandom.com/wiki/RED_SPACE?file=RED_SPACE.png"><img src="https://static.wikia.nocookie.net/omori/images/f/f3/RED_SPACE.png" alt="Red Space"></a></td>
@@ -201,10 +208,6 @@ Also wanted to put the thumbnails near the track links for faster reference than
 		</ul></td>
 	</tr></tbody>
 </table>
-
-<p><small>*No map available.<br>
-**There <em>is</em> a sound here (a clock ticking, an occasional ding) but it’s not on the soundtrack.</small></p>
-
 <hr>
 </main>
 
