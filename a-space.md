@@ -15,19 +15,7 @@ ABOUT: Omori
 
 LINKS: lightbulb
 
-# BLOG (laptop)
-- 2023-02-20: Today I thought about <i class="omo">Omori</i>. Made this site.
-	- art: gifs for the homepage
-	- code: core layouts/site setup
-	- full page: splash (index.html)
-	- words: main content (full about & links, notes for other pages)
-	- full page: Black Space reference table
-- 2023-02-20: Today I thought about <i class="omo">Omori</i>. Continued working on site.
-	- full page: nothing here (404.html)
-	- art+code: back button
-	- code: text layout
-		- finished pages: About & Links
-- 2023-02-??: Today I thought about <i class="omo">Omori</i>. [Did something else.]
+CHANGELOG: laptop
 
 # ART (sketchbook)
 Scribbles and scrawlings. Feel free to use for whatever, just link back here somehow~
