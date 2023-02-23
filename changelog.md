@@ -17,17 +17,19 @@ log:
     done: |-
       - art: gifs for the homepage
       - code: core layouts/site setup
-      - full page: [splash (index.html)](/index.html)
+      - full page: [splash (index.html)](index.html)
       - words: main content (full about & links, notes for other pages)
-      - full page: [Black Space reference table](/black-space)
+      - full page: [Black Space reference table](black-space)
   - dt: 2023-02-21
     line: Continued working on site.
     done: |-
-      - full page: [nothing here (404.html)](/nothing)
+      - full page: [nothing here (404.html)](nothing)
       - art/code: back button
       - code: text layout
-        - finished pages: [About](/about) & [Links](/links)
+        - finished pages: [About](about) & [Links](links)
       - full page: Changelog (you are here)
+  - dt: 2023-02-22
+    line: Added… <a href='help'>whatever this is</a>.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

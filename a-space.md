@@ -27,9 +27,7 @@ Scribbles and scrawlings. Feel free to use for whatever, just link back here som
 
 +would be neat to have an idea dump somewhere
 
-# FREUDIAN CONSPIRACY HELL (tissues)
-[scrawled-up jpeg diagram, then slap it on a pepe silvia meme]  
-"What does it mean? What does it all mean???"
+GIRL HELP: tissues
 
 # other pages (mini door, draw a new one)
 - [Black Space.](black-space)
