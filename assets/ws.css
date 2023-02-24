@@ -25,6 +25,8 @@ header.box,main.box{max-width:50em;}
 .dc-info{font-size:.85em; margin:1.5em 0 -1em;} .dc-info:first-of-type{margin-top:.75em;} .dc-info b{font-weight:normal; color:#f3f4f5;} .time{color:#82858f; font-size:.75em; margin-left:1em;}
 .box ul{margin:1em 0 1em 1em;} .box li>ul{margin:0 0 .5em 1em;} .para li{margin:.5em 0;}
 
+#roco a:hover,#roco a:active,#roco a:focus{opacity:.5;}
+
 footer{text-align:center; font-size:.85em; max-width:30em; margin:5em auto -1em; color:#808080;}
 #back ::selection{background:0;} #back:hover,#back:focus,#back:active,.dark{opacity:.5;} .dark:hover,.dark:focus,.dark:active{opacity:1 !important;}
 footer p:first-of-type{margin-top:.75em;}

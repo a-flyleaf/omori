@@ -1,2 +1,11 @@
 name: "???"
 permalink: /blog/:slug
+collections:
+    art:
+        output: true
+defaults:
+  - scope:
+      path: "_art"
+    values:
+      layout: ws-art
+      permalink: /art/:slug
