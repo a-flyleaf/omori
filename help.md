@@ -11,9 +11,10 @@ css: "body{background:url(assets/img/bg-help.png) center repeat; background-atta
 - "[thoughts, feelings, and desires may find expression in the environment, in the medium of the story itself, and in the form of other characters](https://archiveofourown.org/works/20481008)"
 - thesis of [<i>How to Read Literature Like a Professor</i>](https://archive.org/details/how-to-read-literature-like-a-professor-1st): the ~~curtains~~ stairs are never "just" blue
 - general idea of subconscious depths, some thoughts more forbidden than others
+- "[It is likely that this early version of Mari [from 2014] was named <b>Mary</b> [...] names of the Something variants such as Dorothi originally [ended] in a 'y'.](https://omori.fandom.com/wiki/MARI#TRIVIA)"
 - "[Of course, beheading has always symbolised the exercise of absolute power.](https://www.bbc.com/culture/article/20161118-the-horror-of-the-headless-horseman)"
 - L
 - ratio
 - You are going to be haunted by this game for a very long time.
 </div>
-</main>
+</main><!--+Rococo/artist girl/Angel should also go here actually... don't feel like editing the chart rn tho-->

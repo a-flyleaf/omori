@@ -11,7 +11,7 @@ css: ".gif:hover,.gif:focus,.gif:active{background-image:url(/assets/img/ws-omor
 Hi there~ I'm [a-flyleaf](https://a-flyleaf.github.io/) and <i class="omo">Omori</i> has taken over my life. I don't use social media these days but wanted to dump my unhinged scrawlings *somewhere*, and since I know how to code, this site exists! There are no secrets in the HTML, but feel free to poke around.<!--You fucker. ;V ...But seriously, this is it. Any other code comments are notes-to-self that I probably forgot to delete.-->
 
 ## Why is the back button at the bottom of every page so pointy?
-I spent like a third of the game thinking those squiggly little guys in White Space were forks and not hands. To commemorate my lunacy I've made them actual forks here.
+I spent over half the game thinking those squiggly little guys in White Space were forks and not hands. To commemorate my lunacy I've made them actual forks here.
 
 <div id="fork"><img src="{%include url.html%}/assets/img/fork.png" alt="A White Space hand, but with thin, long, pointed “fingers” like a fork." title="A White Space hand, but with thin, long, pointed “fingers” like a fork."></div>
 
