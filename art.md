@@ -7,6 +7,7 @@ img:
   link: a-space
 css: ".gif:hover,.gif:focus,.gif:active{background-image:url(../assets/img/ws-sketchbook.gif);}"
 ---
+<!--ditch the text layout entirely, make it look like a wall? specifically Rococo's, or at least use a paper texture... apply that to the art page too (maybe move the .box to the base css?)-->
 Scribbles and scrawlings. Feel free to use for whatever, just link back here somehow~
 
 <section id="roco">{%for art in site.art%}<a href="{%include url.html%}/art/{{art.slug}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}_128.png" alt="{{art.title}}"></a>{%endfor%}</section>

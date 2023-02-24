@@ -2,15 +2,15 @@
 layout: ws
 gifcss: ".gif:hover,.gif:focus,.gif:active{background-image:url(../../assets/img/ws-sketchbook.gif);}"
 ---
-<main><figure>
-	<img src="">
-	<figcaption>
-		<header class="box"><h1>“{{page.title}}”</h1> – {{page.date|date:"%F"}}</header>
-		<section class="box" id="desc"><h2>image description</h2>{{page.desc|markdownify}}</section>
-		<section class="box" id="comment"><h2 class="omo">Artist Commentary</h2>{{content}}</section>
+<main id="art"><figure>
+	<img src="{%include url.html%}/assets/img/art/{{page.date|date:'%F'}}.png" id="a-img" alt="{{page.title}}">
+	<figcaption class="artwrap">
+		<section id="artdesc"><h2 class="x">image description</h2>{{page.desc|markdownify}}</section>
+		<header class="box"><h1>“<b>{{page.title}}</b>”</h1><div id="a-date">&nbsp;– {{page.date|date:"%F"}}</div></header>
+		<section class="box" id="comment"><h2 class="x">Artist Commentary</h2>{{content}}</section>
 	</figcaption>
 </figure></main>
-<nav class="box">
+<nav class="artwrap">
 	<div class="gif"><a href="{%include url.html%}/art"><img src="{%include url.html%}/assets/img/ws-sketchbook.png" alt="A sketchbook. (back to art index)" title="A sketchbook. (back to art index)"></a></div>
 	<section id="roco">{%for art in site.art%}<a href="{%include url.html%}/art/{{art.slug}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}_128.png" alt="{{art.title}}"></a>{%endfor%}</section>
 </nav>
