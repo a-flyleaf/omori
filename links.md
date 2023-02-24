@@ -5,7 +5,7 @@ img:
   url: ws-lightbulb
   alt: A lightbulb. (back to homepage)
   link: a-space
-css: "#pg-img{margin-top:-1.5em;} .gif:hover,.gif:focus,.gif:active{background-image:url(/assets/img/ws-lightbulb.gif);} .box p{margin:.5em 0} .box ul{margin:.5em 0 .5em 1em;} .box li>ul{margin-bottom:0;} main.box{padding-bottom:1em;} .para li>ul>li{font-size:.85em; margin-top:0; line-height:1.65;}"
+css: "#pg-img{margin-top:-1.5em;} .gif:hover,.gif:focus,.gif:active{background-image:url(../assets/img/ws-lightbulb.gif);} .box p{margin:.5em 0} .box ul{margin:.5em 0 .5em 1em;} .box li>ul{margin-bottom:0;} main.box{padding-bottom:1em;} .para li>ul>li{font-size:.85em; margin-top:0; line-height:1.65;}"
 ---
 ## Official Sources
 Not comprehensive.
