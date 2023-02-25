@@ -18,9 +18,11 @@ single photo (no caption): https://lparchive.org/Omori/Update%2002/47-omoriup2_0
 		<div class="box title"><h1>{{page.title}}</h1></div>
 		<div class="box"><p>Scribbles and scrawlings. Feel free to use for whatever, just link back here~</p></div>
 	</div></header>
-	
-	<!--128x128 thumbnails--that exact size, or proportionate & downscaled (128, 256, 384...)-->
+	<!--
+	https://stackoverflow.com/questions/8771178/putting-a-inset-box-shadow-on-an-image-or-image-within-a-div/36534181#36534181
+	_128: that exact size, or proportionate & downscaled (128, 256, 384...)
+	_64: 128 down to 32, then back--adds a bit of pixelation but shouldn't look censored
+	-->
 	<section id="roco">{%for art in site.art%}<a href="{%include url.html%}/art/{{art.slug}}"><div><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}_128.png" alt="{{art.title}}"></div></a>{%endfor%}
 	</section>
-	<!--https://stackoverflow.com/questions/8771178/putting-a-inset-box-shadow-on-an-image-or-image-within-a-div/36534181#36534181-->
 </main>

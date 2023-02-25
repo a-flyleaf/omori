@@ -1,15 +1,26 @@
-body{background:#808080 url(../assets/img/bg-art2.png);}
+body{background:#808080 url(../assets/img/bg-art2.png); text-align:center;} ::selection{background:#000; color:#808080;}
+.wrap{margin:1em;}
+.artwrap{max-width:35em; margin:0 auto; text-align:left;}
+.sb:hover,.sb:active,.sb:focus,#roco a:hover,#roco a:active,#roco a:focus,#back:hover,#back:active,#back:focus{opacity:.5;}
 
-#a-back{text-align:center; margin:1em;}
+#topback{margin:1em 0;}
 
-#roco a:hover,#roco a:active,#roco a:focus{opacity:.5;}
+header,h1,#a-date{display:inline-block;}
+header div{font-size:1.25em;} header.box{padding:.25em 1em;} h1{font-weight:normal; margin-left:-.25em;} #a-date{color:#bfbfbf;}
 
+#a-img{border:1em solid #efefef; background:#efefef; box-shadow:0 0 1em .5em #000; box-shadow:0 0 1em .5em rgba(0,0,0,.35); display:inline-block;} #a-img img{pointer-events:none; margin-bottom:1em;} #a-img ::selection{background:#fff;}
+figcaption{background:url(../assets/img/bg-paper.png); box-shadow:0 0 .25em .15em #dfdfdf; padding:.15em 1em;} figcaption p{margin:1em 0;}
 
-/*
-#a-img{display:block; margin:0 auto;}
-.artwrap{max-width:35em; margin:0 auto;}
-#artdesc{font-family:sans-serif; padding:0 1.25em; margin-bottom:1.5em;} #artdesc p{font-size:.75em;}
-#art h1,#art #a-date{display:inline-block;} #art h1{font-size:inherit; margin-left:-.25em;} #a-date{color:#bfbfbf;}
-#comment{padding-top:.5em;} #comment p{font-size:.85em;} #comment .da{margin-top:-.25em;} #comment .da p,#comment .da ul{font-size:.75em;}
-nav.artwrap{margin-top:2em;}
-*/
+#a-info{margin:1em auto 2em;}
+header{margin-bottom:.75em;}
+section.box{padding:0 1em;} section p{margin:.75em 0;} section a{color:inherit; text-decoration-color:#808080; text-decoration-thickness:.1em;} section a:focus,section a:hover,section a:active{color:#bfbfbf; text-decoration-color:#404040;}
+.da{font-family:verdana; font-size:.85em; line-height:1.65; background:#22272b; color:#eaeaea; border-radius:.25em; padding:1px 1em; margin:-.5em 0 1em;} .da ::selection{background:#00c787; color:#0e0d20;}
+
+#roco{background:#000; border:4px solid #fff; line-height:0; padding:8px; max-width:532px; margin:0 auto;}
+#roco a{border:2px solid #000; display:inline-block; box-shadow:0 0 0 2px #fff; margin:8px;}
+@media only screen and (min-width:660px){
+	nav{overflow:auto; max-width:600px; margin:3em auto 0;} .col{float:left;} #roco{margin-left:16px;} nav .sb{margin-top:20px; display:inline-block;}
+	/*there shouldn't be too many rows here but I'll worry about that later, if it becomes necessary at all...*/
+}
+
+footer{margin-top:2em; padding-bottom:.5em;}

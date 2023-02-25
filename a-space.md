@@ -9,25 +9,19 @@ back: index.html
 </header>
 
 <main markdown="1">
-[separate pages & images TBA, just want the content down for now]
-
 ABOUT: Omori
 
 LINKS: lightbulb
 
 CHANGELOG: laptop
 
-# ART (sketchbook)
-Scribbles and scrawlings. Feel free to use for whatever, just link back here somehow~
+ART: sketchbook
+- layouts should be good, just need to add & format the actual content
+- 6 rows max on individual art pages? or scrap the whole thing & use next/prev hand arrows
+- figure out what to do with the footer... include maybe? won't want the full text on bonus pages but the hand is always nice to have, at *least* have the #back css in base file
+- probably don't Always need multiple file sizes for the art, but have an optional variable in the page anyway because Some pieces (roundup + omori alters) are Fuckign Huge
 
-- January roundup
-- Omori boss fight redraw (combined + variants)
-- Basil birthday
-- February roundup is inevitable at this point
-
-+would be neat to have an idea dump somewhere
-
-GIRL HELP: tissues
+HELP?: tissues
 
 # other pages (mini door, draw a new one)
 - [Black Space.](black-space)

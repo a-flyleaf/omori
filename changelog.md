@@ -30,6 +30,11 @@ log:
       - full page: Changelog (you are here)
   - dt: 2023-02-22
     line: Added… <a href='help'>whatever this is</a>.
+  - dt: 2023-02-24
+    line: Continued working on site.
+    done: |-
+      - code: art layouts
+      - full page: [art index](art)
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
