@@ -1,0 +1,15 @@
+body{background:#808080 url(../assets/img/bg-art2.png);}
+
+#a-back{text-align:center; margin:1em;}
+
+#roco a:hover,#roco a:active,#roco a:focus{opacity:.5;}
+
+
+/*
+#a-img{display:block; margin:0 auto;}
+.artwrap{max-width:35em; margin:0 auto;}
+#artdesc{font-family:sans-serif; padding:0 1.25em; margin-bottom:1.5em;} #artdesc p{font-size:.75em;}
+#art h1,#art #a-date{display:inline-block;} #art h1{font-size:inherit; margin-left:-.25em;} #a-date{color:#bfbfbf;}
+#comment{padding-top:.5em;} #comment p{font-size:.85em;} #comment .da{margin-top:-.25em;} #comment .da p,#comment .da ul{font-size:.75em;}
+nav.artwrap{margin-top:2em;}
+*/

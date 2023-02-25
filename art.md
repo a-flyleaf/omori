@@ -1,22 +1,26 @@
 ---
-layout: ws-text
+layout: ws
 title: Artwork.
 img:
   url: ws-sketchbook
   alt: A sketchbook. (back to homepage)
   link: a-space
-css: ".gif:hover,.gif:focus,.gif:active{background-image:url(../assets/img/ws-sketchbook.gif);}"
+css: "body{background:#808080 url(../assets/img/bg-art2.png); text-align:center;} .gif:hover,.gif:focus,.gif:active{background-image:url(../assets/img/ws-sketchbook.gif);} .box{margin:.35em 0;} .title{display:inline-block; padding:.75em 1.5em; font-size:initial;} @media only screen and (min-width:600px){header{overflow:auto;} .col{float:left; width:50%;} .img{text-align:right; padding-right:1em;} .a-info{text-align:left; margin-top:2em; max-width:20em;}} #roco{box-shadow:0 0 0 .15em #000; background:url(../assets/img/bg-paper.png); padding:10px; margin-top:2em; max-width:1030px; margin:0 auto;} #roco a{display:inline-block; line-height:0; border:10px #efefef solid; box-shadow:0 0 3px 2px #000; box-shadow:0 0 3px 2px rgba(0,0,0,.15); margin:10px;} #roco a:hover,#roco a:active,#roco a:focus{opacity:.5;} #roco div{position:relative;} #roco div::after{box-shadow:inset 0 0 12px 3px #000; content:''; display:block; position:absolute; height:100%; left:0; right:0; top:0; opacity:.25;} footer{background:#000; padding:1em; font-family:monospace; color:#bfbfbf;} footer p:last-child{margin-bottom:0;}"
 ---
-<!--ditch the text layout entirely, make it look like a wall? specifically Rococo's, or at least use a paper texture... apply that to the art page too (maybe move the .box to the base css?)-->
-Scribbles and scrawlings. Feel free to use for whatever, just link back here somehow~
-
-<section id="roco">{%for art in site.art%}<a href="{%include url.html%}/art/{{art.slug}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}_128.png" alt="{{art.title}}"></a>{%endfor%}</section>
-
-<!--128x128 thumbnails--that exact size, or proportionate & downscaled (128, 256, 384...)
-
-# "Name" - [date]
-## image description (visible but small; long transcriptions (e.g. roundup scrawling) in details)
-## ARTIST COMMENTARY
-[blablabla]
-(we're just straight-up not gonna bother with dA links this time. maybe?? idk dA sucks, but it wouldn't /hurt/ to have it in the code just for ref)
--->
+<!--might ditch the layout here but For Now.
+--WAIT WAIT WAIT NO. NONONO WAIT MAKE IT LOOK LIKE THE PHOTO ALBUM!! the white border around the art pictures is gonna look photo-y regardless, lean into that....
+full album: https://piped.garudalinux.org/watch?v=zkwDfwsIE3w
+single photo (no caption): https://lparchive.org/Omori/Update%2002/47-omoriup2_0021.png-->
+<main>
+	<header><div class="col img">
+		<div class="gif"><a href="{%include url.html%}/a-space"><img src="{%include url.html%}/assets/img/ws-sketchbook.png" alt="A sketchbook. (back to homepage)" title="A sketchbook. (back to homepage)"></a></div>
+	</div><div class="col a-info">
+		<div class="box title"><h1>{{page.title}}</h1></div>
+		<div class="box"><p>Scribbles and scrawlings. Feel free to use for whatever, just link back here~</p></div>
+	</div></header>
+	
+	<!--128x128 thumbnails--that exact size, or proportionate & downscaled (128, 256, 384...)-->
+	<section id="roco">{%for art in site.art%}<a href="{%include url.html%}/art/{{art.slug}}"><div><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}_128.png" alt="{{art.title}}"></div></a>{%endfor%}
+	</section>
+	<!--https://stackoverflow.com/questions/8771178/putting-a-inset-box-shadow-on-an-image-or-image-within-a-div/36534181#36534181-->
+</main>

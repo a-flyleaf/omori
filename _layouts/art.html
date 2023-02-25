@@ -1,7 +1,9 @@
 ---
-layout: ws
+layout: base
+css: art
 gifcss: ".gif:hover,.gif:focus,.gif:active{background-image:url(../../assets/img/ws-sketchbook.gif);}"
 ---
+<div id="a-back"><div class="gif"><a href="{%include url.html%}/art"><img src="{%include url.html%}/assets/img/ws-sketchbook.png" alt="A sketchbook. (back to art index)" title="A sketchbook. (back to art index)"></a></div></div>
 <main id="art"><figure>
 	<img src="{%include url.html%}/assets/img/art/{{page.date|date:'%F'}}.png" id="a-img" alt="{{page.title}}">
 	<figcaption class="artwrap">
