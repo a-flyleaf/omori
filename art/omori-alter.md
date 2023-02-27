@@ -8,4 +8,4 @@ css: "body{text-align:center; background:#000; margin-top:100px; color:#fff;} ::
 	<div><a href="{%include url.html%}/assets/img/art/2023-02-06.png" target="_blank" id="oa"><img src="{%include url.html%}/assets/img/art/2023-02-06.png" alt="Redraw of the first stage of the Omori boss fight. Then third. “You loved her.” Sixth. “And you killed her.”"></a></div>
 	<div><a href="https://omori.bandcamp.com/track/omori-alter" id="oa2" class="oa-txt"><img src="{%include url.html%}/assets/img/oa-jd2a.png" alt="You should just die."></a></div>
 </main>
-<footer><a href="omori" id="back"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a></footer>
+<footer><a href="omori#altdesc" id="back"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a></footer>
