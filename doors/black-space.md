@@ -211,4 +211,4 @@ Also wanted to put the thumbnails near the track links for faster reference than
 <hr>
 </main>
 
-<!--link to art--><div id="melt"></div>
+<div><a href="art/static"><div id="melt"></div></a></div><!--this has to go in a div or the markdown will shoehorn it into a paragraph-->
