@@ -35,6 +35,12 @@ log:
     done: |-
       - code: art layouts
       - full page: [art index](art)
+  - dt: 2023-02-25
+    line: Drew a thing (TBA).
+  - dt: 2023-02-27
+    line: Continued working on site.
+    done: |-
+      - code: finished art layouts
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
