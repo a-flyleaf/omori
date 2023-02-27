@@ -41,7 +41,8 @@ log:
     line: Continued working on site.
     done: |-
       - code: finished art layouts
-      - full page: [<span class="omo">Omori alter</span>](art/omori-alter)
+      - words: art pages up to present
+        - full page: [art: <span class="omo">Omori alter</span>](art/omori-alter)
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
