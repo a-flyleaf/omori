@@ -10,7 +10,8 @@ header div{font-size:1.25em;} header.box{padding:.25em 1em;} h1{font-weight:norm
 
 #aimg{display:block; margin-bottom:1em;}
 #a-img{border:1em solid #efefef; background:#efefef; box-shadow:0 0 1em .5em #000; box-shadow:0 0 1em .5em rgba(0,0,0,.35); display:inline-block;} #a-img img{pointer-events:none;} #a-img ::selection{background:#fff;}
-figcaption{background:url(../assets/img/bg-paper.png); box-shadow:0 0 .25em .15em #dfdfdf; padding:.15em 1em;} figcaption p,summary{margin:1em 0;}
+figcaption{background:url(../assets/img/bg-paper.png); box-shadow:0 0 .25em .15em #dfdfdf; padding:.15em 1em; line-height:1.25;} figcaption p,summary{margin:1em 0;}
+figcaption a{color:inherit; text-decoration-color:#bfbfbf;} figcaption a:hover,figcaption a:focus,figcaption a:active{color:#808080;}
 summary:hover,summary:focus,summary:active{color:#808080;}
 ul,ol{margin:1em 0 1em 1em;} li>ul,li>ol{margin:0 0 0 1em;}
 
