@@ -2,43 +2,25 @@
 layout: ws
 title: A space.
 back: index.html
+css: "#load{position:absolute; height:1px; width:1px; font-size:0; opacity:0;} #abt:hover,#abt:focus,#abt:active{background:url(assets/img/ws-omori.gif);} #lnk:hover,#lnk:focus,#lnk:active{background:url(assets/img/ws-lightbulb.gif);} #clg:hover,#clg:focus,#clg:active{background:url(assets/img/ws-laptop.gif);} #art:hover,#art:focus,#art:active{background:url(assets/img/ws-sketchbook.gif);} #hlp:hover,#hlp:focus,#hlp:active{background:url(assets/img/ws-tissues.gif);} summary:hover #mwo,summary:focus #mwo,summary:active #mwo,details[open] summary{background:url(assets/img/ws-mewo.gif) no-repeat;} details[open] summary img{opacity:0;} details>summary{list-style:none;} details>summary::marker,details>summary::-webkit-details-marker{display:none;} summary,details .box{display:inline-block;}"
 ---
+<div id="load">(upfront background-gif-loader)<img src="{%include url.html%}/assets/img/ws-omori.gif" alt=""><img src="{%include url.html%}/assets/img/ws-lightbulb.gif" alt=""><img src="{%include url.html%}/assets/img/ws-laptop.gif" alt=""><img src="{%include url.html%}/assets/img/ws-sketchbook.gif" alt=""><img src="{%include url.html%}/assets/img/ws-tissues.gif" alt=""><img src="{%include url.html%}/assets/img/ws-mewo.gif" alt=""></div>
+
 <header>
-<h1>A space.</h1>
-<p>a-space, if you will</p>
+<h1 class="box">A space.</h1>
+<div class="box"><p>a-space, if you will.</p></div>
 </header>
 
 <main markdown="1">
-ABOUT: Omori
+<div class="gif" id="abt"><a href="{%include url.html%}/about"><img src="{%include url.html%}/assets/img/ws-omori.png" alt="Omori. (link to About page)" title="Omori. (link to About page)"></a></div>
 
-LINKS: lightbulb
+<div class="gif" id="lnk"><a href="{%include url.html%}/links"><img src="{%include url.html%}/assets/img/ws-lightbulb.png" alt="A lightbulb. (link to Links page)" title="A lightbulb. (link to Links page)"></a></div>
 
-CHANGELOG: laptop
+<div class="gif" id="clg"><a href="{%include url.html%}/changelog"><img src="{%include url.html%}/assets/img/ws-laptop.png" alt="A laptop. (link to Changelog page)" title="A laptop. (link to Changelog page)"></a></div>
 
-ART: sketchbook
+<div class="gif" id="art"><a href="{%include url.html%}/art"><img src="{%include url.html%}/assets/img/ws-sketchbook.png" alt="A sketchook. (link to Art page)" title="A sketchbook. (link to Art page)"></a></div>
 
-HELP?: tissues
+<div class="gif" id="hlp"><a href="{%include url.html%}/help"><img src="{%include url.html%}/assets/img/ws-tissues.png" alt="A tissue box. (link to ???)" title="A tissue box. (link to ???)"></a></div>
 
-# other pages (mini door, draw a new one)
-- [Black Space.](black-space)
-	- i. somehow did not not notice bandcamp has an embed functionality. yooooo (can be used on the CD page (see below) too)
-- guide to ripping the sprites + what the folders actually are
-	- optional commentary for the latter (compiled from the txt note); either separate pages or use details
-	- you can get music too btw
-- achievement checklist, noting which route (both, true, hikikomori) & simplest how-to (story checkpoint, do xyz)
-	- version for me, as of first playthrough
-	- for ease of copying, two versions in a textarea: one with markdown formatting (checklist via ``[ ]``, ``###`` h3 headers) and one that's basically idetical but not markdown-specific
-- CDs!! they're not in the official OST. could be extended to other not-OST track videos, like slowed versions in Black Space 2?
-	- bonus points for an HTML table that kinda mirrors the Black Space refthing, aligned right and everything
-- what's a 90s-style indie site without random one-off pages. like, you type in "[url]/kel" and get a SLAM DUNK gif or something. the omori page can be a hub for all this
-	- "a-flyleaf.github.io/omori/omori"... mewo (mewo). omori (omori). vri
-- [Heardle](https://omori-heardle-2-5.glitch.me/), because I keep doing it
-- the art/omori-alter page isn't Much but maaaaybe it can be linked from the hub here? or maybe only do that if I end up having multiple art-offshoot pages
-- ``/headspace-faraway``. Just a standalone doodle for now.
-
-# MEWO (Mewo)
-- Waiting for something to happen? \[details no summary, use the CSS open selector to change the gif]
-- maybe link the idea dump? "something" should definitely be clickable as a bonus, maaaaybe the question mark too but idk where to
-
-(we've saving the homepage for last apparently)
+<details><summary><div class="gif" id="mwo"><img src="{%include url.html%}/assets/img/ws-mewo.png" alt="A cat." title="A cat."></div></summary><div class="box"><p>Waiting for something to happen?</p></div></details><!-- https://stackoverflow.com/questions/61292792/css-selector-for-details-element-when-opened + https://stackoverflow.com/questions/6195329/how-can-you-hide-the-arrow-that-is-displayed-by-default-on-the-html5-details-e/66814239#66814239 -->
 </main>
