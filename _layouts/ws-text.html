@@ -1,7 +1,7 @@
 ---
 layout: ws
 ---
-<div class="wrap">{%if page.img%}
+<div class="wrap">{%if page.img%}<div style="position:absolute; height:1px; width:1px; font-size:0; opacity:0;"><img src="{%include url.html%}/assets/img/{{page.img.url}}.gif" alt=""></div>
 	<div id="pg-img"><div class="gif">{%if page.img.link%}<a href="{%include url.html%}/{{page.img.link}}">{%endif%}<img src="{%include url.html%}/assets/img/{{page.img.url}}.png" alt="{{page.img.alt}}" title="{%if page.img.title%}{{page.img.title}}{%else%}{{page.img.alt}}{%endif%}">{%if page.img.link%}</a>{%endif%}</div></div>{%endif%}
 	<header class="box">
 		<h1>{{page.title}}</h1>{%if page.date%}
