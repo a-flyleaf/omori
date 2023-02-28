@@ -43,6 +43,10 @@ log:
       - code: finished art layouts
       - words: art pages up to present
         - full page: [art: <span class="omo">Omori alter</span>](art/omori-alter)
+  - dt: 2023-02-28
+    line: Cleaned up site for launch.
+    done: |-
+      - full page: [the actual index](a-space)
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
