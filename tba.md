@@ -1,7 +1,15 @@
 ---
 layout: blank
 ---
-## other pages (mini door, draw a new one)
+# TBA
+o heck you found my note-to-self "things to be added eventually" page. nice
+
+## main content
+- the actual... liveblog-revisitening... that the site was made to house....
+- and allllll the other notes I've hoarded along the way. somehow
+
+## other pages
+linked on the index via mini door, draw a new one
 - [Black Space.](black-space)
 	- i. somehow did not not notice bandcamp has an embed functionality. yooooo (can be used on the CD page (see below) too)
 - guide to ripping the sprites + what the folders actually are
@@ -18,8 +26,6 @@ layout: blank
 - the art/omori-alter page isn't Much but maaaaybe it can be linked from the hub here? or maybe only do that if I end up having multiple art-offshoot pages
 - ``/headspace-faraway``. Just a standalone doodle for now.
 
-## MEWO (Mewo)
-- Waiting for something to happen? \[details no summary, use the CSS open selector to change the gif]
-- maybe link the idea dump? "something" should definitely be clickable as a bonus, maaaaybe the question mark too but idk where to
+----
 
-(we've saving the homepage for last apparently)
+<a href="a-space"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a>

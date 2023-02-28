@@ -29,14 +29,14 @@ log:
         - finished pages: [About](about) & [Links](links)
       - full page: Changelog (you are here)
   - dt: 2023-02-22
-    line: Added… <a href='help'>whatever this is</a>.
+    line: Added… <a href="help">whatever this is</a>.
   - dt: 2023-02-24
     line: Continued working on site.
     done: |-
       - code: art layouts
       - full page: [art index](art)
   - dt: 2023-02-25
-    line: Drew a thing (TBA).
+    line: <a href="art/friend-fight">Drew a thing</a>.
   - dt: 2023-02-27
     line: Continued working on site.
     done: |-
