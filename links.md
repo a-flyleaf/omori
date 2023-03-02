@@ -34,5 +34,7 @@ Manually-created mirror of the blog posts that started it all. The original blog
 At the time of writing this is neither comprehensive nor well-organized, with [the Switch sprites being a separate page entirely](https://www.spriters-resource.com/nintendo_switch/omori/). But in a pinch, it loads a lot faster than the Fandom pages.
 - <b>[RPG-Maker Restore-Images](https://petschko.org/tools/mv_decrypter/)</b>  
 Not technically <span class="omo">Omori</span>-related, but if you own the game on Steam, you can use this to rip the sprite sheets yourself ;V (Requires familiarity with your Program Files to find the dang things. Might make a page/folder guide about this later....)
-	- music also! have yet to do this myself though, will probably do that alongside the aforementioned page(s)
+	- music also! have yet to do this myself though, stay tuned....
+- <b>[OST Heardle](https://omori-heardle-2-5.glitch.me/)</b>  
+Not technically a *resource,* I Just Think [It's Fun](heardle)
 </div>

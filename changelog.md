@@ -51,7 +51,11 @@ log:
   - dt: 2023-03-01
     line: <a href="art/mar1">Drew a thing</a>.
   - dt: 2023-03-02
-    line: Fixed some minor things.
+    line: Did some stuff.
+    done: |-
+      - misc: assorted minor fixes
+      - misc: image folder reorganization (img/misc)
+      - new page: [Heardle](heardle)
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
