@@ -5,7 +5,7 @@ layout: ws
 	<div id="pg-img"><div class="gif">{%if page.img.link%}<a href="{%include url.html%}/{{page.img.link}}">{%endif%}<img src="{%include url.html%}/assets/img/{{page.img.url}}.png" alt="{{page.img.alt}}" title="{%if page.img.title%}{{page.img.title}}{%else%}{{page.img.alt}}{%endif%}">{%if page.img.link%}</a>{%endif%}</div></div>{%endif%}
 	<header class="box">
 		<h1>{{page.title}}</h1>{%if page.date%}
-		<div id="date">{{page.date}}</div>{%endif%}
+		<div id="date">{{page.date|date:"%B %-d, %Y"}}</div>{%endif%}
 	</header>
 	<main class="box txt">{{content}}</main>
 </div>

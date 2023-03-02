@@ -45,4 +45,5 @@ heardle:
 
 Heardle is a fun little thing, and [the <span class="omo">Omori</span> version](https://omori-heardle-2-5.glitch.me/) is good for showing off just how familiar you are with the OST. It was also clogging my notes so /dumps it unceremoniously here
 
-<ul>{%for note in page.heardle reverse%}<li><span>{{note.date|date:"%b.%d"}}</span> #{{note.num}} <span>{{note.rec}}</span>: <span><a href="https://omori.bandcamp.com/track/{%if note.bc%}{{note.bc}}{%else%}{{note.ost|downcase}}{%endif%}">{{note.ost}}</a></span>{%if note.note%} ({{note.note}}){%endif%}</li>{%endfor%}</ul>
+{%assign notes = page.heardle | reverse%}
+<ul>{%for note in notes%}<li><span>{{note.date|date:"%b.%d"}}</span> #{{note.num}} <span>{{note.rec}}</span>: <span><a href="https://omori.bandcamp.com/track/{%if note.bc%}{{note.bc}}{%else%}{{note.ost|downcase}}{%endif%}">{{note.ost}}</a></span>{%if note.note%} ({{note.note}}){%endif%}</li>{%endfor%}</ul>

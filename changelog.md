@@ -54,8 +54,9 @@ log:
     line: Did some stuff.
     done: |-
       - misc: assorted minor fixes
-      - misc: image folder reorganization (img/misc)
+      - misc: image folder shuffling
       - new page: [Heardle](heardle)
+      - new pages: meta <a href="meta/index">index</a> & <a href="meta/intropost">intropost</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

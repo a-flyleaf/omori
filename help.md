@@ -17,4 +17,4 @@ css: "body{background:url(assets/img/bg-help.png) center repeat; background-atta
 - ratio
 - You are going to be haunted by this game for a very long time.
 </div>
-</main><!--notes for later: Rococo/artist girl/Angel (latter links to Mari/Sunny; scary big sis??); pigtails (f!Omori, Sweetheart, that one imaginary friend/beta character)-->
+</main><!--notes for later: Rococo/artist girl/Angel (latter links to Mari/Sunny; scary big sis??); pigtails (f!Omori, Sweetheart, that one imaginary friend/beta character); I forgot to write "parents" from Dad+Mom but I'll probably redo this from scratch later anyway whoops-->

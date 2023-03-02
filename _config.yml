@@ -3,9 +3,16 @@ permalink: /blog/:slug
 collections:
     art:
         output: true
+    meta:
+        output: true
 defaults:
   - scope:
       path: "_art"
     values:
       layout: art
       permalink: /art/:slug
+  - scope:
+      path: "_meta"
+    values:
+      layout: "ws-text"
+      permalink: /meta/:slug

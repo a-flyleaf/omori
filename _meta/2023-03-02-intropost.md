@@ -1,0 +1,49 @@
+---
+title: An introduction of some sort.
+date: 2023-03-02
+slug: intropost
+css: main li{margin:.5em 0;}
+back: meta
+---
+Howdy 👋 I'm assuming you got here through [the about page]({%include url.html%}/about), which (at the time of writing) serves as an intro to yours truly and some various <span class="omo">Omori</span>-related factoids. At the time of writing I've been working on this site for about a week and a half, launched it a couple days ago, and it's about time I start using it for its originally-intended purpose: compiling the boatloads of [meta](https://fanlore.org/wiki/Meta) I've accumulated over the last few weeks of being obsessed with this game!
+
+Some things to know, going in:
+
+## playthrough notes
+- I've played through the entire game once, mostly blind, and "liveblogged" a majority by sharing it in Discord direct messages with my good friend Weeb. He gave me a few small pointers, mostly pertaining to missable content (that Recycultist sidequest, man) but it was by no means a 100% run. For instance, I was nudged towards watering Basil's flowers daily, but apparently missed it somewhere because I didn't get that bonus scene at the end.
+- Reviewing that "liveblog" is going to be my primary meta-project here, putting various observations/thoughts/opinions/etc. together in a more digestible format.
+
+<blockquote class="dc" markdown="1">
+Occasionally I may see it fit to share quotes directly from Discord; they'll look like this. <span class="x">(I'm not sure if screenreaders make a blockquote distinction, but I'll try to remember to stick in an invisible note when these are used.)</span>
+</blockquote>
+
+- Immediately after finishing the first playthrough, I threw the spoiler blinds to the wind. That said, I'm waiting to play the other routes (namely "Hikikomori" (not answering Kel)), and generally go through the game on a 100% achievement hunt, until *after* I finish this liveblog-compilation.
+
+Prior to playing, I knew basically fuckall about <i class="omo">Omori</i>; about a year earlier, Weeb had recommended it and an artist I follow had made fanart, but neither told me much of anything about what it was *about*. I bought the game for myself on Steam as a birthday gift, played daily for like six days straight, and then on-and-off as my and Weeb's schedules aligned. Took about a month in all, with over 70 hours logged on my last save file, and I don't remember if there was an exact point I went from indifferent to head-over-heels adoring, but it happened *early*.
+
+## bias, inevitably
+- My favorite characters are Aubrey and Kel, because I think they are fun and they cause me emotional pain. Objectively, though, I think Sunny is the most well-developed character, and I *try* not to let my character preferences skew my meta.
+- From what I've discerned, the game takes place in the late 90s/early aughts, and I'm old enough to be vaguely familiar with the latter part of that timeframe. *Vaguely.*
+- I am fascinated by the narrative/storytelling approach that develops everything around a certain idea or arc, prioritizing symbol over realism. I don't know if there's a name for this, storytelling is not a "realistic vs figurative" binary, but some pivotal sources of the sort:
+	- ["Psychological Storytelling" by mmmmalo on Archive of Our Own](https://archiveofourown.org/works/20481008)---<i>Homestuck</i> meta, but the driving ideas apply: "thoughts, feelings, and desires may find expression in the environment, in the medium of the story itself, and in the form of other characters." (I mean. *Headspace?* Hello??) mmmmalo knows a hell of a lot more about Freudian psychology than I strictly care to, but I've taken a few pointers from these trains of  thought, especially where visual parallels and the idea of subconscious thoughts, fears, and desires are concerned.
+	- ["Annihilation and Decoding Metaphor" by Folding Ideas on YouTube (linked via Piped)](https://piped.video/watch?v=URo66iLNEZw)---Fun fact, I have not actually watched this movie! I read the book and it's not *terribly* similar (but very good in its own right). That said, fuck it, this is an A+ exploration of how metaphor points at theme, and a lot more digestible to someone unfamiliar with the source material than the analysis linked above. (That said x2, I like reading over watching, so.)
+	- <i>How to Read Literature Like a Professor</i> by Thomas C. Foster---This is an actual book; PDFs are not hard to find (;V). I'm realizing I linked these in arguably reverse order of density; this is an introduction to dissecting novels with an eye for common symbology, with most chapters devoted to explanations and examples of what various popular motifs are frequently pointing towards.
+- That established, I love me a good in-universe analysis (why did character do that? what's their favorite color, where'd they go to school), I increasingly find my thoughts on <i class="omo">Omori</i> skewing [Doylist](https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist). Why was the decision made to tell the story like this, and not that? Why this design choice? Wouldn't it have been easier to do XYZ instead of ZYX? There's definitely more conventional character & story analysis in here, but y'know, I like *meta-*meta. The approaches can and probably will flip on a dime.
+
+Sometimes the squint-between-the-lines lenses lead me to absolutely batshit places (I spent a good chunk of the early game thinking Mari was Omori's mother; I still think Sunny saw her as something of a mother-*figure*), but sometimes it pointed me in potentially-fruitful directions (ah, Something and the noose motifs).
+
+Most importantly, it's fucking *fun* to feel like the guy in [the Pepe Silvia meme](https://piped.video/watch?v=1NBfZcNU4O0), actually.
+
+<figure><img src="{%include url.html%}/assets/img/helpme.png" alt="Help." title="Help.">
+<figcaption markdown="1">
+The non-looping version of a conspiracy board that currently appears on [the page linked from the homepage tissue box]({%include url.html%}/help). I have actually noticed a handful of <em>additional</em> connections since making it....
+</figcaption></figure>
+
+## why tho
+Again: Because it's fun, next question.
+
+Less flippantly: Idk, I just like dissecting stories! I like it even more when they're *rewarding*. Prior to <i class="omo">Omori</i> my previous fixations have either been #NotThatDeep, or I just didn't know how or *want* to look into them so deeply, not like this. But I feel like every other thread I've chased with this game has led me *somewhere,* and by and large it's been absurdly rewarding.
+
+I also felt the need to make a site for it because if I write one more novella in my note-to-self solo-DMs... IDEK, man. There's A Lot.
+
+[back link currently leads back to the meta index, I'll figure out some sort of next/previous post links later]
