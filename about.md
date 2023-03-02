@@ -21,9 +21,9 @@ I spent over half the game thinking those squiggly little guys in White Space we
 - <b>Favorite scenes</b>: "It Means Everything." (full church scene; before, during, and after) & Omori boss fight for the drama; ghost dance cutscene for the Top 10 Heartwarming Moments Before Certain Disaster
 - <b>Has played Hikikomori</b>: Not yet....
 - <b>Plays piano</b>: With the aptitude of someone who's gotten really good at paint-by-numbers but doesn't understand anatomy. Nonetheless, yes!
-- <b>Other RPGs played</b>: [<i class="omo">Off</i>](https://off.fandom.com/wiki/OFF_Wiki), [<i class="omo">Undertale</i>](https://undertale.com/) + [<i>deltarune</i>](https://deltarune.com/), and a handful of <i>Pokémon</i> installments
+- <b>Other RPGs played</b>: [<i class="omo">Off</i>](https://off.fandom.com/wiki/OFF_Wiki), [<i class="omo">Undertale</i>](https://undertale.com/) + [<i style="font-style:normal;">deltarune</i>](https://deltarune.com/), and a handful of <i>Pokémon</i> installments
 - <b>Most likely to</b>:
-	- point at <i style="text-transform:uppercase;">Off</i> references and go "That's an <i style="text-transform:uppercase;">Off</i> reference :D"
+	- point at <i class="omo">Off</i> references and go "That's an <i class="omo">Off</i> reference :D"
 	- froth at the mouth about any sort of visual and/or thematic parallel
 	- draw absolutely insane conclusions from breadcrumb similarities
 	- get pummeled into fetal position by Steel Folding Chairs™ of "that offhand comment wasn't *supposed* to bite back later---" liveblogging caliber

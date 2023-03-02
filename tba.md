@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: none
 ---
 # TBA
 o heck you found my note-to-self "things to be added eventually" page. nice
