@@ -1,8 +1,14 @@
 ---
-layout: blank
+layout: none
 ---
 # TBA
 o heck you found my note-to-self "things to be added eventually" page. nice
+
+## stuff to fix/edit
+- oh wait duh, on the art pages: just have thumbnails for current/next/prev? idk I just think the long box looks Worse with multiple rows, it feels too "more like this"-y and if people wanna see Everything that's what the art index is for
+	- have the index use pixel thumbnails on mobile/by default too
+- gif image sizing isn't ideal at suboptimal screenwidths, thiiink a background-size attribute should fix that
+	- don't forget to check the index+Mewo
 
 ## main content
 - the actual... liveblog-revisitening... that the site was made to house....

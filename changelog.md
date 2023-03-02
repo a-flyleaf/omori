@@ -49,8 +49,9 @@ log:
       - full page: [the actual index](a-space)
       - art: <a href="art/roundup-2023-02">Februrary roundup</a>
   - dt: 2023-03-01
-    line: Cleaned up site for launch.
     line: <a href="art/mar1">Drew a thing</a>.
+  - dt: 2023-03-02
+    line: Fixed some minor things.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

@@ -17,4 +17,4 @@ css: "body{background:url(assets/img/bg-help.png) center repeat; background-atta
 - ratio
 - You are going to be haunted by this game for a very long time.
 </div>
-</main><!--+Rococo/artist girl/Angel should also go here actually... don't feel like editing the chart rn tho-->
+</main><!--notes for later: Rococo/artist girl/Angel (latter links to Mari/Sunny; scary big sis??); pigtails (f!Omori, Sweetheart, that one imaginary friend/beta character)-->
