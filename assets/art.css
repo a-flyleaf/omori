@@ -24,8 +24,8 @@ section.box{padding:0 1em;} section p{margin:.75em 0;} section a{color:inherit; 
 #roco{background:#000; border:4px solid #fff; line-height:0; padding:8px; max-width:532px; margin:0 auto;}
 #roco a{border:2px solid #000; display:inline-block; box-shadow:0 0 0 2px #fff; margin:8px;}
 @media only screen and (min-width:660px){
-	nav{overflow:auto; max-width:600px; margin:3em auto 0;} .col{float:left;} #roco{margin-left:16px;} nav .sb{margin-top:20px; display:inline-block;}
-	/*there shouldn't be too many rows here but I'll worry about that later, if it becomes necessary at all...*/
+	nav{overflow:auto; max-width:605px; margin:3em auto 0;} .col{float:left;} #roco{margin-left:16px;} nav .sb{margin-top:20px; display:inline-block;}
+	/*there shouldn't be too many rows here but I'll worry about that later, if it becomes necessary at all... max-width:600px is good for one row*/
 }
 
 footer{margin-top:2em; padding-bottom:.5em;}

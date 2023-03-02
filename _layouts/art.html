@@ -6,7 +6,7 @@ css: art
 	<div id="topback"><a href="{%include url.html%}/art" class="sb"><img src="{%include url.html%}/assets/img/artbook_32.png" alt="A sketchbook. (back to art index)" title="A sketchbook. (back to art index)"></a></div>
 	<main>
 		<figure id="a-img"{%if page.dark%} class="dark"{%endif%}>
-			<a href="{%include url.html%}/assets/img/art/{{page.date|date:'%F'}}{%if page.a-url%}{{page.a-url}}{%endif%}.png" target="_blank" id="aimg"><img src="{%include url.html%}/assets/img/art/{{page.date|date:'%F'}}{%if page.a-url%}{{page.a-url}}{%endif%}{%if page.big%}_med{%endif%}.png" alt="{{page.title}}"></a>
+			<a href="{%include url.html%}/assets/img/art/{{page.date|date:'%F'}}{%if page.a-url%}{{page.a-url}}{%endif%}.{%if page.file%}{{page.file}}{%else%}png{%endif%}" target="_blank" id="aimg"><img src="{%include url.html%}/assets/img/art/{{page.date|date:'%F'}}{%if page.a-url%}{{page.a-url}}{%endif%}{%if page.big%}_med{%endif%}.{%if page.file%}{{page.file}}{%else%}png{%endif%}" alt="{{page.title}}"></a>
 			<figcaption class="artwrap">{{page.desc|markdownify}}</figcaption>
 		</figure>
 		<div class="artwrap" id="a-info">
