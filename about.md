@@ -13,7 +13,7 @@ Hi there~ I'm [a-flyleaf](https://a-flyleaf.github.io/) and <i class="omo">Omori
 ## Why is the back button at the bottom of every page so pointy?
 I spent over half the game thinking those squiggly little guys in White Space were forks and not hands. To commemorate my lunacy I've made them actual forks here.
 
-<div id="fork"><img src="{%include url.html%}/assets/img/fork.png" alt="A White Space hand, but with thin, long, pointed “fingers” like a fork." title="A White Space hand, but with thin, long, pointed “fingers” like a fork."></div>
+<div id="fork"><img src="{%include url.html%}/assets/img/misc/fork.png" alt="A White Space hand, but with thin, long, pointed “fingers” like a fork." title="A White Space hand, but with thin, long, pointed “fingers” like a fork."></div>
 
 ## Stats, for fun.
 - <b>Foe Facts</b>: Someone who refuses to be associated with a visual personae. A little obsessive.
