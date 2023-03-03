@@ -53,9 +53,9 @@ Goes without saying, but I was indeed confusing Mari for Aubrey at the beginning
 
 Anyway, RIP to Berly being read as "the guy" here. I'm *still* not sure why the kids are so fucking violent on the playground, frankly. Admittedly I grew up pretty sheltered, so maybe kids kicking around like this is/was perfectly normal, but other than Berly's headbutt sidequest I don't remember them being, uh, Like This elsewhere in Headspace. By the time you meet these kids in the real world, they're already established "hooligans" (I don't think that term is ever used as a proper noun in dialogue, but it's useful shorthand), plus there are deep-seated emotional wounds to work out and all that, so. Point is, it's hard to get a read on whether they were like this in the real world, or if Sunny interpreted some playful roughhousing as harsher than it actually is, or what even.
 
-Oh, and of course, the battle music used for the Boss character (and 2 of 3 Snaleys, and iirc aforementioned real-world fights, maybe others I'm forgetting) is called "[Push & Shove](https://piped.video/watch?v=tnyNKmndmRg)". The soundtrack title foreshadowing in this game is unreal.
+Oh, and of course, the battle music used for the Boss character (and 2 of 3 Snaleys, and iirc aforementioned real-world fights, maybe others I'm forgetting) is called "[Push & Shove](https://omori.bandcamp.com/track/push-shove)". The soundtrack title foreshadowing in this game is unreal.
 
-<figure id="doodl"><img src="{%include url.html%}/assets/img/misc/getshovedidiot.png" alt="Crude doodle of Berly shoving Kel into a knife. “aw man”" title="Crude doodle of Berly shoving Kel into a knife. “aw man”">
+<figure class="doodl"><img src="{%include url.html%}/assets/img/misc/getshovedidiot.png" alt="Crude doodle of Berly shoving Kel into a knife. “aw man”" title="Crude doodle of Berly shoving Kel into a knife. “aw man”">
 <figcaption markdown="1">
 I can't believe Berly shoves Kel into a knife.
 </figcaption></figure>
