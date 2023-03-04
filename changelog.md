@@ -57,6 +57,8 @@ log:
       - misc: image folder shuffling
       - new page: [Heardle](heardle)
       - words: meta <a href="meta/index">index</a>, <a href="meta/intropost">intropost</a>, <a href="meta/playground">playground</a>, <a href="meta/not-playground">not-playground</a>
+  - dt: 2023-03-03
+    line: Revised yesterday’s meta.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

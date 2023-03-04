@@ -7,7 +7,7 @@ slug: playground
 
 *Fuck that, though*---I think in practice these are going to be something of a liveblog-liveblog (albeit skewed heavily towards, y'know, Actual Analysis and not incoherent keysmash-screaming), with me reading a chunk of the playthrough, pausing to annotate, rinse scroll repeat. If I ever *do* put together essay-style posts I think it'd be more sensible for them to be standalones, linking back to specfic examples *as noticed* through the liveblog, like some kind of upcyclced ouroboros of <i class="omo">Omori</i> obsession.
 
-Oh, and there's that infinite dump of notes-to-self on the side, entirely separate from the liveblog. But uh, those didn't start right away, I'll get there when I get there.
+Oh, and there's that ever-expanding dump of notes-to-self on the side, entirely separate from the liveblog. But uh, those didn't start right away, I'll get there when I get there.
 
 Anyway!
 
@@ -15,15 +15,15 @@ Anyway!
 
 ## we aren't even through the damn playground
 <blockquote class="dc" markdown="1">
-<div class="dc-info"><span class="x">Discord message: </span><b>a-flyleaf</b><span class="time">4:08PM</span></div>
+<div class="dc-info"><span class="x">Discord message: </span><b>a-flyleaf</b><span class="time">2023/01/12 4:08PM</span></div>
 Oh, btw, got myself <i class="omo">Omori</i> as a gift >:3c No spoilers, just finished the hide-and-seek bit at the start & will be heading out soon, but for the record: *I don't think any of these people are real lol,* <em style="text-transform:uppercase;font-style:normal;">something</em> is definitely up with Omori himself and I think he's imagining all this. I don't trust Basil and I think Kel's gonna get murdered based on that one photo. Everything is *way* too bright and happy so far, barring the white starting zone (with a very conspicuous knife in the void, too); curious to see how this goes <span class="inline-block;">ᕕ( ᐛ )ᕗ</span>
 </blockquote>
 
-<i>Thus it begins.</i> Lol "something," and Kel very much *did not* get murdered but I still think [that's a really conspicuous ketchup stain](https://omori.fandom.com/wiki/PHOTO_ALBUM?file=DW_ALBUM_09.png). It's on the same side as Omori/Sunny stabs himself, too, and I have *net zero* clue what to make of that.
+<i>Thus it begins.</i> Lol "something," and Kel very much *did not* get murdered but I still think [that's a really conspicuous ketchup stain](https://omori.fandom.com/wiki/PHOTO_ALBUM?file=DW_ALBUM_09.png). It's on the same side that Omori/Sunny stabs himself in, too, and I have *net zero* clue what to make of that.
 
 Getting ahead of myself, though!
 
-While I'll resist the urge to copypaste like 90% of the Discord verbatim, I just want to copy over these unspoiled thoughts entirely unedited, just because:
+While I'll resist the urge to copypaste like 90% of the Discord verbatim, here's more initial thoughts, just because:
 
 <blockquote class="dc">
 <div class="msg" markdown="1">
@@ -48,9 +48,9 @@ Or like, I still think her later design is cool as hell. It just causes me immen
 <em style="text-transform:uppercase;font-style:normal;">Oh and Mari.</em> If my semi-unfounded "these are psychological introjects" theory is leading anywhere, it is <em style="text-transform:uppercase;font-style:normal;">also</em> very sus that she's in the party early and then... Isn't, to sit around at the healing zone? Is she like, Omori/Sunny's mom. NGL I think I kept getting her confused with Aubrey in fanart <em style="text-transform:uppercase;font-style:normal;">IDK I'll figure it out maybe</em>
 </div></blockquote>
 
-Goes without saying, but I was indeed confusing Mari for Aubrey at the beginning; I thought that Mari was in the party in the Neighbor's Room, then stopped at the picnic. Listen, telling people apart (especially when they're samefacey) is not my strong suit. (I'm not sure where I got the "fanart" part from, though; I don't remember recognizing much unless explicitly labeled as such, and frankly I'm not even sure how I discerned Aubrey was the pink-haired one.)
+Goes without saying, but I was indeed confusing Mari for Aubrey at the beginning; I thought that Mari was in the party in the Neighbor's Room, then stopped at the picnic. Listen, telling people apart (especially when they're samefacey) is not my strong suit. (I'm not sure where I got the "fanart" part from, though, because I don't remember seeing much; frankly I'm not even sure how I discerned Aubrey got pink hair.)
 
-Anyway, RIP to Berly being read as "the guy" here. I'm *still* not sure why the kids are so fucking violent on the playground, frankly. Admittedly I grew up pretty sheltered, so maybe kids kicking around like this is/was perfectly normal, but other than Berly's headbutt sidequest I don't remember them being, uh, Like This elsewhere in Headspace. By the time you meet these kids in the real world, they're already established "hooligans" (I don't think that term is ever used as a proper noun in dialogue, but it's useful shorthand), plus there are deep-seated emotional wounds to work out and all that, so. Point is, it's hard to get a read on whether they were like this in the real world, or if Sunny interpreted some playful roughhousing as harsher than it actually is, or what even.
+Anyway, RIP to Berly being read as "the guy" here. I'm *still* not sure why the kids are so fucking violent on the playground, tbh. Admittedly I grew up pretty sheltered, so maybe kids kicking around like this is/was perfectly normal, but other than Berly's headbutt sidequest I don't remember them being, uh, Like This elsewhere in Headspace. By the time you meet these kids in the real world, they're already established "hooligans" (I don't think that term is ever used as a proper noun in dialogue, much as it's useful shorthand), plus there are deep-seated emotional wounds to work out and all that, so. Point is, it's hard to get a read on whether they were like this in the real world, or if Sunny interpreted some playful roughhousing as harsher than it actually is, or what even.
 
 Oh, and of course, the battle music used for the Boss character (and 2 of 3 Snaleys, and iirc aforementioned real-world fights, maybe others I'm forgetting) is called "[Push & Shove](https://omori.bandcamp.com/track/push-shove)". The soundtrack title foreshadowing in this game is unreal.
 
@@ -59,12 +59,12 @@ Oh, and of course, the battle music used for the Boss character (and 2 of 3 Snal
 I can't believe Berly shoves Kel into a knife.
 </figcaption></figure>
 
-(Did I mention I might sprinkle some doodles into this? Have a doodle, maybe more where that came from; some stuff I might've wanted to draw at the time but didn't, other silly things that occur to me, etc. ...Also, y'know, drawing this *did* make me realize Kim has red glasses. *Why? What does it mean, to see the world through red frames????* There's only so much I can look into characters named after real people (maybe the real Kim Vance just has red glasses frames, and it feels weird to speculate about a real person anyway), but still. The trait *stuck* when it didn't have to. I digress, though.)
+(Did I mention I might sprinkle some doodles into this? Have a doodle, maybe more where that came from; some stuff I might've wanted to draw at the time but didn't, other silly things that occur to me, etc. ...Also, y'know, drawing this *did* make me realize Kim has red glasses. *Why? What does it mean, to see the world through red frames????* There's only so much I can look into characters named after real people (maybe the real Kim&nbsp;Vance just has red glasses frames, and it feels weird to speculate about a real person anyway), but still. The trait *stuck* when it didn't have to. I digress, though.)
 
 Anyway, some smaller points of note before I finally progress the story again (and there will be many more "no plot only speculation" derailments where this comes from):
 
 - The game's art direction is excellent. Even better that it's an early hint at Headspace being imagined by someone with a sketchbook in his room. Bonus points for the implication Sunny sees the world as an RPG because, y'know, he's a fan of RPGs! *The medium itself is characterization.*
-	- This can only go so far, of course, seeing as a *majority* of assets are drawn even in the real world, and realistically strangers are not inviting you into their house to watch them fix a pipe. Still, it makes for a hell of an aesthetic.
+	- This can only go so far, of course, seeing as a *majority* of assets are drawn even in the real world, and realistically strangers are not inviting you into their house to watch them fix a pipe (or making Koolaid-Man holes in the wall upon failing again). Sometimes a game just looks like a game because it's, y'know, a game. Regardless, the mixed media makes for a hell of an aesthetic.
 - Kind of a peculiar impression, in retrospect, this:
 
 <blockquote class="dc" markdown="1">
@@ -73,7 +73,7 @@ those bits where Omori can "play" with [his friends] (card game, make sand castl
 
 The wiki calls these sequences ["breaktime"](https://omori.fandom.com/wiki/BREAKTIME) and I ended up finding them pretty endearing! It also becomes evident later that Sunny's always been a passive kid ("Waiting for something to happen," if you will), so it doesn't feel *too* uncharacteristically lonely, in retrospect.
 
-Also, while this will be brought up later, might as well mention it now: I think Headspace's storyline roughly parallels the group getting closer IRL. The follow-up improvement is a pretty objective point towards this, but there's also the fact it starts on a playground (childish) and ends with jobs (Last Resort, which is a casino to boot). More on this later, too, probably.
+There's also the idea that Headspace's storyline roughly parallels the group bonding IRL. This is part headcanon-theory-extrapolation on my part (we start on a playground, a child's paradise, and end in the Last Resort with jobs and a casino), but more objectively, the follow-up improvements are a thing! I'll probably ramble about this concept later, but now's as good a time as any to bring it up.
 
 Anyway, though, let it also be known sometimes I am paranoid:
 
@@ -86,5 +86,3 @@ Anyway, though, let it also be known sometimes I am paranoid:
 </blockquote>
 
 No, past me. I think sometimes kids are just crude little shits.
-
-[page links go here]

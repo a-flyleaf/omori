@@ -9,6 +9,7 @@ o heck you found my note-to-self "things to be added eventually" page. nice
 	- have the index use pixel thumbnails on mobile/by default too
 - gif image sizing isn't ideal at suboptimal screenwidths, thiiink a background-size attribute should fix that
 	- don't forget to check the index+Mewo
+- automate the custom css on meta pages, somehow... does this Have to have a convoluted if/unless tree
 
 ## main content
 - the actual... liveblog-revisitening... that the site was made to house....
