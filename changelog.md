@@ -4,7 +4,7 @@ title: A log of changes.
 dark: y
 css: "body{background:#000;} #lt-content{padding:0 1em;} #laptop{margin:1em auto; border:.5em #000 solid; box-shadow:0 0 0 .15em #808080; background:url(assets/img/bg-wall-500.png) no-repeat fixed center; background-size:cover;} hr{border:0; height:.1em; background:#fff; margin:0 -1em;} .box{margin:1em;} #bar{background:#bfbfbf; border-top:.1em #efefef solid; font-family:monospace; text-transform:uppercase;} .lt-box{display:inline-block; margin:.25em; padding:.25em .5em; border:.1em #808080 solid;} #bar a{text-decoration:none; font-weight:bold;} #bar a:focus,#bar a:hover,#bar a:active{color:initial; background:#808080; border-color:#404040;} .lt-box:last-child{float:right; cursor:default; border-color:#dfdfdf;}
 	header{text-transform:uppercase; padding:.5em 0; letter-spacing:.025em;}
-	header a{text-decoration:0; display:inline-block; float:right; margin-top:-1.65em; margin-right:-.75em; padding:0 .35em; border:.1em #fff solid;} header a:hover,header a:focus,header a:active{color:red; border-color:inherit; background:#fff;}
+	header a{text-decoration:0; display:inline-block; float:right; margin-top:-1.5em; margin-right:-.75em; padding:0 .35em; border:.1em #fff solid;} header a:hover,header a:focus,header a:active{color:red; border-color:inherit; background:#fff;}
 	.box h1,.box h2{font-size:1em;} article{border-bottom:.1em solid; padding:.5em 0;} article:last-of-type{border:0;} .box h2{color:inherit;} p span{display:inline-block;} .done{font-size:.85em; margin-top:-1em;} .box li>ul{margin-bottom:0;}
 	@media only screen and (min-width:500px){#laptop{background-image:url(assets/img/bg-wall-1000.png);}}
 	@media only screen and (min-width:50em){main{overflow:auto;} article{width:47.5%; float:left; margin-right:2.5%;} @supports (display:flex){main{display:flex; flex-wrap:wrap;} article{margin:0;}  article:nth-child(odd){margin-right:2.5%;} article:nth-child(even){margin-left:2.5%;}}}
@@ -56,7 +56,7 @@ log:
       - misc: assorted minor fixes
       - misc: image folder shuffling
       - new page: [Heardle](heardle)
-      - words: meta <a href="meta/index">index</a>, <a href="meta/intropost">intropost</a>, <a href="meta/playground">playground</a>, <a href="meta/not-playground">not-playground</a>
+      - words: meta <a href="meta">index</a>, <a href="meta/intropost">intropost</a>, <a href="meta/playground">playground</a>, <a href="meta/not-playground">not-playground</a>
   - dt: 2023-03-03
     line: Revised yesterday’s meta.
 ---
