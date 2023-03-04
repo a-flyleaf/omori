@@ -2,7 +2,6 @@
 title: "January 12: theoryloss.jpg"
 date: 2023-03-02
 slug: not-playground
-back: meta
 css: figcaption{max-width:400px; margin:-1em auto 0;}
 ---
 Oh. Hm. This is going to be a novel series by the time it's done, isn't it?

@@ -7,5 +7,5 @@ layout: ws
 		<h1>{{page.title}}</h1>{%if page.date%}
 		<div id="date">{{page.date|date:"%B %-d, %Y"}}</div>{%endif%}
 	</header>
-	<main class="box txt">{{content}}</main>
+	<main class="box txt">{{content}}{%if page.url contains "meta"%}<div id="metanav"><a href="{%include url.html%}/meta"><span class="omo">Omori</span>posting</a>{%if page.next%}<div id="nxt"><a href="{%include url.html%}{{page.next.url}}">{{page.next.title}} <img src="{%include url.html%}/assets/img/hand.png" alt="next"></a></div>{%endif%}</div>{%endif%}</main>
 </div>

@@ -16,3 +16,9 @@ defaults:
     values:
       layout: "ws-text"
       permalink: /meta/:slug
+      img:
+        url: rcy_160
+        alt: Recycling is a concept. (back to meta index)
+        title: Recycling is a concept. (back to meta index)
+        link: meta
+      css: "#pg-img{padding-bottom:.5em;} .gif:hover,.gif:focus,.gif:active{background-image:url(assets/img/rcy_160.gif);}"

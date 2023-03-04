@@ -31,6 +31,10 @@ q.dc{padding:0; font-size:.85em;} q.dc:before,q.dc:after{content:none;} li q.dc{
 .doodl{text-align:center;}
 figcaption{color:#dfdfdf; font-size:.85em; margin:-1em 0 0;}
 
+#metanav{margin-top:2em; overflow:auto; font-size:.85em; text-decoration:none; border-top:.15em solid #808080; padding:.5em 0; color:#dfdfdf;} #metanav img{opacity:.75; vertical-align:top; padding-left:5px;} #metanav a{text-decoration:none; padding:.25em 0; display:inline-block;}
+#metanav a:focus,#metanav a:hover,#metanav a:active{color:#fff;} #metanav a:focus img,#metanav a:hover img,#metanav a:active img{opacity:1;}
+#nxt{float:right;}
+
 footer{text-align:center; font-size:.85em; max-width:30em; margin:5em auto -1em; color:#808080;}
 #back ::selection{background:0;} #back:hover,#back:focus,#back:active,.dark{opacity:.5;} .dark:hover,.dark:focus,.dark:active{opacity:1 !important;}
 footer p:first-of-type{margin-top:.75em;}
