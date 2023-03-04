@@ -5,6 +5,12 @@ permalink: heardle
 css: "main img{float:left; max-width:50%; margin-right:1em;} main{overflow:auto;} header.box{padding:.5em 1em;} ul a{font-weight:bold; display:inline-block;} main li{margin:.5em 0;} li span{display:inline-block;}"
 
 heardle:
+  - date: 2023-03-03
+    num: 135
+    rec: 🔉⬛️⬛️🟩⬜️⬜️⬜️
+    ost: A Red Shape
+    bc: a-red-shape
+    note: Well, that was tricky! Nothing from the first second, nothing <em>recognizable</em> from the second, and at the third try I just speedran everything short from the OST. (Along the way, discovered that cursed Something battle theme is indeed on the OST (wiki fails again there); it's <a href="https://omori.bandcamp.com/track/fade">#066 Fade</a>.)
   - date: 2023-03-02
     num: 134
     rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
@@ -45,5 +51,5 @@ heardle:
 
 Heardle is a fun little thing, and [the <span class="omo">Omori</span> version](https://omori-heardle-2-5.glitch.me/) is good for showing off just how familiar you are with the OST. It was also clogging my notes so /dumps it unceremoniously here
 
-{%assign notes = page.heardle | reverse%}
+{%assign notes = page.heardle | reversed%}
 <ul>{%for note in notes%}<li><span>{{note.date|date:"%b.%d"}}</span> #{{note.num}} <span>{{note.rec}}</span>: <span><a href="https://omori.bandcamp.com/track/{%if note.bc%}{{note.bc}}{%else%}{{note.ost|downcase}}{%endif%}">{{note.ost}}</a></span>{%if note.note%} ({{note.note}}){%endif%}</li>{%endfor%}</ul>
