@@ -2,7 +2,7 @@
 title: "January 12: theoryloss.jpg"
 date: 2023-03-02
 slug: not-playground
-css: "#pg-img{padding-bottom:.5em;} .gif:hover,.gif:focus,.gif:active{background-image:url(assets/img/rcy_160.gif);} /*if custom css you'll have to re-add these*/ figcaption{max-width:400px; margin:-1em auto 0;} main li{margin:.25em 0;} hr{margin:3em 0 2em;} hr+h2{font-size:1.25em !important; font-style:italic; color:#bfbfbf !important;}"
+css: "#pg-img{padding-bottom:.5em;} .gif:hover,.gif:focus,.gif:active{background-image:url(../assets/img/rcy_160.gif);} /*if custom css you'll have to re-add these*/ figcaption{max-width:400px; margin:-1em auto 0;} main li{margin:.25em 0;} hr{margin:3em 0 2em;} hr+h2{font-size:1.25em !important; font-style:italic; color:#bfbfbf !important;}"
 ---
 Oh. Hm. This is going to be a novel series by the time it's done, isn't it?
 
@@ -100,7 +100,7 @@ Anyway. No more text walls, just slapdash observations from before Basil's house
 
 And as for the actual Basil segment:
 
-- Basil living in a shoe is probably a reference to [a fairy tale](https://en.wikipedia.org/wiki/There_was_an_Old_Woman_Who_Lived_in_a_Shoe). There are two other instances where the story draws attention to shoes: the "feet/shoes in a circle" photos, and the neighbor siblings met Aubrey when she lost her shoe. I have *no godforesaken idea* how these dots connect.
+- Basil living in a shoe is probably a reference to [a fairy tale](https://en.wikipedia.org/wiki/There_was_an_Old_Woman_Who_Lived_in_a_Shoe). There are two other instances where the story draws attention to shoes: the "feet/shoes in a circle" photos, and Aubrey met the gang (minus Basil) when she lost her shoe. I have *no godforesaken idea* how these dots connect.
 - Game*play* design is just as great as the rest of the package, with story pacing and "hey, this might be a good point to save and/or check everything you have before proceeding" player-nudging skipping along hand-in-hand. There are some later points I feel were less strong about this (it felt like The End was coming for *forever*), although IRL pauses were almost definitely a factor, so I don't have a strong general judgment.
 - I guessed every single one of the photo placements because I didn't notice they were highlighted. I have no idea if I guessed *correctly* or if it's impossible to get it wrong. I feel like I should have something more insightful to say about this whole sequence, but I spent a majority of it yelling internally and getting jumpscared. Fun times!
 
