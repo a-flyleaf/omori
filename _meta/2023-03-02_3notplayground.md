@@ -1,6 +1,6 @@
 ---
 title: "January 12: theoryloss.jpg"
-date: 2023-03-02
+date: 2023-03-03
 slug: not-playground
 css: "#pg-img{padding-bottom:.5em;} .gif:hover,.gif:focus,.gif:active{background-image:url(../assets/img/rcy_160.gif);} /*if custom css you'll have to re-add these*/ figcaption{max-width:400px; margin:-1em auto 0;} main li{margin:.25em 0;} hr{margin:3em 0 2em;} hr+h2{font-size:1.25em !important; font-style:italic; color:#bfbfbf !important;}"
 ---
@@ -47,11 +47,11 @@ And that's why they're the only two who don't have head rabies, send tweet.
 From [February]({%include url.html%}/art/roundup-2023-03-02). See, the ribbon is on Mari's neck because--- do I even have to elaborate actually
 </figcaption></figure>
 
-We like character design in this house.
-
-Speaking of which, we are going to continue borking the chronology, because up to and including the end of Basil's house, most of my notes were pretty slapdash and I don't have much to expand on. (Also, my initial draft of this post *did* keep it all in order, and on a fresh-eyed reread the pacing was awkward and meh. *Sledgehammer edits ahoy.*) Instead, here's an idea that got introduced around this point:
+We like character design in this house. Speaking of which...
 
 ## Theory-Thought the Second: Does Hero is Sunny
+We are going to continue borking the chronology, because up to and including the end of Basil's house, most of my notes were pretty slapdash and I don't have much to expand on. (Also, my initial draft of this post *did* keep it all in order, and on a fresh-eyed reread the pacing was awkward and meh. *Sledgehammer edits ahoy.*) Instead, here's an idea that got introduced around this point:
+
 <blockquote class="dc" markdown="1">
 <span class="not-dc">[upon seeing the [emotion guide](https://omori.fandom.com/wiki/EMOTIONS?file=Emotions_guide.png)]</span>  
 <i>The guy everyone loves is associated with Sad, huh</i>
@@ -126,18 +126,3 @@ And as for the actual Basil segment:
 </div></blockquote>
 
 This game is *very, very good* at atmosphere.
-
-----
-
-## additional notes that will probably be moved to the intro of next post
-You might've noticed some chronological holes in my commentary here (the very start in White Space and the hide-and-seek segment; Basil's flower exposition; Ye Olde Sprout Mole); I am intentionally skipping these for now because I *know* I'll come back to them in future playthrough. Entirely possible I've forgotten something obvious in the interim.
-
-Also:
-
-<blockquote class="dc"><p>...man don't tell me there's gonna be a part later where there's no choice but to <b style="font-weight:normal;font-family:consolas,monospace;text-transform:uppercase;">stab</b> one of the friends</p></blockquote>
-
-Fun fact about this comment: while definitely being a good little blind-player and not even *glancing* at pictures related to the game, I glimpsed what looked like a screenshot of "<b style="font-weight:normal;text-transform:uppercase;">Stab who?</b>" in the Headspace menu, implying stabbing your friends was in fact something that could happen eventually.
-
-Good thing I was wrong, huh? (Not counting the real-world Aubrey fight; if that'd been *serious* I'd have expected more of a reaction.) The game just bonked me with existential dread of the "imagine being condemned to hell forever because you no longer serve the escapist fantasy in which you exist" sort! Fun and excellent times!!
-
-Bye, Basil. I'm done here tonight. Let's see if I can cover the entire acrophobia segment in less than three posts, yeah?<!--probably gonna rewrite this outro/intro later; "intermission" post, including a note about these next-day revisions (including the third post being basically rewritten? start of next??-->

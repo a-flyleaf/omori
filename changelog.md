@@ -59,6 +59,12 @@ log:
       - words: meta <a href="meta">index</a>, <a href="meta/intropost">intropost</a>, <a href="meta/playground">playground</a>, <a href="meta/not-playground">not-playground</a>
   - dt: 2023-03-03
     line: Revised yesterday’s meta.
+    done: |-
+      - words: essentially rewrote the "<a href="meta/not-playground">not-playground</a>" post from the ground up
+  - dt: 2023-03-04
+    line: Fixed things, added things.
+    done: |-
+      - words: <a href="meta/intermission">meta intermission</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
