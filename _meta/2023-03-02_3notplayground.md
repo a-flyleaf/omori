@@ -47,7 +47,7 @@ And that's why they're the only two who don't have head rabies, send tweet.
 From [February]({%include url.html%}/art/roundup-2023-03-02). See, the ribbon is on Mari's neck because--- do I even have to elaborate actually
 </figcaption></figure>
 
-We like character design in this house. Speaking of which...
+We like character design in this house.\* Speaking of which...
 
 ## Theory-Thought the Second: Does Hero is Sunny
 We are going to continue borking the chronology, because up to and including the end of Basil's house, most of my notes were pretty slapdash and I don't have much to expand on. (Also, my initial draft of this post *did* keep it all in order, and on a fresh-eyed reread the pacing was awkward and meh. *Sledgehammer edits ahoy.*) Instead, here's an idea that got introduced around this point:
@@ -74,7 +74,7 @@ Uh. [Hm.](https://gunshowcomic.com/513)
 
 I... don't have a definitive answer to that! This is not as developed an idea as the sprout mole thesis. But consider Hero and Sunny's major point of divergence, besides age: Hero is "perfect," and Sunny... isn't.
 
-Hero is capable, ~~good~~ *superb* at everything he's ever touched. Hero doesn't crack; when he did, his sibling bounced right back (which is a character dissection in its own right but let's keep it on the big bro for now). Hero's worked past his depressive fugue and has moved out, is going to college. Oh, he's a pushover, his arachnophobia's gotten worse, and there's something borderline neurotic about how trophies monopolize his room, unadorned and probably not entirely wanted; Hero is not *actually* flawless, to be clear.
+Hero is capable, ~~good~~ *superb* at everything he's ever touched. Hero doesn't snap; when he did, his sibling bounced right back (which is a character dissection in its own right but let's keep it on the big bro for now). Hero's worked past his depressive fugue and has moved out, is going to college. Oh, he's a pushover, his arachnophobia's gotten worse, and there's something borderline neurotic about how trophies monopolize his room, unadorned and probably not entirely wanted; Hero is not *actually* flawless, to be clear.
 
 <div class="box" markdown="1">
 Wow... you really don't know how to say "no" to anyone, [do you, Hero](https://lparchive.org/Omori/Update%2002/)?
@@ -88,7 +88,7 @@ Hero supports the group, in battle. Sunny ghosted them all.
 
 I'm just saying, when you're developing characters around the protagonist, "the protagonist, But Better" ain't a bad choice. If you wanna get angsty about it you can throw in the idea that Hero, in his sparkling greatness, is "worthy" of Mari's love where Sunny isn't. (If they ever clashed, it doesn't seem Sunny knew much about it---and why would such a perfect couple ever let cracks show, anyway?) And there's definitely *something* to Hero's <span class="omo">Afraid</span> portrait being grayscale when no one else's is (changed [from the demo](https://omori.fandom.com/wiki/HERO#TRIVIA), no less---very deliberate choice!).
 
-That I don't have a good thesis to all this Irks&nbsp;Me, but this is what wild conspiracy parallel boards are for. I haven't even watched the damn Bossman clips yet!!!
+That I don't have a good thesis to all this Irks&nbsp;Me, but this is what wild conspiracy parallel boards are for. I&nbsp;haven't even watched the damn Bossman clips yet!!!
 
 ## miscellaneous notes
 Anyway. No more text walls, just slapdash observations from before Basil's house:
@@ -100,9 +100,9 @@ Anyway. No more text walls, just slapdash observations from before Basil's house
 
 And as for the actual Basil segment:
 
-- Basil living in a shoe is probably a reference to [a fairy tale](https://en.wikipedia.org/wiki/There_was_an_Old_Woman_Who_Lived_in_a_Shoe). There are two other instances where the story draws attention to shoes: the "feet/shoes in a circle" photos, and Aubrey met the gang (minus Basil) when she lost her shoe. I have *no godforesaken idea* how these dots connect.
-- Game*play* design is just as great as the rest of the package, with story pacing and "hey, this might be a good point to save and/or check everything you have before proceeding" player-nudging skipping along hand-in-hand. There are some later points I feel were less strong about this (it felt like The End was coming for *forever*), although IRL pauses were almost definitely a factor, so I don't have a strong general judgment.
-- I guessed every single one of the photo placements because I didn't notice they were highlighted. I have no idea if I guessed *correctly* or if it's impossible to get it wrong. I feel like I should have something more insightful to say about this whole sequence, but I spent a majority of it yelling internally and getting jumpscared. Fun times!
+- Basil living in a shoe is probably a reference to [a fairy tale](https://en.wikipedia.org/wiki/There_was_an_Old_Woman_Who_Lived_in_a_Shoe). There are two other instances where the story draws attention to shoes: the "feet/shoes in a circle" photos, and Aubrey met the gang (minus Basil) when she lost her shoe. I have *no godforesaken idea* how these dots connect.\*
+- Game*play* design is just as great as the rest of the package; story pacing and "hey, this might be a good point to save and/or check everything you have before proceeding" player-nudging are in lockstep. There are some later points I feel were less strong about this (it felt like The End was coming for *forever*), although IRL pauses were almost definitely a factor, so I don't have a strong general judgment.
+- I winged every single one of the photo placements because I didn't notice they were highlighted. I have no idea if I guessed *correctly* or if it's impossible to get it wrong. I feel like I should have something more insightful to say about this whole sequence, but I spent a majority of it yelling internally and getting jumpscared. Fun times!
 
 <blockquote class="dc" markdown="1">
 <div class="dc-info"><span class="time">9:08 PM</span></div>
@@ -126,3 +126,7 @@ And as for the actual Basil segment:
 </div></blockquote>
 
 This game is *very, very good* at atmosphere.
+
+----
+
+\*Had some further thoughts on both the character design and shoe-circle ideas, didn't think they fit here; shoved those into [the next post](intermission).
