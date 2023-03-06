@@ -28,3 +28,5 @@ Also, for my own reference/ease of later linking:
 ## Things That Will Come Up Later
 - [playground]({%include url.html%}/meta/playground): Kim, speculating on characters named after people; Headspace linearity & the Last Resort
 - [not-playground]({%include url.html%}/meta/not-playground): Headspace characterizations via Sunny (hi Aubrey, hi Basil/Stranger)
+- ??: "Something👁️‍🗨️ represents abuse."
+- ??: duality motif? although this'll be long-running
