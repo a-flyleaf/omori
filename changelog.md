@@ -67,6 +67,8 @@ log:
       - words: <a href="meta/intermission">meta intermission</a>
   - dt: 2023-03-05
     line: Wrote more meta (incomplete).
+  - dt: 2023-03-07
+    line: <a href="art/smad">Drew a thing</a>.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
