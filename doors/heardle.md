@@ -5,6 +5,29 @@ permalink: heardle
 css: "main img{float:left; max-width:50%; margin-right:1em;} main{overflow:auto;} header.box{padding:.5em 1em;} ul a{font-weight:bold; display:inline-block;} main li{margin:.5em 0;} li span{display:inline-block;}"
 
 heardle:
+  - date: 2023-03-07
+    num: 139
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: Underwater Prom Queens
+    bc: underwater-prom-queens
+  - date: 2023-03-06
+    num: 138
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: Friendsssssss.
+    bc: friendsssssss
+    note: "hate this one a lot &lt;/3"
+  - date: 2023-03-05
+    num: 137
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: Treehouse - Here We Are, Together Again
+    bc: treehouse-here-we-are-together-again
+    note: "<em>ayyyy</em> I had this stuck in my head/on repeat recently!"
+  - date: 2023-03-04
+    num: 136
+    rec: 🔈⬛️⬛️⬛️🟩⬜️⬜️
+    ost: Bad Morning
+    bc: bad-morning
+    note: Ohh gdi, recognized it <em>immediately</em> because it reminds me of <i>deltarune</i>. No clue when it played, though; third section rang more of a bell but still not specific enough. Took <em>ages</em> to find it in the OST after that >:V
   - date: 2023-03-03
     num: 135
     rec: 🔉⬛️⬛️🟩⬜️⬜️⬜️
