@@ -7,7 +7,7 @@
 		
 		<!--favicon via https://realfavicongenerator.net/--><link rel="apple-touch-icon" sizes="180x180" href="{%include url.html%}/assets/img/favicon/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="{%include url.html%}/assets/img/favicon/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="{%include url.html%}/assets/img/favicon/favicon-16x16.png"> <link rel="manifest" href="{%include url.html%}/assets/img/favicon/site.webmanifest"> <link rel="mask-icon" href="{%include url.html%}/assets/img/favicon/safari-pinned-tab.svg" color="#000000"> <meta name="msapplication-TileColor" content="#b91d47"> <meta name="theme-color" content="#ffffff">
 		
-		<title>{%if page.layout=='art'%}“{{page.title}}” – by an artist{%endif%}{%if page.url contains 'meta'%}OMORIposting: {%endif%}{{page.title}}</title>
+		<title>{%if page.layout=='art'%}“{%endif%}{%if page.url contains 'meta'%}OMORIposting: {%endif%}{{page.title}}{%if page.layout=='art'%}” – by an artist{%endif%}</title>
 		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/base.css"/>{%if layout.css%}<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/{{layout.css}}.css"/>{%endif%}{%if page.css%}
 		<style>{{page.css}}</style>{%endif%}
 	</head>

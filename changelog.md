@@ -69,6 +69,8 @@ log:
     line: Wrote more meta (incomplete).
   - dt: 2023-03-07
     line: <a href="art/smad">Drew a thing</a>.
+  - dt: 2023-03-16
+    line: Fixed assorted things.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

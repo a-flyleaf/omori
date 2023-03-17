@@ -22,12 +22,12 @@ Not comprehensive.
 <div class="para" markdown="1">
 ## Fanmade Resources
 - <b>[Fandom Wiki](https://omori.fandom.com/wiki/OMORI_WIKI)</b> (+ [Breezewiki frontend](https://breezewiki.com/omori/wiki/OMORI_WIKI))  
-Seems to treat some fanon information as canon (notably in story & character descriptions, and assigning names to [places without]({%include url.html%}/black-space) but overall a decent reference. Wish it had better organization & actual sources for the artwork galleries....
+Seems to treat some fanon information as canon (notably in story & character descriptions, and assigning names to [places without]({%include url.html%}/black-space)) but overall a decent reference. Wish it had better organization & actual sources for the artwork galleries....
 - <b>[goats.dev dialogue dump](https://goats.dev/omori/)</b>  
 I have no idea what half of this means or why the in-file organization is jumbled, but it's often cited for unused dialogue.
 - <b>[Let's Play Archive](https://lparchive.org/Omori/)</b>  
 A forum-based playthrough of the entire game, with most dialogue transcribed, some gifs, and videos of various (if not all?) endings. The LPer has made some presentation desicions I'm not crazy about\*, <em style="text-transform:uppercase;font-style:normal;">but</em> it's nonetheless an A+ resource for reskimming the plot and major dialogues. Plus, unlike a video, ~it's&nbsp;skimmable~
-	- \*nitpicky grievances include: giving talksprites to characters without, including spirit!Mari (who has a sprite sheet in the files but only one is used in-game); inserting dialogue in the Omori fight without making clear this is an insert; and not noting some minor details like flavor text & cutscene actions. That said, while there's some commentary from the LPer, it's sparse; there are no, say, snarky jokes between every other line or incoherent keysmashing about dramatic moments. Both of which are #valid and have their place, but they'd make the LP a lot less useful as a game reference, y'know? 
+	- \*~~nitpicky grievances~~ Things to note: LPer has given talksprites to characters without, including spirit!Mari (who has a sprite sheet in the files but only one is used in-game) & inserted dialogue in the Omori fight without making clear this is an insert. While there's some commentary from the LPer, it's sparse; there are no, say, snarky jokes between every other line or incoherent keysmashing about dramatic moments. Both of which are #valid and have their place, but they'd make the LP a lot less useful as a game reference, y'know? 
 - <b>[Omoriboy Archive](https://alexanderjt.neocities.org/omoriboy)</b>  
 Manually-created mirror of the blog posts that started it all. The original blogs are inaccessible even with a Tumblr login, but some (if not all?) posts were [reblogged by Omocat](https://www.omocat-blog.com/tagged/omori/chrono).
 - <b>[Spriters Resource spriterips](https://www.spriters-resource.com/pc_computer/omori/)</b>  
