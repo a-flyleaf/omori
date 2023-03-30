@@ -5,8 +5,25 @@ permalink: heardle
 css: "main img{float:left; max-width:50%; margin-right:1em;} main{overflow:auto;} header.box{padding:.5em 1em;} .h-title{font-weight:bold; display:inline-block;} main li{margin:.5em 0;} li span{display:inline-block;}"
 
 heardle:
+  - date: 2023-03-30
+    num: 162
+    rec: 🔊🟥🟩⬜️⬜️⬜️⬜️
+    ost: "Lovesick - 80,000 Lightyears"
+    bc: lovesick-80000-lightyears-2
+    note: "title pile; instant recognition, wrong name first try"
+  - date: 2023-03-29
+    num: 161
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: "Poems In The Fog"
+    bc-num: 2
+    note: "title pile; I like this one this one’s nice :&gt;"
+  - date: 2023-03-28
+    num: 160
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: "I Think My Dad Shops Here..."
+    note: "another one for the “songs I recognized but had to check the name of” pile"
   - date: 2023-03-26
-    num: 053
+    num: 158
     rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
     ost: "Photograph"
     note: "immediate thought: <i>so that’s definitely the Basil-camera-cutscene track but what the hell is it called</i>. &gt;&nbsp;skims bandcamp &gt;&nbsp;the title …<em>That Said</em> I do not ever remember hearing it with piano?? was that the one cutscene where Basil turns around ominously"
