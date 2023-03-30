@@ -6,6 +6,7 @@ css: "/*layout*/ body{background:#1e1f22; font-family:verdana,sans-serif; line-h
 
 scribs:
   - dt: 2023-03-25
+    id: tired-pissedoff-sun
     img: 2023-03-25_a1
     alt: Aubrey, swearing, points accusitorily at Basil. Both mention some form of “sun,” which confuses Kel (who stands alongside a blank-faced Sunny). An artist’s note mentions, to translate, I “used google translate & ran it thru search results. probably off, oprostite(?)… isprike??”
     tr-hr: |-
@@ -21,6 +22,7 @@ scribs:
       
       <figure><div class="imgs"><a href="assets/img/hr/2023-03-25_a2.png"><img src="assets/img/hr/2023-03-25_a2.png" alt="A+ for Aubrey, who corrects B-grade Basil (details below). He apologizes; “Oprosti, oprosti…”"></a></div><figcaption><p>Aubrey was given an “A+”; normally the verb <span class="hr" lang="hr">jeb-</span> (fuck) would be subject to grammatical gender (in this case <span class="hr" lang="hr">“jeb<b>a</b>o,”</span> indicating a feminine speaker) but apparently actual native authentic swear-users would ignore that anyway. Wild.</p><p>Basil, on the other hand, got a “B”-grade. 1)&nbsp;<span class="hr" lang="hr">Izostaviti</span> = “omit,” ≠ “leave out;” 2)&nbsp;“into this” = “<span class="hr" lang="hr">u ovo</span>”; and 3)&nbsp;“Sunny” needs a “<span class="hr" lang="hr">-ja</span>” for grammar reasons I have yet to fully grasp. Thus, corrected sentence: <q class="hr" lang="hr">Ne miješaj Sunnyja u ovo.</q> (Basil got a B anyway, though, because if <span class="hr" lang="hr">izostaviti</span> <em>had</em> been right, the resulting <q class="hr" lang="hr">Izostavi Sunnyja iz ovoga</q> would’ve been much closer!)</p><p>Finally, turns out both apology words were relevant, but in different contexts. <span class="hr" lang="hr">Oprosti</span> = “forgive me,” which is used more casually than its English analogue.</p></figcaption></figure>
   - dt: 2023-03-25
+    id: bfs
     img: 2023-03-25_b
     alt: "“Moj najbolji prijatelj....” Basil and Sunny, kids, echoing their poses in the “Basil tagged you” picture: Basil rests his head on Sunny’s, his arms wrapped around Sunny’s neck. (Sunny looks vaguely uncomfortable.)"
     tr-hr: >-
@@ -29,12 +31,14 @@ scribs:
       <q>My best friend..\..</q>
     an: More practice, friend edition.
   - dt: 2023-03-27
+    id: crni-prostor
     img: 2023-03-27
     alt: "Basil sits hugging his knees in the void, surrounded by confusing words."
     an: |-
       At one point, in discussing exceptions to basic rules, Weeb suggested (to paraphrase) "Pull a Sunny! Acknowledge existence of [weirdness], then *damn the word to ~~hell~~ Black Space*." Thus, <span lang='hr'>hrvatski</span>!Basil's special hell, consisting entirely of words that (as of writing, March&nbsp;30) I have mostly *no goddamn clue* how to translate:
       > <span lang='hr'>Li, Se, Nego, Slati, Lišće, Momčad, Hlače, Kurac, Naime, Htjeti, Zbog, Koji, Granje, Dvoje, Petorica, Vidjevši, Bih, Svoj, Radi, Moći, A, Si, Niočemu, Zar, Nemoj</span>
   - dt: 2023-03-28
+    id: crni-prostor-2
     img: 2023-03-28_a1
     alt: Basil approaches a Black Space-esque door. What lies behind? More Croatian?! Oh, god, he remembered it wrong!!!!
     tr-hr: |-
@@ -56,6 +60,7 @@ scribs:
       
       <figure><div class="imgs"><a href="assets/img/hr/2023-03-28_a2.png"><img src="assets/img/hr/2023-03-28_a2.png" alt="In which Basil runs away while Stranger-but-Aubrey demands he learn Croatian."></a></div><figcaption><p><span class="omo">Stranger-Aubrey</span>: <q lang="hr" class="hr">Ti <em lang="en">will</em> učiti hrvatski!</q> = <q>You <em>will</em> learn Croatian!</q><br><span class="omo">Basil</span>: <q><em>No!!!</em></q> / <span class="omo">Stranger-Aubrey</span>: <em><q class="hr" lang="hr">Ne???</q></em> (=<q>no</q>) / <span class="omo">Basil</span>: <q class="hr" lang="hr">N-<em>ne!!!</em></q><br><span class="omo">Stranger-Aubrey</span>: <q class="hr" lang="hr">Što nije <em lang="en">clicking</em>??!!!</q> = <q>What isn’t <em>clicking</em>??!!!</q></p></figcaption></figure>
   - dt: 2023-03-28
+    id: katastrofe
     img: 2023-03-28_b
     alt: "Basil and Sunny bathed in dark blue; Basil is surrounded by his Something, which also happens to be all the confusing words from earlier. He mutters “Ni o čemu” repeatedly. Caption below:"
     tr-hr: >-
@@ -77,6 +82,7 @@ scribs:
     an: |-
       Weeb wanted "something to wake up to." The translation is off, alas..\..
   - dt: 2023-03-28
+    id: brat
     img: 2023-03-28_d
     alt: "Mari reads a photo caption in which Basil seems to call Sunny a “brat.” Basil is flustered."
     tr-hr: |-
@@ -110,6 +116,7 @@ scribs:
     an: |-
       Belated follow-up, or "he_would_not_say_that.png". (The incorrect version uses "return" as a noun, e.g. "the return [recurrence] of the errors;" correction uses "return" as a verb, e.g. "return [go back] to the source.")
   - dt: 2023-03-29
+    id: aubasil-angst
     img: 2023-03-29_b1
     alt: "Aubrey encourages Basil. He’ll try his best!"
     img2: 2023-03-29_b2
@@ -133,6 +140,7 @@ scribs:
       
       \*Also note that "I'll try my best" apparently doesn't translate as a phrase, for lack of the concept of 'doing one's best.' An alternate approximation is "Ja ću dati sve od sebe," literally "I will give everything from myself."
   - dt: 2023-03-29
+    id: woe
     img: 2023-03-29_c1
     alt: "Woe! Croatian be upon ye! (ft. Stranger!Aubrey and the word “htjeti”)"
     tr-hr: |-
@@ -145,6 +153,8 @@ scribs:
       Translated this one All By Myself™ :D ...well, kinda:
       
       <figure><div class="imgs"><a href="assets/img/hr/2023-03-29_c2.png"><img src="assets/img/hr/2023-03-29_c2.png" alt="In which Basil runs away while Stranger-but-Aubrey demands he learn Croatian."></a></div><figcaption><p>I tend to circle around the canvas when sketching, which is a perfectly reasonable order in which to do/write things. Essentially: started with <a href="https://knowyourmeme.com/memes/woe-plague-be-upon-ye">the original meme</a>’s words (“Woe! Croatian be upon ye!”) → changed the grammar & exact word meanings (mostly because “be upon ye” <a href="https://idioms.thefreedictionary.com/be+upon">wtf even</a>) → “sad! Croatian is your problem” → shoved the words I didn’t know into an auto-translator and general search → duct-taped it all together → <em>Meme-age Complete</em>.</p></figcaption></figure>
+      
+      There are more accurate words that could've been used here ("<span class="hr" lang="hr">jad</span>" for woe, and "<span class="hr" lang="hr">nesreća</span>" *technically* means "misfortune" or "trouble" but more commonly conveys "accident" or "disaster") but I *think* I got the gist down anyway.
 ---
 <header markdown="1">
 # <span>Language is a Concept</span> – <span class="hr" lang="hr">Jezik je Pojam</span>
@@ -155,4 +165,4 @@ scribs:
 ...I'm still learning.  
 Credit for all corrections (and linguistic context, where relevant) goes straight to Weeb!
 </header>
-<main><!--unsure if I should have separate sections for separate months or just make different pages, ig it depends on how many of these spawn... for now it all goes on one page tho.-->{%for scrib in page.scribs%}<article{%if scrib.id%} id="{{scrib.id}}"{%endif%}><h2>{{scrib.dt|date:"%Y/%m/%d"}}</h2><figure><div class="imgs"><a href="{%include url.html%}/assets/img/hr/{{scrib.img}}.png"><img src="{%include url.html%}/assets/img/hr/{{scrib.img}}.png" alt="{{scrib.alt}}"></a>{%if scrib.img2%}<a href="{%include url.html%}/assets/img/hr/{{scrib.img2}}.png"><img src="{%include url.html%}/assets/img/hr/{{scrib.img2}}.png" alt="{{scrib.alt2}}"></a>{%endif%}</div><figcaption>{%if scrib.tr-hr%}<div class="tr"><div class="tr-hr"><span class="flag">🇭🇷</span>{{scrib.tr-hr|markdownify}}</div><div class="tr-en"><span class="flag">🇺🇸</span>{{scrib.tr-en|markdownify}}</div></div>{%endif%}{%if scrib.an%}<hr><div class="an">{{scrib.an|markdownify}}</div>{%endif%}</figcaption></figure></article>{%endfor%}</main>
+<main><!--ok yeah if I draw more it WILL have another page. this is a Lot-->{%for scrib in page.scribs%}<article{%if scrib.id%} id="{{scrib.id}}"{%endif%}><h2>{{scrib.dt|date:"%Y/%m/%d"}}</h2><figure><div class="imgs"><a href="{%include url.html%}/assets/img/hr/{{scrib.img}}.png"><img src="{%include url.html%}/assets/img/hr/{{scrib.img}}.png" alt="{{scrib.alt}}"></a>{%if scrib.img2%}<a href="{%include url.html%}/assets/img/hr/{{scrib.img2}}.png"><img src="{%include url.html%}/assets/img/hr/{{scrib.img2}}.png" alt="{{scrib.alt2}}"></a>{%endif%}</div><figcaption>{%if scrib.tr-hr%}<div class="tr"><div class="tr-hr"><span class="flag">🇭🇷</span>{{scrib.tr-hr|markdownify}}</div><div class="tr-en"><span class="flag">🇺🇸</span>{{scrib.tr-en|markdownify}}</div></div>{%endif%}{%if scrib.an%}<hr><div class="an">{{scrib.an|markdownify}}</div>{%endif%}</figcaption></figure></article>{%endfor%}</main>
