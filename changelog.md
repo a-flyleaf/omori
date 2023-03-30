@@ -71,6 +71,8 @@ log:
     line: <a href="art/smad">Drew a thing</a>.
   - dt: 2023-03-16
     line: Fixed assorted things.
+  - dt: 2023-03-30
+    line: <a href="hrvatski" lang="hr"><i>Jezik je pojam!</i></a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
