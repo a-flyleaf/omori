@@ -16,11 +16,11 @@ scribs:
       <span class='omo'>Aubrey</span> [approx.]: <q>Fuck your glowing <u>sun</u>!</q>  
       <span class='omo'>Basil</span> [misaimed attempt at]: <q>Leave <u>Sunny</u> out of this..\..</q>
     an: |-
-      It started with a bad pun. "I fuck your [thing]," as opposed to "fuck *you*," is [a common insult](https://piped.video/watch?v=JpRqxbtAnHw&t=74) in Croatian; it's akin to saying "fuck the sun whose glow you bask in." Yeah, I know, I know, using a foreign language for the express purpose of swearing; the "sun" pun was too good (awful?) to pass up.
+      It started with a bad pun. "I fuck your [thing]," as opposed to "fuck *you*," is [a common insult](https://piped.video/watch?v=JpRqxbtAnHw&t=74) in Croatian; it's akin to saying "fuck the sun whose glow you bask in." (Video features Serbian actors but the example serves nonetheless.) Yeah, I know, I know, using a foreign language for the express purpose of swearing; the "sun" pun was too good (awful?) to pass up.
       
       Corrections were required.
       
-      <figure><div class="imgs"><a href="assets/img/hr/2023-03-25_a2.png"><img src="assets/img/hr/2023-03-25_a2.png" alt="A+ for Aubrey, who corrects B-grade Basil (details below). He apologizes; “Oprosti, oprosti…”"></a></div><figcaption><p>Aubrey was given an “A+”; normally the verb <span class="hr" lang="hr">jeb-</span> (fuck) would be subject to grammatical gender (in this case <span class="hr" lang="hr">“jeb<b>a</b>o,”</span> indicating a feminine speaker) but apparently actual native authentic swear-users would ignore that anyway. Wild.</p><p>Basil, on the other hand, got a “B”-grade. 1)&nbsp;<span class="hr" lang="hr">Izostaviti</span> = “omit,” ≠ “leave out;” 2)&nbsp;“into this” = “<span class="hr" lang="hr">u ovo</span>”; and 3)&nbsp;“Sunny” needs a “<span class="hr" lang="hr">-ja</span>” for grammar reasons I have yet to fully grasp. Thus, corrected sentence: <q class="hr" lang="hr">Ne miješaj Sunnyja u ovo.</q> (Basil got a B anyway, though, because if <span class="hr" lang="hr">izostaviti</span> <em>had</em> been right, the resulting <q class="hr" lang="hr">Izostavi Sunnyja iz ovoga</q> would’ve been much closer!)</p><p>Finally, turns out both apology words were relevant, but in different contexts. <span class="hr" lang="hr">Oprosti</span> = “forgive me,” which is used more casually than its English analogue.</p></figcaption></figure>
+      <figure><div class="imgs"><a href="assets/img/hr/2023-03-25_a2.png"><img src="assets/img/hr/2023-03-25_a2.png" alt="A+ for Aubrey, who corrects B-grade Basil (details below). He apologizes; “Oprosti, oprosti…”"></a></div><figcaption><p>Aubrey was given an “A+”; normally the verb <span class="hr" lang="hr">jeb-</span> (fuck) would be subject to grammatical gender (subject to grammatical gender (technically <q class="hr" lang="hr">jeb<b>a</b>o,</q> because the speaker's gender =/= the verb’s) but this gets ignored a lot in practice because people aren’t thinking about grammatical correctness when cursing someone out. Wild.</p><p>Basil, on the other hand, got a “B”-grade. 1)&nbsp;<span class="hr" lang="hr">Izostaviti</span> = “omit,” ≠ “leave out;” 2)&nbsp;“into this” = “<span class="hr" lang="hr">u ovo</span>”; and 3)&nbsp;“Sunny” needs a “<span class="hr" lang="hr">-ja</span>” for grammar reasons I have yet to fully grasp. Thus, corrected sentence: <q class="hr" lang="hr">Ne miješaj Sunnyja u ovo.</q> (Basil got a B anyway, though, because if <span class="hr" lang="hr">izostaviti</span> <em>had</em> been right, the resulting <q class="hr" lang="hr">Izostavi Sunnyja iz ovoga</q> would’ve been much closer!)</p><p>Finally, turns out both apology words were relevant, but in different contexts. <span class="hr" lang="hr">Oprosti</span> = “forgive me,” which is used more casually than its English analogue.</p></figcaption></figure>
   - dt: 2023-03-25
     id: bfs
     img: 2023-03-25_b
@@ -86,7 +86,7 @@ scribs:
     img: 2023-03-28_d
     alt: "Mari reads a photo caption in which Basil seems to call Sunny a “brat.” Basil is flustered."
     tr-hr: |-
-      \[photo caption]: <q class="hr" lang="hr">Mari j njezin brat Sunny!</q>
+      \[photo caption]: <q class="hr" lang="hr">Mari i njezin brat Sunny!</q>
       
       <span class='omo'>Basil</span>: <q class="hr" lang="hr">*Ne ne ne*--- <span lang="en">er</span>, da? <span lang="en">But</span>---</q>
     tr-en: |-
@@ -136,7 +136,7 @@ scribs:
       <span class='omo'>Stranger-Aubrey</span>: <q>*You **will** learn Croatian*</q>  
       <span class='omo'>Basil</span> [approx.]: <q>B-but..\.. 'I want' ≠ 'I wish'... 't-to wish'... I don't know..\..</q>
     an: |-
-      Learned about emphasis! Immediately learned about its origin and a very weird use case. ("<span lang="hr" class="hr">Htjeti</span>" is very much one of the Cursed Words.) Who knew the simple act of desiring (to do, optionally) could be so fraught...!
+      Learned about emphasis! Immediately learned about its origin and a very weird use case. ("<span lang="hr" class="hr">Htjeti</span>" is very much one of the Cursed Words.) Who knew the simple act of desiring (and/or, desiring *to do*) could be so fraught...!
       
       \*Also note that "I'll try my best" apparently doesn't translate as a phrase, for lack of the concept of 'doing one's best.' An alternate approximation is "Ja ću dati sve od sebe," literally "I will give everything from myself."
   - dt: 2023-03-29
