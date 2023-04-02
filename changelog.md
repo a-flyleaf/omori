@@ -73,6 +73,8 @@ log:
     line: Fixed assorted things.
   - dt: 2023-03-30
     line: <a href="hrvatski" lang="hr"><i>Jezik je pojam!</i></a>
+  - dt: 2023-04-01
+    line: <a href="art/roundup-2023-03">March art roundup</a> is a thing.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
