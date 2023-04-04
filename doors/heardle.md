@@ -5,6 +5,11 @@ permalink: heardle
 css: "main img{float:left; max-width:50%; margin-right:1em;} main{overflow:auto;} header.box{padding:.5em 1em;} .h-title{font-weight:bold; display:inline-block;} main li{margin:.5em 0;} li span{display:inline-block;}"
 
 heardle:
+  - date: 2023-04-03
+    num: 166
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: "Trouble Brewing"
+    note: "was <em>almost</em> one for the title pile, but went for a guess and got it!"
   - date: 2023-04-02
     num: 165
     rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️

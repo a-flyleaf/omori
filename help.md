@@ -17,4 +17,15 @@ css: "body{background:url(assets/img/bg-help.png) center repeat; background-atta
 - ratio
 - You are going to be haunted by this game for a very long time.
 </div>
-</main><!--notes for later: Rococo/artist girl/Angel (latter links to Mari/Sunny; scary big sis??); pigtails (f!Omori, Sweetheart, that one imaginary friend/beta character); I forgot to write "parents" from Dad+Mom but I'll probably redo this from scratch later anyway whoops; Sweetheart + Slime Girls have a triad (Sweetheart clones, 3 sisters); ABBI IS BASICALLY JUST A HEAD NOW. a face with tendrils---like Basil's Something???-->
+</main><!--notes for later:
+- Rococo/artist girl/Angel (latter links to Mari/Sunny; scary big sis??)
+- pigtails (f!Omori, Sweetheart, that one imaginary friend/beta character)
+- I forgot to write "parents" from Dad+Mom but I'll probably redo this from scratch later anyway whoops
+- Sweetheart + Slime Girls have a triad (Sweetheart clones, 3 sisters)
+- ABBI IS BASICALLY JUST A HEAD NOW. a face with tendrils---like Basil's Something???
+- aubrey's hair is shaped like an eggplant, mari's is an egg (citation for both, artbook interview), basil is a plant. purple egg plant It's A Link listen my notes just have "-busts through the wall like the coolaid man- ***EGGS ARE FUCKING PURPLE!!!!!!!***"
+	- A+M both push Sunny to better himself, or at least reflect (A interview confirmation+swingset scene, M "expand" "maybe I shouldn't have pushed you so hard")
+	- Anger Issues?? kinda flimsy but how did sunny get to that point
+	- flower connection?? MARI (not Basil!) teaches flower crowns, Aub+Basil pick it up best
+	- "probably more worth investigating is sunny equating aubrey to mari to mom, lmao. “hi mommy. i mean mari. i mean aubrey. i mean, fuck, this is why i don’t talk”"
+-->
