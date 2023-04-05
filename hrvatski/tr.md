@@ -2,7 +2,7 @@
 layout: ws
 title: "Close enough./Dovoljno blizu."
 back: hrvatski
-css: "body{background:#1e1f22; font-family:verdana,sans-serif; line-height:1.65; color:#e0e1e5; text-align:center;} /*hr*/ [lang=hr]{font-style:italic;} [lang=hr] [lang=en]{font-style:normal;} [lang=hr] em,[lang=hr] strong{text-transform:uppercase;} /*header+footer*/ footer{font-size:.75em;} header{margin:0 auto;} h1{font-size:2em; line-height:1.25; padding:.5em 0;} h1 span{display:inline-block;} /*layout*/ article{background:#bcb3a3; max-width:850px; margin:2em auto; font-size:.85em; color:#4a3d2a; padding:.5em;} article ::selection{background:#aaa08e; color:inherit;} h2{font-weight:normal; padding:0 0 .5em; font-size:.85em;} .imgs{margin:.25em 0;} .imgs a:hover,.imgs a:focus,.imgs a:active{opacity:.5;} article p{text-align:left;} figcaption{padding:.5em; color:inherit;} .flag{float:left; margin-right:.5em;} .tr p{margin:.35em 0 .35em 1.5em; line-height:1.35;} hr{opacity:0;} .an{margin-top:-.5em; line-height:1.35;} #end{background:#313338; border-radius:.25em; max-width:850px; margin:0 auto; padding:1em; line-height:1.5;} #end div{margin:-1em 0;} #end q{font-weight:bold;} #end ul{margin:1em 0 1.15em; list-style-type:none;} #end li{margin:.5em 0;} /*bigger*/ @media only screen and (min-width:550px){figcaption{font-size:1em; max-width:27.5em; margin:-.5em auto 0;} .an{font-size:.85em; margin-left:1.75em; padding-right:3.25em;}} /*figcaption{padding:.5em 1em; max-width:650px; margin:0 auto;} .tr{overflow:auto; margin:0 auto;} .tr div{float:left; width:50%;} .tr-hr{padding-right:.5em;} .tr-en{padding-left:.5em;} .flag{margin:0; float:none; width:100%;} .tr p{margin:.5em 0;} hr{margin:.5em 0 1em;}}*/"
+css: "body{background:#1e1f22; font-family:verdana,sans-serif; line-height:1.65; color:#e0e1e5; text-align:center;} /*hr*/ [lang=hr]{font-style:italic;} [lang=hr] [lang=en]{font-style:normal;} [lang=hr] em,[lang=hr] strong{text-transform:uppercase;} /*header+footer*/ footer{font-size:.75em;} header{margin:0 auto;} h1{font-size:2em; line-height:1.25; padding:.5em 0;} h1 span{display:inline-block;} /*layout*/ article{background:#bcb3a3; max-width:850px; margin:2em auto; font-size:.85em; color:#4a3d2a; padding:.5em;} article ::selection{background:#aaa08e; color:inherit;} h2{font-weight:normal; padding:0 0 .5em; font-size:.85em;} .imgs{margin:.25em 0;} .imgs a:hover,.imgs a:focus,.imgs a:active{opacity:.5;} article p{text-align:left;} figcaption{padding:.5em; color:inherit;} .flag{float:left; margin-right:.5em;} .tr p{margin:.35em 0 .35em 1.5em; line-height:1.35;} hr{opacity:0;} .an{margin-top:-.5em; line-height:1.35;} #fin .an{margin-bottom:-1em;} article a:hover,article a:focus,article a:active{color:#866147;} #end{background:#313338; border-radius:.25em; max-width:850px; margin:0 auto; padding:1em; line-height:1.5;} #end div{margin:-1em 0;} #end q{font-weight:bold;} #end ul{margin:1em 0 1.15em; list-style-type:none;} #end li{margin:.5em 0;} /*bigger*/ @media only screen and (min-width:550px){figcaption{font-size:1em; max-width:27.5em; margin:-.5em auto 0;} .an{font-size:.85em; margin-left:1.75em; padding-right:3.25em;} #fin .an{margin-bottom:-.5em;}}"
 
 scribs:
   - img: "01"
@@ -12,7 +12,7 @@ scribs:
     tr-en: |-
       <span class='omo'>Aubrey</span>: <q class="omo">***Let's go, Basil---** you're not [a] stupid guy!!!*</q>
     an: |-
-      With thanks to [r/Croatia](https://old.reddit.com/r/croatian/comments/l0o67a/meaning_and_usage_of_tvojima/) for pointing me towards the "let's go." <q lang="hr">Ajmo</q> is shortened; like "let us go" to "let's go," no one uses the long version.
+      With thanks to [r/Croatia](https://old.reddit.com/r/croatian/comments/l0o67a/meaning_and_usage_of_tvojima/) for pointing me towards the "let's go." <q lang="hr">Ajmo</q> is shortened, but like "let us go" to "let's go," no one uses the long version.
   - img: "02"
     alt: "“Put your whole brain into it!!!” Aubrey yells at a megaphone; Basil is crouched on the ground, reaching at puzzle pieces, screaming. Kel runs over, exclaiming “What the—?”"
   - img: "03"
@@ -63,6 +63,7 @@ scribs:
   - img: "09"
     alt: "Basil’s yell trails off; he has just been standing there, hands raised in a double fistpump. Then he anticlimactically drops into a ball."
   - img: "10"
+    id: fin
     alt: "Basil is wiped, and asks a feeble question in Croatian. Aubrey replies in turn; Kel, offering Basil drink: “Oh, come on—”; Aubrey, patting Basil on the back: “Close enough.” Basil: “y..yaayyyy....”"
     tr-hr: |-
       <span class='omo'>Basil</span>: <q lang="hr">je... je točno...?</q>  
@@ -70,12 +71,14 @@ scribs:
     tr-en: |-
       <span class='omo'>Basil</span>: <q>Is... is correct...?</q>  
       <span class='omo'>Aubrey</span>: <q>Eh... you tried.</q>
+    an: |-
+      <q lang="hr">Je točno?</q> is technically incorrect, in standard Croatian, but I've left it as-is both because 1)&nbsp;it's coincidentally fine in a different dialect and 2)&nbsp;it fits the ongoing (and now very much intentional) trend of Basil having <a href="./#tired-pissedoff-sun">B-grade <span lang="hr">hrvatski</span></a>.
 ---
 <header markdown="1">
 # <span>Close enough.</span> – <span lang="hr">Dovoljno blizu.</span>
 Part of the ongoing <a href="{%include url.html%}/hrvatski">Croatian/<span lang="hr">hrvatski</span> saga</a>. My ever-patient friend & teacher Weeb asked me to translate a sentence..\..
 </header>
-<main><article><h2>2023/04/04</h2>{%for scrib in page.scribs%}<figure><div class="imgs"><a href="{%include url.html%}/assets/img/hr/2023-04-04/{{scrib.img}}.png"><img src="{%include url.html%}/assets/img/hr/2023-04-04/{{scrib.img}}.png" alt="{{scrib.alt}}"></a></div><figcaption>{%if scrib.tr-hr%}<div class="tr"><div class="tr-hr"><span class="flag">🇭🇷</span>{{scrib.tr-hr|markdownify}}</div><div class="tr-en"><span class="flag">🇺🇸</span>{{scrib.tr-en|markdownify}}</div></div>{%endif%}{%if scrib.an%}<hr><div class="an">{{scrib.an|markdownify}}</div>{%endif%}</figcaption></figure>{%endfor%}</article><div id="end"><div markdown="1">
+<main><article><h2>2023/04/04</h2>{%for scrib in page.scribs%}<figure{%if scrib.id%} id="{{scrib.id}}"{%endif%}><div class="imgs"><a href="{%include url.html%}/assets/img/hr/2023-04-04/{{scrib.img}}.png"><img src="{%include url.html%}/assets/img/hr/2023-04-04/{{scrib.img}}.png" alt="{{scrib.alt}}"></a></div><figcaption>{%if scrib.tr-hr%}<div class="tr"><div class="tr-hr"><span class="flag">🇭🇷</span>{{scrib.tr-hr|markdownify}}</div><div class="tr-en"><span class="flag">🇺🇸</span>{{scrib.tr-en|markdownify}}</div></div>{%endif%}{%if scrib.an%}<hr><div class="an">{{scrib.an|markdownify}}</div>{%endif%}</figcaption></figure>{%endfor%}</article><div id="end"><div markdown="1">
 The sentence was <q>Mari is listening to the violin playing of her brother Sunny.</q>
 
 - Translation I landed on, as dramatic-anime-yelled by Basil above:  
