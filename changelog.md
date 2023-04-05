@@ -77,6 +77,11 @@ log:
     line: <a href="art/roundup-2023-03">March art roundup</a> is a thing.
   - dt: 2023-04-03
     line: Made <a href="mari">a silly</a>, tweaked some stuff.
+  - dt: 2023-04-04
+    line: Translated a thing...
+    done: |-
+      - <a href="art/hr-tr">standalone art version</a>
+      - <a href="hrvatski/tr">version with commentary</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
