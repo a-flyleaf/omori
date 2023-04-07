@@ -82,6 +82,8 @@ log:
     done: |-
       - <a href="art/hr-tr">standalone art version</a>
       - <a href="hrvatski/tr">version with commentary</a>
+  - dt: 2023-04-07
+    line: Improved <a href="mari">the silly</a> :)
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
