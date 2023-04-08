@@ -5,6 +5,16 @@ permalink: heardle
 css: "main img{float:left; max-width:50%; margin-right:1em;} main{overflow:auto;} header.box{padding:.5em 1em;} .h-title{font-weight:bold; display:inline-block;} main li{margin:.5em 0;} li span{display:inline-block;}"
 
 heardle:
+  - date: 2023-04-07
+    num: 170
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: "How...sad!"
+    bc: how-sad
+  - date: 2023-04-06
+    num: 169
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: "Crossroads"
+    note: "ngl if I hadn't just listened to this last night I probably would’ve thought it was <a href='https://omori.bandcamp.com/track/see-you-tomorrow'>See You Tomorrow</a>…"
   - date: 2023-04-03
     num: 166
     rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
