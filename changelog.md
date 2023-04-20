@@ -87,6 +87,8 @@ log:
     done: |-
       - improved <a href="mari">the silly</a> :)
       - unrelated art: <a href="art/aub3">untitled thing</a>
+  - dt: 2023-04-20
+    line: Finished drawing <a href="art/au-thing">a thing</a>.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

@@ -5,6 +5,27 @@ permalink: heardle
 css: "main img{float:left; max-width:50%; margin-right:1em;} main{overflow:auto;} header.box{padding:.5em 1em;} .h-title{font-weight:bold; display:inline-block;} main li{margin:.5em 0;} li span{display:inline-block;}"
 
 heardle:
+  - date: 2023-04-20
+    num: 4
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: "See In Your Fantasy"
+    bc-num: 2
+    note: "title pile~"
+  - date: 2023-04-18
+    num: 2
+    rec: 🔇🟥🟥🟥🟥🟥🟥
+    ost: "Sweet Paralysis"
+    note: ". . . <em>huh</em>, looks like the count restarted when I wasn’t paying attention. anyway, first time I had <em>absolutely no clue</em> what I was listening to—which is a crying shame, I liked this boss! >:V ugh, sooo much I need to revisit in this game…. anyway, scant traces of Humphrey around 0:26? weird, weird boss."
+  - date: 2023-04-11
+    num: 174
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: "Recycling Is A Concept!"
+    bc-num: 2
+  - date: 2023-04-08
+    num: 171
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: "Pyrefly Forest - Cat’s Cradle"
+    bc: pyrefly-forest-cats-cradle
   - date: 2023-04-07
     num: 170
     rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
