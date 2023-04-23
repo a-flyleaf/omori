@@ -46,13 +46,8 @@ linked on the index via ~~mini door, draw a new one~~ oh what if it's a key actu
 - CDs!! they're not in the official OST. could be extended to other not-OST track videos, like slowed versions in Black Space 2?
 	- bonus points for an HTML table that kinda mirrors the Black Space refthing, aligned right and everything
 	- the LP has some of these non-OST tracks, or at least the Black Space clock one and *presumably* others
-- what's a 90s-style indie site without random one-off pages. like, you type in "[url]/kel" and get a SLAM DUNK gif or something. the omori page can be a hub for all this
-	- "a-flyleaf.github.io/omori/omori"... mewo (mewo). omori (omori). vri
-	- [omori (omori)](https://beforeireadhomestuck.tumblr.com/post/122010041909/before-i-read-homestuck-i-thought-that-vriska-was)
-		- I still think his character arc is an allegory for the fall of man. Think about it - the protagonist of everything is haunted by Basil (inability to repent) and betrayed Mari (female) and Basil also (the LGBT community) in order to suck up to a devious murderbeast (himself), who gets irrationally over his fear of spiders (Something), a dark web of unholy lies which he does not truly know or understand because actions directly contradict his happier ideals and goals.  
-		Sunny must also confront Aubrey (the increasingly dispossessed and disillusioned exiles from Eden) and Omori (Omori) with the intention of stabbing them as well, while his past self has made futile attempts at flirting with Kel (true escapism).  
-		It just makes too much sense.  
-		(Secret because I don't want to imply that Omocat wants the queer faithful to engage in prayer with broken violins in this coming communion.)
+- what's a 90s-style indie site without random one-off pages. like, you type in "[url]/kel" and get a SLAM DUNK gif or something.
+	- ~~omori~~, sunny?, kel, hero, aubrey, basil, ~~mari~~, something
 - ``/headspace-faraway``. Just a standalone doodle for now.
 	- or maybe I'll end up smushing this together with the OTHER au idea lol help
 
@@ -64,6 +59,7 @@ linked somewhere, but nowhere specific
 - [Hrvatski saga]({%include url.html%}/hrvatski)
 - [Mari.]({%include url.html%}/mari)
 - [piano~]({%include url.html%}/piano)
+- [Omori (Omori)]({%include url.html%}/omori)
 
 ----
 
