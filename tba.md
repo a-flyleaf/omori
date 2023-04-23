@@ -35,26 +35,31 @@ Wow, I swear I write more than buckets of angst. I want them to be happy but I a
 </div>
 
 ## other pages
-linked on the index via mini door, draw a new one
+linked on the index via ~~mini door, draw a new one~~ oh what if it's a key actually
 - guide to ripping the sprites/music + what the folders/files actually are
 	- optional commentary for the latter (compiled from the txt note); either separate pages or use details
 	- +absolutely blursed comment for the filerip page: “[x] is that one picture of everyone’s (least?) favorite donut, in case you wanted Sweetheart’s hole in high definition for whatever reason.”  
 	thought of THAT out of nowhere and i hate it, i Must inflict it upon the world
 - achievement checklist, noting which route (both, true, hikikomori) & simplest how-to (story checkpoint, do xyz)
 	- version for me, as of first playthrough
-	- for ease of copying, two versions in a textarea: one with markdown formatting (checklist via ``[ ]``, ``###`` h3 headers) and one that's basically idetical but not markdown-specific
+	- for ease of copying, two versions in a textarea: one with markdown formatting (checklist via ``[ ]``, ``###`` h3 headers) and one that's basically identical but not markdown-specific
 - CDs!! they're not in the official OST. could be extended to other not-OST track videos, like slowed versions in Black Space 2?
 	- bonus points for an HTML table that kinda mirrors the Black Space refthing, aligned right and everything
 	- the LP has some of these non-OST tracks, or at least the Black Space clock one and *presumably* others
 - what's a 90s-style indie site without random one-off pages. like, you type in "[url]/kel" and get a SLAM DUNK gif or something. the omori page can be a hub for all this
 	- "a-flyleaf.github.io/omori/omori"... mewo (mewo). omori (omori). vri
+	- [omori (omori)](https://beforeireadhomestuck.tumblr.com/post/122010041909/before-i-read-homestuck-i-thought-that-vriska-was)
+		- I still think his character arc is an allegory for the fall of man. Think about it - the protagonist of everything is haunted by Basil (inability to repent) and betrayed Mari (female) and Basil also (the LGBT community) in order to suck up to a devious murderbeast (himself), who gets irrationally over his fear of spiders (Something), a dark web of unholy lies which he does not truly know or understand because actions directly contradict his happier ideals and goals.  
+		Sunny must also confront Aubrey (the increasingly dispossessed and disillusioned exiles from Eden) and Omori (Omori) with the intention of stabbing them as well, while his past self has made futile attempts at flirting with Kel (true escapism).  
+		It just makes too much sense.  
+		(Secret because I don't want to imply that Omocat wants the queer faithful to engage in prayer with broken violins in this coming communion.)
 - ``/headspace-faraway``. Just a standalone doodle for now.
 	- or maybe I'll end up smushing this together with the OTHER au idea lol help
 
-### done
+### /doors (and art thing)
 linked somewhere, but nowhere specific
 - [Black Space area ref]({%include url.html%}/black-space)
-- [OMORI ALTER]({%include url.html%}/art/omori-alter), if I end up with multiple art-offshoot pages)
+- [OMORI ALTER]({%include url.html%}/art/omori-alter), if I end up with multiple art-offshoot pages
 - [Heardle]({%include url.html%}/heardle)
 - [Hrvatski saga]({%include url.html%}/hrvatski)
 - [Mari.]({%include url.html%}/mari)
