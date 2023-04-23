@@ -89,6 +89,8 @@ log:
       - unrelated art: <a href="art/aub3">untitled thing</a>
   - dt: 2023-04-20
     line: Finished drawing <a href="art/au-thing">a thing</a>.
+  - dt: 2023-04-23
+    line: Played <a href="piano">some piano</a>.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
