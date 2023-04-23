@@ -8,7 +8,7 @@ img:
   link: a-space
 css: ".gif:hover,.gif:focus,.gif:active{background-image:url(assets/img/ws-omori-sit.gif);} #fork{float:right; padding-bottom:1em; margin-top:-.5em;} .box li{margin:.25em 0;} .box li>ul>li{margin:0;}"
 ---
-Hi there~ I'm [a-flyleaf](https://a-flyleaf.github.io/) and <i class="omo">Omori</i> has taken over my life. I don't use social media these days but wanted to dump my [unhinged scrawlings]({%include url.html%}/meta) *somewhere*, and since I know how to code, this site exists! There are no secrets in the HTML, but feel free to poke around.<!--You fucker. ;V ...But seriously, this is it. Any other code comments are notes-to-self that I probably forgot to delete.-->
+Hi there~ I'm [a-flyleaf](https://a-flyleaf.github.io/) and <i class="omo">Omori</i> has taken over my life. I don't use social media these days but wanted to dump my various scrawlings *somewhere*, and since I know how to code, this site exists! There are no secrets in the HTML, but feel free to poke around.<!--You fucker. ;V ...But seriously, this is it. Any other code comments are notes-to-self that I probably forgot to delete.-->
 
 ## Why is the back button at the bottom of every page so pointy?
 I spent over half the game thinking those squiggly little guys in White Space were forks and not hands. To commemorate my lunacy I've made them actual forks here.
@@ -20,7 +20,7 @@ I spent over half the game thinking those squiggly little guys in White Space we
 - ~~Favorite character~~ <b>Character tierlist<!--this can be a link later--> in a nutshell</b>: Aubrey & Kel \>\> Sunny/Omori & Basil > Mari & Hero (sorry. damned by lack of strong feelings, not active dislike)
 - <b>Favorite scenes</b>: "It Means Everything." (full church scene; before, during, and after) & Omori boss fight for the drama; ghost dance cutscene for the Top 10 Heartwarming Moments Before Certain Disaster
 - <b>Has played Hikikomori</b>: Not yet....
-- <b>Plays piano</b>: With the aptitude of someone who's gotten really good at paint-by-numbers but doesn't understand anatomy. Nonetheless, yes!
+- <b>Plays piano</b>: With the aptitude of someone who's gotten really good at paint-by-numbers but doesn't understand anatomy. [Nonetheless, yes!]({%include url.html%}/piano)
 - <b>Other RPGs played</b>: [<i class="omo">Off</i>](https://off.fandom.com/wiki/OFF_Wiki), [<i class="omo">Undertale</i>](https://undertale.com/) + [<i style="font-style:normal;">deltarune</i>](https://deltarune.com/), and a handful of <i>Pokémon</i> installments
 - <b>Most likely to</b>:
 	- point at <i class="omo">Off</i> references and go "That's an <i class="omo">Off</i> reference :D"

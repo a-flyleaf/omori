@@ -5,6 +5,22 @@ permalink: heardle
 css: "main img{float:left; max-width:50%; margin-right:1em;} main{overflow:auto;} header.box{padding:.5em 1em;} .h-title{font-weight:bold; display:inline-block;} main li{margin:.5em 0;} li span{display:inline-block;}"
 
 heardle:
+  - date: 2023-04-23
+    num: 7
+    rec: 🔉🟥🟩⬜️⬜️⬜️⬜️
+    ost: "Stationary Rose"
+    note: "sweetheart. 😔"
+  - date: 2023-04-22
+    num: 6
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: "Space Road 1979"
+    bc-num: 2
+    note: "Pile Titlea—although <em>this</em> check feels like cheating tbh, because I’ve gone back to this one before…."
+  - date: 2023-04-21
+    num: 5
+    rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
+    ost: "I Prefer My Pizza 90% Grease"
+    note: "I should really just add some emoji marker for the title pile but this whole page needs a revamp in general so."
   - date: 2023-04-20
     num: 4
     rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
@@ -15,7 +31,7 @@ heardle:
     num: 2
     rec: 🔇🟥🟥🟥🟥🟥🟥
     ost: "Sweet Paralysis"
-    note: ". . . <em>huh</em>, looks like the count restarted when I wasn’t paying attention. anyway, first time I had <em>absolutely no clue</em> what I was listening to—which is a crying shame, I liked this boss! >:V ugh, sooo much I need to revisit in this game…. anyway, scant traces of Humphrey around 0:26? weird, weird boss."
+    note: ". . . <em>huh</em>, looks like the count restarted when I wasn’t paying attention. anyway, first time I had <em>absolutely no clue</em> what I was listening to—which is a crying shame, I liked this boss! >:V ugh, sooo much I need to revisit in this game…. anyway, scant traces of Humphrey around 0:26? weird, weird boss. | edit: oh, I forgot there’s a skip button…."
   - date: 2023-04-11
     num: 174
     rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
@@ -35,7 +51,7 @@ heardle:
     num: 169
     rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
     ost: "Crossroads"
-    note: "ngl if I hadn't just listened to this last night I probably would’ve thought it was <a href='https://omori.bandcamp.com/track/see-you-tomorrow'>See You Tomorrow</a>…"
+    note: "ngl if I hadn’t just listened to this last night I probably would’ve thought it was <a href='https://omori.bandcamp.com/track/see-you-tomorrow'>See You Tomorrow</a>…"
   - date: 2023-04-03
     num: 166
     rec: 🔊🟩⬜️⬜️⬜️⬜️⬜️
@@ -193,4 +209,4 @@ heardle:
 Heardle is a fun little thing, and [the <span class="omo">Omori</span> version](https://omori-heardle-2-5.glitch.me/) is good for showing off just how familiar you are with the OST. It was also clogging my notes so \*dumps it unceremoniously here\*
 
 {%assign notes = page.heardle | reversed%}
-<ul>{%for note in notes%}<li><span>{{note.date|date:"%b.%d"}}</span> #{{note.num}} <span>{{note.rec}}</span>: <span><a href="https://omori.bandcamp.com/track/{%if note.bc%}{{note.bc}}{%else%}{{note.ost|downcase|replace:' ','-'|remove:'.'|remove:','|remove:'!'}}{%if note.bc-num%}-{{note.bc-num}}{%endif%}{%endif%}" class="h-title">{{note.ost}}</a></span>{%if note.note%} ({{note.note}}){%endif%}</li>{%endfor%}</ul>
+<ul>{%for note in notes%}<li><span>{{note.date|date:"%b.%d"}}</span> #{{note.num}} <span>{{note.rec}}</span>: <span><a href="https://omori.bandcamp.com/track/{%if note.bc%}{{note.bc}}{%else%}{{note.ost|downcase|replace:' ','-'|remove:'.'|remove:','|remove:'!'|remove:'%'}}{%if note.bc-num%}-{{note.bc-num}}{%endif%}{%endif%}" class="h-title">{{note.ost}}</a></span>{%if note.note%} ({{note.note}}){%endif%}</li>{%endfor%}</ul>
