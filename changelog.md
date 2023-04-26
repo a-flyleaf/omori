@@ -96,6 +96,8 @@ log:
       - misc: assorted fixes
   - dt: 2023-04-25
     line: Updated <a href="art/au-thing">the piano thing</a>.
+    done: |-
+      - art: <a href="art/h20">standalone gif</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
