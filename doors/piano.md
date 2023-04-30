@@ -25,17 +25,17 @@ I am in deep and irrevocable love with piano arrangements of non-piano music---a
 <div class="box" markdown="1">
 v1, February--April 2023. Thought this song and "[Spaces In-between](https://omori.bandcamp.com/track/spaces-in-between)" might be in the same key, played around to confirm, and it took off from there. First time actually finishing & publishing a piano arrangement \o/ It's a bit rough, especially where the White&nbsp;Space motif comes in, and the left hand could have more variation, but overall I’m pretty satisfied with it!
 
-Intentionally lacks legato, pedal, and most dynamic markings because I ~~didn't feel like wrangling MuseScore more than I already had~~ figure those can be left to the player. Personally, I play it with lots of legato, gratuitous sustain, and overall mid-soft except where noted. That impossible chord at the end just needs descending notes; I like to slow down to the very end.
+Intentionally lacks legato, pedal, and most dynamic markings because I ~~didn't feel like wrangling MuseScore more than I already had~~ figure those can be left to the player. Personally, I play it with lots of legato, gratuitous sustain, and overall mid-soft except where noted.
 
 Fun fact: I wanted to incorporate pieces from <i>[Pavane pour une infante défunte](https://piped.video/watch?v=phGnV7BBxxQ)</i>, especially the part in a similar key (1:14 in the linked video), but my "process" (transcribe the left&nbsp;hand, then the melody, then mess around with other notes for ~flourish~) didn't leave much room for major improvisations. Mostly putting this here as a self-reminder, if I ever revisit the composition.... >:Vc  
-edit: This has nothing to do with the composition directly, but for the record, the *day after* uploading this I found [this song](https://piped.video/watch?v=Ec5NB25XB6E&list=PLjvay0GNhW9Zf5OeEEI6VoFSYgoK3N_7c&index=6), and then [its piano version](https://rubymydear.bandcamp.com/track/charade-piano-version). Sound familiar?!??
+edit: This has nothing to do with anything directly, but for the record, the *day after* making this page I found [this song](https://piped.video/watch?v=Ec5NB25XB6E&list=PLjvay0GNhW9Zf5OeEEI6VoFSYgoK3N_7c&index=6), and then [its piano version](https://rubymydear.bandcamp.com/track/charade-piano-version). Sound familiar?!??
 
 ----
 
 Some notes on my playthrough:
-- The recording as posted was the 11th take---not including countless prior attempts on other days. There are some pedaling quirks but I'm happy I finally got everything right in one go \o\"/
+- The recording posted was the 11th take---not including countless prior attempts on other days. There are some pedaling quirks but I'm happy I finally got all the notes right in one go \o\"/
 - My kingdom for decent recording equipment.... Shout-out to [Audacity](https://www.audacityteam.org/) for some (very sparse) noise reduction.
-- On that note (har har) I think the volume differentials could've come out better but *oh&nbsp;well.* It always sounds better and more subtle and everything in person >:V
+- On that note (har har) I think the volume differentials could've come out better but *oh&nbsp;well.* It always sounds richer and more subtle and everything in person >:V
 - My right hand is physically unable to reach a full octave; if you listen closely I have a few notes down on the sheet music that aren't played. The chord in measure&nbsp;65 is "split" from my left hand jumping up to play the lower F#.
 - The *very* end, meanwhile, may or may not be possible for *anyone* to play as an actual arpeggio. I kept it that way on the sheet music because *shrug,* that's the spirit of the sound, but IMO it also sounds alright with each note more defined.
 </div>

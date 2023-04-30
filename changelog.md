@@ -95,7 +95,7 @@ log:
       - page draft: <a href="piano">piano</a>
       - misc: assorted fixes
   - dt: 2023-04-25
-    line: Updated <a href="art/au-thing">the piano thing</a>.
+    line: Updated the piano thing.
     done: |-
       - art: <a href="art/h20">standalone gif</a>
 ---
