@@ -12,7 +12,7 @@ css: hr
 	{%for scrib in page.scribs%}<article{%if scrib.id%} id="{{scrib.id}}"{%endif%} class="{{scrib.typ}}">
 		<h2>{{scrib.dt|date:"%Y/%m/%d"}}</h2>{%for pic in scrib.imgs%}
 		<figure>
-			<div class="imgs"><a href="{%include url.html%}/assets/img/hr/{{pic.dt|date:"%Y-%m-%d"}}{%if pic.img%}{{pic.img}}{%endif%}.png"><img src="{%include url.html%}/assets/img/hr/{{pic.dt|date:"%Y-%m-%d"}}{%if pic.img%}{{pic.img}}{%endif%}.pngg" alt="{{pic.alt}}" title="{{pic.alt}}"></a></div>{%if pic.tr-hr%}
+			<div class="imgs"><a href="{%include url.html%}/assets/img/hr/{{pic.dt|date:"%Y-%m-%d"}}{%if pic.img%}{{pic.img}}{%endif%}.png"><img src="{%include url.html%}/assets/img/hr/{{pic.dt|date:"%Y-%m-%d"}}{%if pic.img%}{{pic.img}}{%endif%}.png" alt="{{pic.alt}}" title="{{pic.alt}}"></a></div>{%if pic.tr-hr%}
 			<figcaption><div class="tr-hr"><span class="flag">🇭🇷</span>{{pic.tr-hr|markdownify}}</div><div class="tr-en"><span class="flag">🇺🇸</span>{{pic.tr-en|markdownify}}</div></figcaption>
 		{%endif%}</figure>{%endfor%}{%if scrib.an%}<hr>
 		<div class="an">{{scrib.an|markdownify}}</div>{%endif%}
