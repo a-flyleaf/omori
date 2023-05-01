@@ -1,0 +1,46 @@
+/*layout+general styling*/
+body{background:#2b2d31; font-family:verdana,sans-serif; line-height:1.65; color:#e0e1e5; text-align:center;}
+.wrap{max-width:1115px; padding:1em;}
+a{color:inherit;} a:focus,a:hover,a:active{color:#fff;}
+::selection{background:#000; color#fff;}
+header,main{background:#1e1f22;}
+#navthing,footer,h2,article p{font-size:.85em;}
+#navthing,h2,footer{color:#82858f;}
+
+#navthing{background:#2b2d31;} #omo{text-decoration:none;}
+#h-info span{display:inline-block;}
+h1{font-size:2em; line-height:1.25; padding:.5em 0;}
+
+#nx{margin:3em 0 5em;}
+#nx a:hover,#nx a:focus,#nx a:active{opacity:.75;}
+#back{opacity:.5; display:inline-block; margin:0 0 .5em;} #back:hover,#back:focus,#back:active{opacity:1;}
+
+/*content*/
+main [lang=hr]{font-style:italic;}
+main [lang=hr] [lang=en]{font-style:normal;}
+main [lang=hr] em{font-weight:bold;}
+
+article{max-width:850px; margin:2em auto; padding:1em; background:#313338;} article:first-of-type{margin-top:0;}
+.sn{border-radius:.35em;} .sn img{border-radius:5px;}
+h2{font-weight:normal; margin-bottom:.5em;}
+figure{margin-bottom:1em;} .ml figure{margin-bottom:1.5em;}
+.imgs a:hover,.imgs a:focus,.imgs a:active{opacity:.65;}
+article p{text-align:left; margin:.5em 0;}
+
+.flag{float:left; margin-right:.5em;} figcaption p{margin:.5em 0 .5em 2em;}
+
+
+hr{margin:1em 0;}
+.an p:last-of-type{margin-bottom:0;}
+/*ne need za .tr, entire figcaption should be translation i author's note je u article. isto, NE FLOAT unless screen je wide enough!!*/
+
+/*OG
+.tr{overflow:auto; padding:0 1em .5em;} .tr div{width:50%; float:left;} .tr-hr{padding-right:.5em;} .tr-en{padding-left:.5em;} .flag{display:block; margin-bottom:-1em;} .an{padding:.75em 1em 0;}
+/*decoration*-/ article p a{background:#4e5058; padding:0 .25em; text-decoration:none; border-radius:.25em; margin:0 -.1em;} article p a:hover,article p a:focus,article p a:active{color:#fff; background:#5865f2;} article u{text-decoration-thickness:.125em; text-decoration-color:#888a8e;} article s{color:#82858f}
+/*tiny*-/ @media only screen and (max-width:550px){.tr{padding:0 0 .5em;} .an{padding:.75em 0 0; margin-bottom:-1em;} .tr div{width:100%; padding:0;}}
+
+/*2
+figcaption{padding:.5em; color:inherit;} .flag{float:left; margin-right:.5em;} .tr p{margin:.35em 0 .35em 1.5em; line-height:1.35;} hr{opacity:0;} .an{margin-top:-.5em; line-height:1.35;}
+#fin .an{margin-bottom:-1em;} article a:hover,article a:focus,article a:active{color:#866147;} #end{background:#313338; border-radius:.25em; max-width:850px; margin:0 auto; padding:1em; line-height:1.5;} #end div{margin:-1em 0;} #end q{font-weight:bold;} #end ul{margin:1em 0 1.15em; list-style-type:none;} #end li{margin:.5em 0;}
+/*bigger*-/ @media only screen and (min-width:550px){figcaption{font-size:1em; max-width:27.5em; margin:-.5em auto 0;} .an{font-size:.85em; margin-left:1.75em; padding-right:3.25em;} #fin .an{margin-bottom:-.5em;}}"
+*/
