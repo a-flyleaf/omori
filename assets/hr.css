@@ -31,13 +31,23 @@ figure{margin-bottom:1em;} .ml figure{margin-bottom:1.5em;} .ml figure:last-of-t
 .imgs a:hover,.imgs a:focus,.imgs a:active{opacity:.65;}
 article p,article ul{text-align:left;} article p{margin:.5em 0; font-size:.95em;}
 
-.flag{float:left; margin-right:.5em;} figcaption p{margin:.5em 0 .5em 2em;}
+figcaption{overflow:auto;} .flag{float:left; margin-right:.5em;} figcaption p{margin:.5em 0 .5em 2em;}
 sup{font-size:.75em; font-style:normal;}
 #fn p{margin-left:0; font-size:.85em; line-height:1.5;}
 
 hr{margin:1em 0;}
 .an p:last-of-type{margin-bottom:0;}
 .cn .an p{text-align:center;}
+
+@media only screen and (min-width:600px){
+	figcaption,.an,.fn{max-width:800px; margin:0 auto;}
+	figcaption{margin-bottom:0;}
+	.tr-hr,.tr-en{width:50%; float:left;}
+	.flag{display:block; float:none; margin-bottom:-.5em;}
+	figcaption p{margin:.5em;}
+}
+
+/*big*/
 /*ne need za .tr, entire figcaption should be translation i author's note je u article. isto, NE FLOAT unless screen je wide enough!!*/
 
 /*OG
