@@ -46,17 +46,3 @@ hr{margin:1em 0;}
 	.flag{display:block; float:none; margin-bottom:-.5em;}
 	figcaption p{margin:.5em;}
 }
-
-/*big*/
-/*ne need za .tr, entire figcaption should be translation i author's note je u article. isto, NE FLOAT unless screen je wide enough!!*/
-
-/*OG
-.tr{overflow:auto; padding:0 1em .5em;} .tr div{width:50%; float:left;} .tr-hr{padding-right:.5em;} .tr-en{padding-left:.5em;} .flag{display:block; margin-bottom:-1em;} .an{padding:.75em 1em 0;}
-/*decoration*-/ article p a{background:#4e5058; padding:0 .25em; text-decoration:none; border-radius:.25em; margin:0 -.1em;} article p a:hover,article p a:focus,article p a:active{color:#fff; background:#5865f2;} article u{text-decoration-thickness:.125em; text-decoration-color:#888a8e;} article s{color:#82858f}
-/*tiny*-/ @media only screen and (max-width:550px){.tr{padding:0 0 .5em;} .an{padding:.75em 0 0; margin-bottom:-1em;} .tr div{width:100%; padding:0;}}
-
-/*2
-figcaption{padding:.5em; color:inherit;} .flag{float:left; margin-right:.5em;} .tr p{margin:.35em 0 .35em 1.5em; line-height:1.35;} hr{opacity:0;} .an{margin-top:-.5em; line-height:1.35;}
-#fin .an{margin-bottom:-1em;} article a:hover,article a:focus,article a:active{color:#866147;} #end{background:#313338; border-radius:.25em; max-width:850px; margin:0 auto; padding:1em; line-height:1.5;} #end div{margin:-1em 0;} #end q{font-weight:bold;} #end ul{margin:1em 0 1.15em; list-style-type:none;} #end li{margin:.5em 0;}
-/*bigger*-/ @media only screen and (min-width:550px){figcaption{font-size:1em; max-width:27.5em; margin:-.5em auto 0;} .an{font-size:.85em; margin-left:1.75em; padding-right:3.25em;} #fin .an{margin-bottom:-.5em;}}"
-*/

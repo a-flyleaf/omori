@@ -190,27 +190,6 @@ scribs:
         <span lang="hr" style="text-transform:uppercase;">*It's not* Russian!!!!</span>
     an: |-
       And thus the lore expands.
-  - dt: 2023-05-01
-    id: tense
-    typ: sn cn
-    note: |-
-      Bonus: was gonna leave off with ↑ that one but I had an inexplicable amount of trouble with this line, so: <!--but might move this to next month's page. if that's a thing that happens (it probably will)-->
-    imgs:
-    - alt: Back in Basil’s special hell, Stranger-Aubrey points at three variations of a sentence on a chalkboard. (Faintly in the background, a drawing of him and Sunny has been erased.) Basil is distressed.
-      tr-hr: |-
-        <span lang="hr"><span lang="en">Room</span> Crnog Prostora: <s class="ne">Škola Aubreya 2</s></span> <span lang="en">tension. geddit---</span>
-        
-        - <span lang="hr">perfekt: *nije* razumio</span>
-        - <span lang="hr">prezent: *ne* razumije</span>
-        - <span lang="hr">futur 1: *neće* razumiti</span>
-      tr-en: |-
-        Room of Black Space: <s class="ne">Aubrey School 2</s> tension. geddit---
-        
-        - [~]past tense: [he] *didn't* understand
-        - [~]present tense: [he] *doesn't* understand
-        - [~]future tense: [he] *won't* understand
-    an: |-
-      Croatian and English tenses are not, by a long shot, 1:1.
 ---
 ČčĆćĐđŠšŽž
 …‘’“”—

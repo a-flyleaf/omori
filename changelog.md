@@ -98,6 +98,8 @@ log:
     line: Updated the piano thing.
     done: |-
       - art: <a href="art/h20">standalone gif</a>
+  - dt: 2023-05-01
+    line: <a href="hrvatski/ostatak-aprila" lang="hr"><i>Jezik je <span lang="en">(still)</span> pojam!</i></a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
