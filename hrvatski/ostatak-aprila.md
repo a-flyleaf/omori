@@ -3,7 +3,7 @@ layout: hr
 title: Jezik je (still) pojam!
 back: tr
 
-css: "#jazz hr{display:none;} .svi{background:#7c7b79; color:#e2ecdd;} .svi h2{color:#cbbfa2;} p+ul{margin:.25em 0 0 2em;} li ul{font-size:.85em;} figcaption ul{list-style-type:none; margin-left:2em;} .svi ::selection{background:#5b5a58;} article{overflow:auto;} #clueless{margin:2em 0 -.5em 0; color:#b1b3ba;} #clueless img{max-width:50%;} #clueless figcaption p{margin:0; font-size:.85em;}"
+css: "#jazz figure+hr{display:none;} .svi{background:#7c7b79; color:#e2ecdd;} .svi h2{color:#cbbfa2;} p+ul{margin:.25em 0 0 1em;} li ul{font-size:.85em; margin-bottom:.15em;} figcaption ul{list-style-type:none; margin-left:2em;} .svi ::selection{background:#5b5a58;} article{overflow:auto;} #clueless{margin:2em 0 -.5em 0; color:#b1b3ba;} #clueless img{max-width:400px;} #clueless figcaption p{margin:0; font-size:.85em;}"
 
 h1: "<span lang='hr'><span>Jezik je</span> <span><span lang='en'>(still)</span> pojam!</span></span>"
 htxt: >-
@@ -26,9 +26,9 @@ scribs:
         <span class="omo">Basil</span>: <q>Thank[s]--- *'I'm sorry'??*</q>  
         <span class="omo">Aubrey</span>: <q>He doesn't even know Croatian..\..</q>
     an: |-
-      <sup>[1]</sup> <span lang="hr">"Da"</span> usually means "yes," but in this *specific* context it also stands in for "that": If it's used in an independent clause (e.g. "Sorry <u>that I attacked your eye</u>"), then <span lang="hr">"da"</span> as "that" checks out; unlike in English, the "<span lang="hr">da</span>/that" isn't dropped. Otherwise (e.g. "Sorry for attacking your eye"), no dice.
+      <sup>[1]</sup> <span lang="hr">"Da"</span> usually means "yes," but in this *specific* context it also means "that": If it's used in an independent clause (e.g. "Sorry <u>that I attacked your eye</u>"), then <span lang="hr">"da"</span> as "that" checks out; unlike in English, the "<span lang="hr">da</span>/that" isn't dropped. Otherwise (e.g. "Sorry for attacking your eye"), no dice.
       
-      <sup>[2]</sup> This bit gave me issues; the original thought was "I have problems," and after I ran around in a small circle trying to use pinpoint a more specific word for "problems," Weeb nudged me back to a 1:1 translation. (Alternatives: "I have issues," "I am dysfunctional/mentally&nbsp;ill," "I am unwell." General sentiment of "I'm fucked&nbsp;up [but not phrased in an overly clinical or serious way]." "There's something wrong with me" sounded a bit harsh in English but ¯\\\_(&nbsp;:V&nbsp;)_/¯, I do not have enough cultural context for a better phrasing!)
+      <sup>[2]</sup> This bit gave me issues; the original thought was "I have problems," and after I ran around in a small circle trying to pinpoint a more specific word for "problems," Weeb nudged me back to a 1:1 translation. (Alternatives: "I have issues," "I am dysfunctional/mentally&nbsp;ill," "I am unwell." General sentiment of "I'm fucked&nbsp;up [but not phrased in an overly clinical or serious way]." "There's something wrong with me" sounded a bit harsh in English but ¯\\\_(&nbsp;:V&nbsp;)_/¯, I do not have enough cultural context for a better phrasing!)
       
       +"Tup" sound effect courtesy [Wikipedia](https://en.wikipedia.org/wiki/Cross-linguistic_onomatopoeias#Dull_strike).
   - dt: 2023-04-13
@@ -38,23 +38,33 @@ scribs:
     - alt: Wall of every scribble thus far, shoehorned into something resembling a chronology.
     an: |-
       Since this is basically <span lang="hr" class="noi">jezik</span> pingpong, here's the whole thing in one go:
-      - "<s style="color:inherit; text-decoration-thickness:initial;">Ya like lore?</s> <span lang="hr">Uživaš li priča?</span>" [lit. "Do you enjoy story?"]
-        - "Lore," being more of a Meme Word, could've been left as-is.
+      - "<s style="color:inherit; text-decoration-thickness:initial;">Ya like lore?</s> <span lang="hr">Uživaš li priča?</span>" [attempted "Do you enjoy story?"]
+        - "Lore," being more of a Meme Word in this context, could've been used untranslated.
+        - <q lang="hr">Uživati</q> ("to enjoy") is also a weird verb, so this is also wrong on a few other levels I don't *quite* grok yet.
       - <span lang="hr">Početak</span>. [Beginning.]
       - 1.&nbsp;Aubrey inexplicably <span lang="hr">hrvat</span> [a Croat], <span lang="hr">učio</span> [teaches] Basil (some) <span lang="hr">hrvatski</span> [Croatian]...
+        - Bit fluky for reasons I didn't fully understand at the time; should be <q lang="hr">hrvatica</q> (Croatian person, but female; distinction is necessary here, unlike English), <q lang="hr">učila je</q> (she taught), wrong grammatical case....\*
       - 2.&nbsp;others <span lang="hr">nisu znaju</span> [don't know] shit tho (otherwise canon as normal)
+        - *Also* wrong, for Reasons.\*
       - 3.&nbsp;Shit Happens.
-      - <span lang="hr">Crni Prostor <span lang="en">ft.</span> Riječ... Zbujenog?</span> [Black Space ft. Words of... Confusion?]
-        - <q lang="hr">riječ</q> should have an "-i" at the end to indicate a plural, whoops; <q lang="hr">riječi</q>
+      - <span lang="hr">Crni Prostor <span lang="en">ft.</span> Riječ... Zbu[n]jenog?</span> [Black Space ft. Words of... Confusion?]
+        - error conga line\*: <q lang="hr">riječ</q> should have an "-i" at the end to indicate a plural (<q lang="hr">riječi</q>). wrote "confusing," not "confusion," and there's a missing letter. also wrong ending in general, for yet-unknown grammar reasons
       - Basil <span lang="hr">nije</span> finish <span lang="hr">učio</span> [doesn't finish learning] <span lang="hr">i je</span> [and is] haunted by, uh. <span lang="hr">Strankinja</span>?? [Stranger, fem]
         - Croatian <span lang="hr">riječi</span> for "teach" and "learn" are the same.
         - I think "strankinja" is closer to "foreigner" than "stranger" but, far as I could find, the <span lang="hr" class="noi">hrvatski riječ</span> makes no distinction.
       - 4.&nbsp;Game Happens (but <span lang="hr">sa hrvatski</span> [with Croatian])
       - these <span lang="hr">su</span> [are] OOC jokes but <span lang="hr">zašto <em style="text-transform:uppercase;font-weight:normal;">ne</em></span> [why <em style="text-transform:uppercase;font-style:normal;">not</em>] count them ¯\\\_(ツ)_/¯
       - \>implying whole shebang <span lang="hr">nije</span> [isn't] inherently OOC
-        - As in, like, much as I adore the idea of *anyone* speaking not-English, that seems like the kind of thing that would've come up? especially when there's at least [one Designated Foreign NPC](https://omori.fandom.com/wiki/OTHERMART_LADY#TRIVIA)...
+        - As in, any of the kids speaking a different language seems like the kind of thing that would've come up if canon, especially because there's at least [one Designated Foreign NPC](https://omori.fandom.com/wiki/OTHERMART_LADY#TRIVIA). I fucking love the idea, though.
       - 5.&nbsp;<span lang="hr">nakon</span> [after] Gaem, "bonding." <span lang="hr">ili nešto</span> [or something]
       - <span lang="hr">Nastavljati</span> [To continue]...?
+        - "To *be* continued" should be <q lang="hr">Nastavit će se</q> (<span lang="hr" class="noi">hvala</span> Weeb!)\*
+      
+      ----
+      
+      \*This whole saga (of Škrabotine (Scribbles) in general, not just this one) is a time capsule of what I did/n't know at the time tbh. Like, as of writing (May&nbsp;1) I can independently spot some issues in the older doodles---<q lang="hr">što **li** [behind door],</q> unnecessary/redundant pronouns, case and tense shenanigans..\.. Also, while I'm not keeping track, a *majority* of these Škbrabotine have been edited between initial drawing and the upload that goes live.
+      
+      I don't really have A Formal Procedure for this! If it's something I messed up despite knowledge I had at the time, I'll probably change it, or at least make a note of it for publication here later. (With this one *specifically,* I've just learned A Lot over the past >couple weeks!) But retroactively, I'm probably not gonna touch either art or writing, because that way a neverending ouroboros of self-correction lies.
   - dt: 2023-04-18
     id: mamma-mari-a
     typ: sn
@@ -63,7 +73,7 @@ scribs:
       tr-hr: |-
         wow, dead spaghett <span lang="hr"><s>Crnog Prostora <span lang="en">room</span></s> <span lang="en">Room</span> Crnog Prostora...</span>
         
-        <span lang="hr">Jest nežv.</span>
+        <span lang="hr">Jest neživ.</span>
       tr-en: |-
         wow, dead spaghett <s>Black Space Room</s> Room of Black Space...
         
@@ -79,8 +89,8 @@ scribs:
     imgs:
     - alt: Basil throws some words at Aubrey. One in particular certainly gets her attention.
       tr-hr: |-
-        - <q lang="hr">complicated.</q>
-        - <q lang="hr"><span lang="en">question</span>, ne ekvivalent.</q>
+        - <q lang="hr">komplicirano.</q>
+        - <q lang="hr"><span lang="en">question</span>, ne ekvivalenta.</q>
         - <q lang="hr"><span lang="en">pants</span>, ženski i množina.</q>
         
         <q lang="hr">kurac</q>?
@@ -91,14 +101,14 @@ scribs:
         
         [If You Know [You Know](https://utrobadisease.tumblr.com/post/639581289868099584/wuffleton-puniper-does-anybody-have-that-one/amp).]
     an: |-
-      I am finally learning some of the [<span lang="hr">Crni&nbsp;Prostor <span class="noi">riječi</span></span>](hrvatski#crni-prostor). I handwrote each and every one, in that <span lang="hr" class="noi">Škrabotina</span>, no less than six times.
+      I learned some of the [<span lang="hr">Crni&nbsp;Prostor <span class="noi">riječi</span></span>](hrvatski#crni-prostor). I handwrote each and every one, in that <span lang="hr" class="noi">Škrabotina</span>, no less than six times.
   - dt: 2023-04-27
     id: bonding
     typ: ml svi cn
     note: |-
       A [follow-up](hrvatski/tr), brought to you by: the belated realization that Croatian has different words for playing different things, and characters' reactions being very much not synonymous with mine.
         
-      There is an unusual amount of <span lang="hr" class="noi">hrvatski</span> in this one because I was partway through the second line's translation, realized it was Basil talking and could thus be more English, but didn't want to *not* use what I had (even though it ended up being mostly off). It's Characterization, or something.
+      There is an unusual amount of <span lang="hr" class="noi">hrvatski</span> in this one because I was partway through the second line's translation, realized it was Basil talking and could thus be more English, but didn't want to *not* use what I had (even though it ended up being mostly off). It's Characterization, <span lang="hr" class="noi">ili nešto</span>.
     imgs:
     - alt: Aubrey knocks on Basil’s door to apologize. Basil’s not having it.
       img: "/a"
@@ -121,11 +131,11 @@ scribs:
       fn: |-
         Basil's line here has been left deliberately wonky. One bit was on purpose: <q lang="hr">sebe,</q> "myself," can be shortened as <q lang="hr">se,</q> which sounds more natural most of the time. The rest was less intended: "to trick into" is not a term in Croatian; likewise, "insult" isn't used in this context, and the phrase would be better translated as "embarrass myself."
         
-        It's&nbsp;Characterization, or something. 
+        B-Grade™
     - alt: Aubrey is annoyed, but apologizes again anyway.
       img: "/c"
       tr-hr: |-
-        <span class="omo">Aubrey</span>: <q lang="hr">Ponavljam: *Nije* razumije jezi[k]---</q>  
+        <span class="omo">Aubrey</span>: <q lang="hr">Ponavljam: *Ne* razumije jezi[k]---</q>  
         <span class="omo">Basil</span>: <q lang="hr">Znam..\..</q>
         
         <span class="omo">Aubrey</span>: <q lang="hr">Također, žao mi je da sam rekla da nešto nije u redu s tobom.</q>
@@ -175,7 +185,7 @@ scribs:
     imgs:
     - alt: "Sunny just went through hell [the end of the Truth-revealing sequence]. He holds a polaroid. Written on the back is the following, signed by Basil (with a heart):"
       tr-hr: |-
-        <span lang="hr" style="text-transform:uppercase;">*Ne* ruski!!!!</span>
+        <span lang="hr" style="text-transform:uppercase;">*Nije* ruski!!!!</span>
       tr-en: |-
         <span lang="hr" style="text-transform:uppercase;">*It's not* Russian!!!!</span>
     an: |-
