@@ -20,7 +20,7 @@ main [lang=hr]{font-style:italic;}
 main [lang=hr] [lang=en]{font-style:normal;}
 main [lang=hr] em{font-weight:bold;}
 
-article{max-width:850px; margin:2em auto; padding:1em; background:#313338;} article:first-of-type{margin-top:0;}
+article{max-width:850px; margin:2em auto; padding:.5em 1em 1em; background:#313338;} article:first-of-type{margin-top:0;}
 .sn{border-radius:.35em;} .sn img{border-radius:5px;}
 h2{font-weight:normal; margin-bottom:.5em;}
 figure{margin-bottom:1em;} .ml figure{margin-bottom:1.5em;}
