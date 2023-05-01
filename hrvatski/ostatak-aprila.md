@@ -3,7 +3,7 @@ layout: hr
 title: Jezik je (still) pojam!
 back: tr
 
-css: "#jazz figure+hr{display:none;} .svi{background:#7c7b79; color:#e2ecdd;} .svi h2{color:#cbbfa2;} p+ul{margin:.25em 0 0 1em;} li ul{font-size:.85em; margin-bottom:.15em;} figcaption ul{list-style-type:none; margin-left:2em;} .svi ::selection{background:#5b5a58;} article{overflow:auto;} #clueless{margin:2em 0 -.5em 0; color:#b1b3ba;} #clueless img{max-width:400px;} #clueless figcaption p{margin:0; font-size:.85em;}"
+css: "#jazz figure+hr{display:none;} .ne{color:inherit; text-decoration-thickness:initial} .svi{background:#7c7b79; color:#e2ecdd;} .svi h2{color:#cbbfa2;} p+ul{margin:.25em 0 0 1em;} li ul{font-size:.85em; margin-bottom:.15em;} figcaption ul{list-style-type:none; margin-left:2em;} .svi ::selection{background:#5b5a58;} article{overflow:auto;} #clueless{margin:2em 0 -.5em 0; color:#b1b3ba;} #clueless img{max-width:400px;} #clueless figcaption p{margin:0; font-size:.85em;} #tense figcaption{text-transform:uppercase;} #tense em{font-weight:bold;} #tense .tr-en em{font-style:normal;}"
 
 h1: "<span lang='hr'><span>Jezik je</span> <span><span lang='en'>(still)</span> pojam!</span></span>"
 htxt: >-
@@ -38,7 +38,7 @@ scribs:
     - alt: Wall of every scribble thus far, shoehorned into something resembling a chronology.
     an: |-
       Since this is basically <span lang="hr" class="noi">jezik</span> pingpong, here's the whole thing in one go:
-      - "<s style="color:inherit; text-decoration-thickness:initial;">Ya like lore?</s> <span lang="hr">Uživaš li priča?</span>" [attempted "Do you enjoy story?"]
+      - "<s class="ne">Ya like lore?</s> <span lang="hr">Uživaš li priča?</span>" [attempted "Do you enjoy story?"]
         - "Lore," being more of a Meme Word in this context, could've been used untranslated.
         - <q lang="hr">Uživati</q> ("to enjoy") is also a weird verb, so this is also wrong on a few other levels I don't *quite* grok yet.
       - <span lang="hr">Početak</span>. [Beginning.]
@@ -190,6 +190,27 @@ scribs:
         <span lang="hr" style="text-transform:uppercase;">*It's not* Russian!!!!</span>
     an: |-
       And thus the lore expands.
+  - dt: 2023-05-01
+    id: tense
+    typ: sn cn
+    note: |-
+      Bonus: was gonna leave off with ↑ that one but I had an inexplicable amount of trouble with this line, so: <!--but might move this to next month's page. if that's a thing that happens (it probably will)-->
+    imgs:
+    - alt: Back in Basil’s special hell, Stranger-Aubrey points at three variations of a sentence on a chalkboard. (Faintly in the background, a drawing of him and Sunny has been erased.) Basil is distressed.
+      tr-hr: |-
+        <span lang="hr"><span lang="en">Room</span> Crnog Prostora: <s class="ne">Škola Aubreya 2</s></span> <span lang="en">tension. geddit---</span>
+        
+        - <span lang="hr">perfekt: *nije* razumio</span>
+        - <span lang="hr">prezent: *ne* razumije</span>
+        - <span lang="hr">futur 1: *neće* razumiti</span>
+      tr-en: |-
+        Room of Black Space: <s class="ne">Aubrey School 2</s> tension. geddit---
+        
+        - [~]past tense: [he] *didn't* understand
+        - [~]present tense: [he] *doesn't* understand
+        - [~]future tense: [he] *won't* understand
+    an: |-
+      Croatian and English tenses are not, by a long shot, 1:1.
 ---
 ČčĆćĐđŠšŽž
 …‘’“”—
