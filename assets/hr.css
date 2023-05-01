@@ -1,7 +1,7 @@
 /*layout+general styling*/
 body{background:#2b2d31; font-family:verdana,sans-serif; line-height:1.65; color:#e0e1e5; text-align:center;}
 .wrap{max-width:1115px; padding:1em;}
-a{color:inherit; text-decoration-thickness:0.15em; text-underline-offset:0.15em; text-decoration-color:#6c6e72;} a:focus,a:hover,a:active{color:#fff; text-decoration-color:#86888c;}
+a{color:inherit; text-decoration-thickness:0.15em; text-underline-offset:0.15em; text-decoration-color:#6c6e72;} a:focus,a:hover,a:active{color:#fff; text-decoration-color:#86888c; text-decoration:none;}
 ::selection{background:#000; color#fff;}
 s,del{text-decoration-thickness:0.1em;} s{color:#82858f;} del{color:#b1b3ba;}
 header,main{background:#1e1f22;}

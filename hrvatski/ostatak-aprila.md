@@ -3,9 +3,9 @@ layout: hr
 title: Jezik je (still) pojam!
 back: tr
 
-css: "#jazz hr{display:none;} .svi{background:#7c7b79; color:#e2ecdd;} .svi h2{color:#cbbfa2;} p+ul{margin:.25em 0 0 2em;} li ul{font-size:.85em;} figcaption ul{list-style-type:none; margin-left:2em;} .svi ::selection{background:#5b5a58;} article{overflow:auto;} #clueless{margin:2em 0 0 0;} #clueless img{max-width:50%;} #clueless figcaption p{margin:0; font-size:.85em;}"
+css: "#jazz hr{display:none;} .svi{background:#7c7b79; color:#e2ecdd;} .svi h2{color:#cbbfa2;} p+ul{margin:.25em 0 0 2em;} li ul{font-size:.85em;} figcaption ul{list-style-type:none; margin-left:2em;} .svi ::selection{background:#5b5a58;} article{overflow:auto;} #clueless{margin:2em 0 -.5em 0; color:#b1b3ba;} #clueless img{max-width:50%;} #clueless figcaption p{margin:0; font-size:.85em;}"
 
-h1: "<span>Jezik je</span> <span>(still) pojam!</span>"
+h1: "<span lang='hr'><span>Jezik je</span> <span><span lang='en'>(still)</span> pojam!</span></span>"
 htxt: >-
   Now with even more continuity. <span lang="hr">Imam *odlično vrijeme*.</span>
 
@@ -38,7 +38,7 @@ scribs:
     - alt: Wall of every scribble thus far, shoehorned into something resembling a chronology.
     an: |-
       Since this is basically <span lang="hr" class="noi">jezik</span> pingpong, here's the whole thing in one go:
-      - "<s>Ya like lore?</s> <span lang="hr">Uživaš li priča?</span>" [lit. "Do you enjoy story?"]
+      - "<s style="color:inherit; text-decoration-thickness:initial;">Ya like lore?</s> <span lang="hr">Uživaš li priča?</span>" [lit. "Do you enjoy story?"]
         - "Lore," being more of a Meme Word, could've been left as-is.
       - <span lang="hr">Početak</span>. [Beginning.]
       - 1.&nbsp;Aubrey inexplicably <span lang="hr">hrvat</span> [a Croat], <span lang="hr">učio</span> [teaches] Basil (some) <span lang="hr">hrvatski</span> [Croatian]...
@@ -106,7 +106,7 @@ scribs:
         <span class="omo">Aubrey</span>: <q lang="hr">Hej, Basil--- žao mi je da sam ti rekla netočnu riječ za *sviranje* glazbenog instrumenta.</q>
         <span class="omo">Basil</span>: <q lang="hr" style="text-transform:uppercase;">**Također---**</q>
       tr-en: |-
-        <span class="omo">Aubrey</span>: <q>Hey, Basil--- I'm sorry I told you the wrong word for *playing* a musical instrument.</q>  
+        <span class="omo">Aubrey</span>: <q>Hey, Basil--- I'm sorry I told you the wrong word for <i>playing</i> a musical instrument.</q>  
         <span class="omo">Basil</span>: <q style="text-transform:uppercase;">**Also---**</q>
     - alt: While yelling about Sunny, Basil scribbles furiously over a language notebook. One word from the anime power-up sentence is wrong; over a perfectly nice caption about how impessed Sunny would be, Basil writes, “Why is Aubrey (still) so mean to me?!”
       img: "/b"
@@ -136,7 +136,7 @@ scribs:
         <span class="omo">Aubrey</span>: <q>And, I'm sorry I said there's something wrong with you.</q>
       fn: |-
         "Sigh" as onomatopoeia is also not really a thing in Croatian, so I just used the English version.
-    - alt: "Basil opens the door, still peeved. He says one entire word:"
+    - alt: "Basil opens the door, still miffed. He says one entire word:"
       img: "/d"
       tr-hr: |-
         \[vrata]: <span lang="hr">(otvara)</span>
@@ -168,12 +168,12 @@ scribs:
     an: |-
       provided by Weeb entirely unprompted. had to draw&nbsp;it.
       
-      <figure class="imgs" id="clueless"><a href="art/roundup-2023-01"><img src="/assets/img/hr/awshi.png" alt="Earlier doodle of a sick-looking Basil in bed. In this one he says “aw shit sunny we’re really in it now” (and Kel, still, is clueless)."></a><figcaption><p>some things never change.</p></figcaption></figure>
+      <figure class="imgs" id="clueless"><a href="art/roundup-2023-01"><img src="assets/img/hr/awshi.png" alt="Earlier doodle of a sick-looking Basil in bed. In this one he says “aw shit sunny we’re really in it now” (and Kel, still, is clueless)." title="Earlier doodle of a sick-looking Basil in bed. In this one he says “aw shit sunny we’re really in it now” (and Kel, still, is clueless)."></a><figcaption><p>some things never change.</p></figcaption></figure>
   - dt: 2023-04-30
     id: isti
     typ: sn cn
     imgs:
-    - alt: "Sunny just went through hell (the end of the Truth sequence). He holds a polaroid. Written on the back is the following, signed by Basil (with a heart):"
+    - alt: "Sunny just went through hell [the end of the Truth-revealing sequence]. He holds a polaroid. Written on the back is the following, signed by Basil (with a heart):"
       tr-hr: |-
         <span lang="hr" style="text-transform:uppercase;">*Ne* ruski!!!!</span>
       tr-en: |-
