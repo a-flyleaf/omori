@@ -49,10 +49,10 @@ yo shit "igranje violina" actually NETOCNO, "to play (an instrument)" je **svira
 
 HR
 	"Hej, Basil--- žao mi je da sam ti rekla netočnu riječ za sviranje glazbenog instrumenta."
-	"TAKOĐER--- pokušala si prevariti me u vrijeđam sebe---"\*
-	("Što? ...'se osramotim'??")
-	"---pred! Sunnyom!!!"\*
-	"Ponavljam: *nije* razumije jezi[k]---"
+	"TAKOĐER--- pokušala si *prevariti me* u vrijeđam sebe---"\*
+	("Što? ...'se osramoti[m]'---?")\*
+	"---pred! Sunnyem!!!"
+	"Ponavljam: *Nije* razumije jezi[k]---"
 	"Znaš...."
 	{sigh} "Također, žao mi je da sam rekla da nešto nije u redu s tobom."
 	[open]
@@ -60,19 +60,27 @@ HR
 	"Isuse. Zašto...."
 EN
 	"Hey, Basil--- I'm sorry I gave you the wrong word for playing a musical instrument."
-	[attempted] "ALSO--- you tried to trick me into insulting myself--- in front! of Sunny!!!"
-	("What? ...'you embarrass yourself'??")\*
+	[attempted] "ALSO--- you tried to *trick me* into insulting myself--- in front! of Sunny!!!"
+	("What? ...'you embarrass yoursel[f]'---?")\*
 	"I repeat: [He] *doesn't* understand the lang[uage]---"
 	"I know...."
 	{sigh} "And, I'm sorry I said there's something wrong with you.."
 	[open]
 	"Thanks. / Now, *actually* tell me how to say, and--- *and **I repeat***---"
 	"Jesus. Why...."
-- \*Basil's line here has been left deliberately wonky. One bit was on purpose: "sebe," "myself," can be shortened as "se," which sounds more natural most of the time. As for the rest: "to trick into" is not a term in Croatian; likewise, "insult myself" would be better translated as "embarrass myself" ("se osramotim"); and the end-bit for "Sunny" should be "-em," not "-om," because of the end sound. It's Characterization, or something. (...honestly, I just didn't realize it could've been left English until partway through the translation, at which point I wasn't gonna *not* use what I had, so.)
-- "sigh" as onomatopoeia not really a Thing in croatian so I just used the english version
+- \*Basil's line here has been left deliberately wonky. One bit was on purpose: "sebe," "myself," can be shortened as "se," which sounds more natural most of the time. As for the rest: "to trick into" is not a term in Croatian; likewise, "insult myself" would be better translated as "embarrass myself" ("se osramotim"). It's Characterization, or something. (...honestly, I just didn't realize it could've been left English until partway through the translation, at which point I wasn't gonna *not* use what I had, so.)
+- "sigh" as onomatopoeia is also not really a Thing in croatian so I just used the english version
 
 --
 
 HR "Sunny sad smo stvarno u ovome"
 EN "Sunny, we're really in it now"
 provided by Weeb entirely unprompted. had to draw it.
+
+--
+
+"NOT Russian!!!!"
+
+And thus the lore expands.
+
+[honestly I wanted to bang out the Other basil anime idea first but this is actually a hilarious fucking note to end on so. takoder Foreshadowing lmao]
