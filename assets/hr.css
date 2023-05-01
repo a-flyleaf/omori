@@ -1,10 +1,11 @@
 /*layout+general styling*/
 body{background:#2b2d31; font-family:verdana,sans-serif; line-height:1.65; color:#e0e1e5; text-align:center;}
 .wrap{max-width:1115px; padding:1em;}
-a{color:inherit;} a:focus,a:hover,a:active{color:#fff;}
+a{color:inherit; text-decoration-thickness:0.15em; text-underline-offset:0.15em; text-decoration-color:#6c6e72;} a:focus,a:hover,a:active{color:#fff; text-decoration-color:#86888c;}
 ::selection{background:#000; color#fff;}
+s,del{text-decoration-thickness:0.1em;} s{color:#82858f;} del{color:#b1b3ba;}
 header,main{background:#1e1f22;}
-#navthing,footer,h2,article p{font-size:.85em;}
+#navthing,footer,h2{font-size:.85em;}
 #navthing,h2,footer{color:#82858f;}
 
 #navthing{background:#2b2d31;} #omo{text-decoration:none;}
@@ -17,21 +18,26 @@ h1{font-size:2em; line-height:1.25; padding:.5em 0;}
 
 /*content*/
 main [lang=hr]{font-style:italic;}
-main [lang=hr] [lang=en]{font-style:normal;}
+main [lang=hr] [lang=en],.noi{font-style:normal !important;}
 main [lang=hr] em{font-weight:bold;}
 
-article{max-width:850px; margin:2em auto; padding:.5em 1em 1em; background:#313338;} article:first-of-type{margin-top:0;}
+article{max-width:850px; margin:2em auto; padding:.5em 1em 1.25em; background:#313338;} article:first-of-type{margin-top:0;}
 .sn{border-radius:.35em;} .sn img{border-radius:5px;}
 h2{font-weight:normal; margin-bottom:.5em;}
-figure{margin-bottom:1em;} .ml figure{margin-bottom:1.5em;}
+
+.note{background:#2b2d31; color:#e0e1e5; padding:.5em 1em; max-width:600px; margin:0 auto 1em; border-radius:.5em;}
+
+figure{margin-bottom:1em;} .ml figure{margin-bottom:1.5em;} .ml figure:last-of-type{margin-bottom:0;}
 .imgs a:hover,.imgs a:focus,.imgs a:active{opacity:.65;}
-article p{text-align:left; margin:.5em 0;}
+article p,article ul{text-align:left;} article p{margin:.5em 0; font-size:.95em;}
 
 .flag{float:left; margin-right:.5em;} figcaption p{margin:.5em 0 .5em 2em;}
-
+sup{font-size:.75em; font-style:normal;}
+#fn p{margin-left:0; font-size:.85em; line-height:1.5;}
 
 hr{margin:1em 0;}
 .an p:last-of-type{margin-bottom:0;}
+.cn .an p{text-align:center;}
 /*ne need za .tr, entire figcaption should be translation i author's note je u article. isto, NE FLOAT unless screen je wide enough!!*/
 
 /*OG
