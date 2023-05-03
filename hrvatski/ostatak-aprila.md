@@ -62,7 +62,7 @@ scribs:
       
       ----
       
-      \*This whole saga (of Škrabotine (Scribbles) in general, not just this one) is a time capsule of what I did/n't know at the time tbh. Like, as of writing (May&nbsp;1) I can independently spot some issues in the older doodles---<q lang="hr">što **li** [behind door],</q> unnecessary/redundant pronouns, case and tense shenanigans..\.. Also, while I'm not keeping track, a *majority* of these Škbrabotine have been edited between initial drawing and the upload that goes live.
+      \*This whole saga (of <span lang="hr">Škrabotine</span> (Scribbles) in general, not just this one) is a time capsule of what I did/n't know at the time tbh. Like, as of writing (May&nbsp;1) I can independently spot some issues in the older doodles---<q lang="hr">što **li** [behind door],</q> unnecessary/redundant pronouns, case and tense shenanigans..\.. Also, while I'm not keeping track, a *majority* of these Škbrabotine have been edited between initial drawing and the upload that goes live.
       
       I don't really have A Formal Procedure for this! If it's something I messed up despite knowledge I had at the time, I'll probably change it, or at least make a note of it for publication here later. (With this one *specifically,* I've just learned A Lot over the past >couple weeks!) But retroactively, I'm probably not gonna touch either art or writing, because that way a neverending ouroboros of self-correction lies.
   - dt: 2023-04-18
@@ -101,7 +101,7 @@ scribs:
         
         [If You Know [You Know](https://utrobadisease.tumblr.com/post/639581289868099584/wuffleton-puniper-does-anybody-have-that-one/amp).]
     an: |-
-      I learned some of the [<span lang="hr">Crni&nbsp;Prostor <span class="noi">riječi</span></span>](hrvatski#crni-prostor). I handwrote each and every one, in that <span lang="hr" class="noi">Škrabotina</span>, no less than six times.
+      I learned some of the [<span lang="hr">Crni&nbsp;Prostor <span class="noi">riječi</span></span>](../hrvatski#crni-prostor). I handwrote each and every one, in that <span lang="hr" class="noi">Škrabotina</span>, no less than six times.
   - dt: 2023-04-27
     id: bonding
     typ: ml svi cn
@@ -178,7 +178,7 @@ scribs:
     an: |-
       provided by Weeb entirely unprompted. had to draw&nbsp;it.
       
-      <figure class="imgs" id="clueless"><a href="art/roundup-2023-01"><img src="assets/img/hr/awshi.png" alt="Earlier doodle of a sick-looking Basil in bed. In this one he says “aw shit sunny we’re really in it now” (and Kel, still, is clueless)." title="Earlier doodle of a sick-looking Basil in bed. In this one he says “aw shit sunny we’re really in it now” (and Kel, still, is clueless)."></a><figcaption><p>some things never change.</p></figcaption></figure>
+      <figure class="imgs" id="clueless"><a href="../art/roundup-2023-01"><img src="../assets/img/hr/awshi.png" alt="Older doodle of a sick-looking Basil in bed. In this one he says “aw shit sunny we’re really in it now” (and Kel, still, is clueless)." title="Older doodle of a sick-looking Basil in bed. In this one he says “aw shit sunny we’re really in it now” (and Kel, still, is clueless)."></a><figcaption><p>some things never change.</p></figcaption></figure>
   - dt: 2023-04-30
     id: isti
     typ: sn cn
