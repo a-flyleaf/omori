@@ -45,4 +45,5 @@ hr{margin:1em 0;}
 	.tr-hr,.tr-en{width:50%; float:left;}
 	.flag{display:block; float:none; margin-bottom:-.5em;}
 	figcaption p{margin:.5em;}
+	.an{padding:0 .5em .25em;}
 }

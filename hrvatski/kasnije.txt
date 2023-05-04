@@ -5,11 +5,11 @@
     imgs:
     - alt: Back in Basil’s special hell, Stranger-Aubrey points at three variations of a sentence on a chalkboard. (Faintly in the background, a drawing of him and Sunny has been erased.) Basil is distressed.
       tr-hr: |-
-        <span lang="hr"><span lang="en">Room</span> Crnog Prostora: <s class="ne">Škola Aubreya 2</s></span> <span lang="en">tension. geddit---</span>
+        <span lang="hr">Soba Crnog Prostora: <s class="ne">Škola Aubrey 2</s></span> <span lang="en">tension. geddit---</span>
         
         - <span lang="hr">perfekt: *nije* razumio</span>
         - <span lang="hr">prezent: *ne* razumije</span>
-        - <span lang="hr">futur 1: *neće* razumiti</span>
+        - <span lang="hr">futur 1: *neće* razumjeti</span>
       tr-en: |-
         Room of Black Space: <s class="ne">Aubrey School 2</s> tension. geddit---
         
@@ -17,4 +17,7 @@
         - [~]present tense: [he] *doesn't* understand
         - [~]future tense: [he] *won't* understand
     an: |-
-      Croatian and English tenses are not, by a long shot, 1:1. Besides that, I had a weird amount of trouble with this *specific* line from [last round](hrvatski/ostatak-aprila#bonding)???
+      Croatian and English tenses are not, by a long shot, 1:1. Besides that, I had a weird amount of trouble with this *specific* line from [last round](hrvatski/ostatak-aprila#bonding)---and even got it wrong the first time *here,* hence the little correction.
+---
+
+the cookie one can go here sure why not. speech bubble from a distance looked like the wrong word, And So

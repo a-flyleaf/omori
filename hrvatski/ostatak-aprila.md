@@ -19,14 +19,14 @@ scribs:
         <span class="omo">Aubrey</span>: <q lang="hr">'Sunny, oprosti da<sup>[1]</sup> sam napao tvoje oko. Nešto nije u redu sa mnom.'</q>
         
         <span class="omo">Basil</span>: <q lang="hr">Hval[a]--- *'oprosti'??*</q>  
-        <span class="omo">Aubrey</span>: <q lang="hr">On ni ne zna hvatski..\..</q>
+        <span class="omo">Aubrey</span>: <q lang="hr">On ni ne zna hrvatski..\..</q>
       tr-en: |-
         <span class="omo">Aubrey</span>: <q>'Sunny, I'm sorry I attacked your eye. There's something wrong with me.'</q><sup>[2]</sup>
         
         <span class="omo">Basil</span>: <q>Thank[s]--- *'I'm sorry'??*</q>  
         <span class="omo">Aubrey</span>: <q>He doesn't even know Croatian..\..</q>
     an: |-
-      <sup>[1]</sup> <span lang="hr">"Da"</span> usually means "yes," but in this *specific* context it also means "that": If it's used in an independent clause (e.g. "Sorry <u>that I attacked your eye</u>"), then <span lang="hr">"da"</span> as "that" checks out; unlike in English, the "<span lang="hr">da</span>/that" isn't dropped. Otherwise (e.g. "Sorry for attacking your eye"), no dice.
+      <sup>[1]</sup> <span lang="hr">"Da"</span> usually means "yes," but in this *specific* context it also means "that": If it's used in an independent clause (e.g. "Sorry <u>that I attacked your eye</u>"), then <span lang="hr">"da"</span> as "that" checks out; unlike in English, the "<span lang="hr">da</span>/that" isn't dropped. Otherwise ("Sorry for attacking your eye"), no dice.
       
       <sup>[2]</sup> This bit gave me issues; the original thought was "I have problems," and after I ran around in a small circle trying to pinpoint a more specific word for "problems," Weeb nudged me back to a 1:1 translation. (Alternatives: "I have issues," "I am dysfunctional/mentally&nbsp;ill," "I am unwell." General sentiment of "I'm fucked&nbsp;up [but not phrased in an overly clinical or serious way]." "There's something wrong with me" sounded a bit harsh in English but ¯\\\_(&nbsp;:V&nbsp;)_/¯, I do not have enough cultural context for a better phrasing!)
       
@@ -62,9 +62,9 @@ scribs:
       
       ----
       
-      \*This whole saga (of <span lang="hr">Škrabotine</span> (Scribbles) in general, not just this one) is a time capsule of what I did/n't know at the time tbh. Like, as of writing (May&nbsp;1) I can independently spot some issues in the older doodles---<q lang="hr">što **li** [behind door],</q> unnecessary/redundant pronouns, case and tense shenanigans..\.. Also, while I'm not keeping track, a *majority* of these Škbrabotine have been edited between initial drawing and the upload that goes live.
+      \*This whole saga (of <span lang="hr">Škrabotine</span> (Scribbles) in general, not just this one) is a time capsule of what I did/n't know at the time tbh. Like, as of writing (May&nbsp;1) I can independently spot some issues in the older doodles---<q lang="hr">što **li** [behind door],</q> unnecessary/redundant pronouns, case and tense shenanigans..\.. Also, although I'm not keeping track, a *majority* of these Škbrabotine have been edited between initial drawing and the upload that goes live.
       
-      I don't really have A Formal Procedure for this! If it's something I messed up despite knowledge I had at the time, I'll probably change it, or at least make a note of it for publication here later. (With this one *specifically,* I've just learned A Lot over the past >couple weeks!) But retroactively, I'm probably not gonna touch either art or writing, because that way a neverending ouroboros of self-correction lies.
+      I don't really have A Formal Procedure for this! If it's something I messed up despite knowledge I had at the time, I'll probably change it, or at least make a note of it for publication here later. (With this lore-wall *specifically,* I've just learned A Lot over the past >couple weeks!) But retroactively, I'm probably not gonna touch either art or writing, because that way a neverending ouroboros of self-correction lies.
   - dt: 2023-04-18
     id: mamma-mari-a
     typ: sn
@@ -101,7 +101,7 @@ scribs:
         
         [If You Know [You Know](https://utrobadisease.tumblr.com/post/639581289868099584/wuffleton-puniper-does-anybody-have-that-one/amp).]
     an: |-
-      I learned some of the [<span lang="hr">Crni&nbsp;Prostor <span class="noi">riječi</span></span>](../hrvatski#crni-prostor). I handwrote each and every one, in that <span lang="hr" class="noi">Škrabotina</span>, no less than six times.
+      I have learned some of the [<span lang="hr">Crni&nbsp;Prostor <span class="noi">riječi</span></span>](../hrvatski#crni-prostor). I handwrote each and every one, in that <span lang="hr" class="noi">Škrabotina</span>, no less than six times.
   - dt: 2023-04-27
     id: bonding
     typ: ml svi cn
