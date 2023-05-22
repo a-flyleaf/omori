@@ -26,7 +26,7 @@ scribs:
         <span class="omo">Basil</span>: <q>Thank[s]--- *'I'm sorry'??*</q>  
         <span class="omo">Aubrey</span>: <q>He doesn't even know Croatian..\..</q>
     an: |-
-      <sup>[1]</sup> <span lang="hr">"Da"</span> usually means "yes," but in this *specific* context it also means "that": If it's used in an independent clause (e.g. "Sorry <u>that I attacked your eye</u>"), then <span lang="hr">"da"</span> as "that" checks out; unlike in English, the "<span lang="hr">da</span>/that" isn't dropped. Otherwise ("Sorry for attacking your eye"), no dice.
+      <sup>[1]</sup> <span lang="hr">"Da"</span> usually means "yes," but in this *specific* context it also means "that": If it's used in an independent clause (e.g. "Sorry <u>that I attacked</u> your eye"), then <span lang="hr">"da"</span> as "that" checks out; unlike in English, the "<span lang="hr">da</span>/that" isn't dropped. Otherwise ("Sorry <u>for attacking</u> your eye"), no dice.
       
       <sup>[2]</sup> This bit gave me issues; the original thought was "I have problems," and after I ran around in a small circle trying to pinpoint a more specific word for "problems," Weeb nudged me back to a 1:1 translation. (Alternatives: "I have issues," "I am dysfunctional/mentally&nbsp;ill," "I am unwell." General sentiment of "I'm fucked&nbsp;up [but not phrased in an overly clinical or serious way]." "There's something wrong with me" sounded a bit harsh in English but ¯\\\_(&nbsp;:V&nbsp;)_/¯, I do not have enough cultural context for a better phrasing!)
       
@@ -62,7 +62,7 @@ scribs:
       
       ----
       
-      \*This whole saga (of <span lang="hr">Škrabotine</span> (Scribbles) in general, not just this one) is a time capsule of what I did/n't know at the time tbh. Like, as of writing (May&nbsp;1) I can independently spot some issues in the older doodles---<q lang="hr">što **li** [behind door],</q> unnecessary/redundant pronouns, case and tense shenanigans..\.. Also, although I'm not keeping track, a *majority* of these Škbrabotine have been edited between initial drawing and the upload that goes live.
+      \*This whole saga (of <span lang="hr">Škrabotine</span> (Scribbles) in general, not just this one) is a time capsule of what I did/n't know at the time tbh. Like, as of writing (May&nbsp;1) I can independently spot some issues in the older doodles---<q lang="hr">što **li** [behind door],</q> unnecessary/redundant pronouns, case and tense shenanigans..\.. Also, although I'm not keeping track, a *majority* of these Škrabotine have been edited between initial drawing and the upload that goes live.
       
       I don't really have A Formal Procedure for this! If it's something I messed up despite knowledge I had at the time, I'll probably change it, or at least make a note of it for publication here later. (With this lore-wall *specifically,* I've just learned A Lot over the past >couple weeks!) But retroactively, I'm probably not gonna touch either art or writing, because that way a neverending ouroboros of self-correction lies.
   - dt: 2023-04-18
@@ -71,7 +71,7 @@ scribs:
     imgs:
     - alt: In “Black Space” again, Basil kneels over a mound of, uh, something round and stringy, with a fork sticking out. Captioned, among other text, “Ghosts(a) Past(a) LOL”
       tr-hr: |-
-        wow, dead spaghett <span lang="hr"><s>Crnog Prostora <span lang="en">room</span></s> <span lang="en">Room</span> Crnog Prostora...</span>
+        wow, dead spaghett <span lang="hr"><s>Crni Prostora <span lang="en">room</span></s> <span lang="en">Room</span> Crnog Prostora...</span>
         
         <span lang="hr">Jest neživ.</span>
       tr-en: |-
@@ -79,7 +79,7 @@ scribs:
         
         It is not animated.
     an: |-
-      "Animated," in the context of Croatian grammatical case, is roughly equivalent to "alive"---except it also applies to dead people and ghosts.
+      "Animated," in the context of Croatian grammatical case, is roughly equivalent to "alive." It also applies to dead people and ghosts.
       
       \+ [~~music~~ suggested ambiance](https://piped.video/watch?v=czTksCF6X8Y).  
       "ghosts pasta????" inside joke. Ghosts of Past. don't worry about&nbsp;it
@@ -106,7 +106,7 @@ scribs:
     id: bonding
     typ: ml svi cn
     note: |-
-      A [follow-up](hrvatski/tr), brought to you by: the belated realization that Croatian has different words for playing different things, and characters' reactions being very much not synonymous with mine.
+      A [follow-up](../hrvatski/tr), brought to you by: the belated realization that Croatian has different words for playing different things, and characters' reactions being very much not synonymous with mine.
         
       There is an unusual amount of <span lang="hr" class="noi">hrvatski</span> in this one because I was partway through the second line's translation, realized it was Basil talking and could thus be more English, but didn't want to *not* use what I had (even though it ended up being mostly off). It's Characterization, <span lang="hr" class="noi">ili nešto</span>.
     imgs:
@@ -180,7 +180,7 @@ scribs:
       
       <figure class="imgs" id="clueless"><a href="../art/roundup-2023-01"><img src="../assets/img/hr/awshi.png" alt="Older doodle of a sick-looking Basil in bed. In this one he says “aw shit sunny we’re really in it now” (and Kel, still, is clueless)." title="Older doodle of a sick-looking Basil in bed. In this one he says “aw shit sunny we’re really in it now” (and Kel, still, is clueless)."></a><figcaption><p>some things never change.</p></figcaption></figure>
   - dt: 2023-04-30
-    id: isti
+    id: istina
     typ: sn cn
     imgs:
     - alt: "Sunny just went through hell [the end of the Truth-revealing sequence]. He holds a polaroid. Written on the back is the following, signed by Basil (with a heart):"

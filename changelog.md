@@ -103,6 +103,8 @@ log:
     line: <a href="hrvatski/ostatak-aprila" lang="hr"><i>Jezik je <span lang="en">(still)</span> pojam!</i></a>
   - dt: 2023-05-02
     line: <a href="art/roundup-2023-04">April art roundup</a> is a thing.
+  - dt: 2023-05-22
+    line: "[hrvatski yaoi wip, if the meta wip can go here then this can too. or add some no-display class idk]"
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
