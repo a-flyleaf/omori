@@ -104,7 +104,10 @@ log:
   - dt: 2023-05-02
     line: <a href="art/roundup-2023-04">April art roundup</a> is a thing.
   - dt: 2023-05-22
-    line: "[hrvatski yaoi wip, if the meta wip can go here then this can too. or add some no-display class idk]"
+    line: Made pages for some things.
+    done: |-
+      - <span lang="hr">hrvatski</span>... 3! (incomplete)
+      - art: <a href="art/kel">Kel.</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
