@@ -157,6 +157,10 @@ game1:
       > <span class="whomst">a sad, lonely picnic basket</span> is glad it made it out alive.
       
       It was (not.) very dramatic.
+  - l: r
+    title: rip
+    desc: |-
+      [oops i forgot the bonus]
 ---
 <header markdown="1">
 # ~~hunger~~ murder gaem

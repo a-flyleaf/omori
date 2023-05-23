@@ -55,6 +55,7 @@ linked on the index via ~~mini door, draw a new one~~ oh what if it's a key actu
 linked somewhere, but nowhere specific
 - [Black Space area ref]({%include url.html%}/black-space)
 - [OMORI ALTER]({%include url.html%}/art/omori-alter), if I end up with multiple art-offshoot pages
+	- ok well. there's [murdergaem]({%include url.html%}/murdergaem) now ig. and maaaaybe the hrvatski comics idek
 - [Heardle]({%include url.html%}/heardle)
 - [Hrvatski saga]({%include url.html%}/hrvatski)
 - [Mari.]({%include url.html%}/mari)
