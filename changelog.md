@@ -108,6 +108,7 @@ log:
     done: |-
       - <span lang="hr">hrvatski</span>... 3! (incomplete)
       - art: <a href="art/kel">Kel.</a>
+      - some murder game nonsense (incomplete)
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
