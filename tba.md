@@ -9,7 +9,8 @@ o heck you found my note-to-self "things to be added eventually" page. nice
 	- have the index use pixel thumbnails on mobile/by default too
 - gif image sizing isn't ideal at suboptimal screenwidths, thiiink a background-size attribute should fix that
 	- don't forget to check the index+Mewo
-- ~~automate the custom css on meta pages, somehow... does this Have to have a convoluted if/unless tree~~ lol no fuck it revamp the whole meta thing, see below:
+- ~~automate the custom css on meta pages, somehow... does this Have to have a convoluted if/unless tree~~ lol no fuck it revamp the whole meta thing, see below
+- uhh. specific favicons maybe? don't have to go the full 9 yards with the generator but just for particular pages (thinking an inverted one for black-space, mari+omori; flag stripes on hrvatski; murdergaem would be funny as fuck with dot-eyed sunny from the stranger one)
 
 ## meta overhaul
 [3/24] ok uh. thinking about the omori meta thing and: fuck it, leave the series as-is, but just,, Move On. publish the draft more or less as it exists, with an addendum noting its intentional incompletion, and then a postscript simply titled “um.” and up top is a doodle of aubrey with too many fucking phones. hold on actually lemme type a draft—
