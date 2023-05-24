@@ -104,11 +104,13 @@ log:
   - dt: 2023-05-02
     line: <a href="art/roundup-2023-04">April art roundup</a> is a thing.
   - dt: 2023-05-22
-    line: Made pages for some things.
+    line: Made pages for some things from earlier in the month.
     done: |-
       - <span lang="hr">hrvatski</span>... 3! (incomplete)
       - art: <a href="art/kel">Kel.</a>
       - some murder game nonsense (incomplete)
+  - dt: 2023-05-23
+    line: <a href="art/aubey">Drew a thing</a>.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
