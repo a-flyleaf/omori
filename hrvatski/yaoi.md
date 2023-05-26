@@ -85,7 +85,7 @@ scribs:
       fn: |-
         <span class="ns">[oh whoops **note to self**, fix the white box in the top right]</span>
         
-        <q lang="hr">Prilično</q> [*seems* to be](https://www.easy-croatian.com/2014/11/56.html) stronger than <q lang="jako">jako</q>..\.. Besides that, Basil's line is wonky on purpose again (<q lang="hr">želim ~~smo biti~~ **da budemo** vrlo bliski prijatelji</q>), because grammatical tense.
+        <q lang="hr">Prilično</q> [*seems* to be](https://www.easy-croatian.com/2014/11/56.html) stronger than <q lang="jako">jako</q>..\.. Besides that, Basil's line has been left wonky on purpose again (<q lang="hr">želim ~~smo biti~~ **da budemo** vrlo bliski prijatelji</q>), because grammatical tense.
     - alt: "Sunny thought bubble: 1. Aubrey said one thing; question mark. 2. Basil said another; heart. 3. Both dialogues had “mi je stalo do tebe” and “prijatelji.” 4. Therefore, question mark = heart? approximately…? / 5. Therefore, Aubrey said [heart]??!!!! Fireworks go off in Sunny’s head. Ode_to_Joy.sproutmole! Aubrey picking him up bridal-style! Aubrey and him holding hands [how scandalous, redacted]! [Something /fully/ redacted]…! / Speech bubble from offscreen: “Hey. Earth to Sunny?”"
       img: "/e"
       fn-only: |-

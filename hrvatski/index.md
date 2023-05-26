@@ -46,7 +46,7 @@ scribs:
       
       <span lang="hr">Je</span> *more <span lang="hr">hrvatski</span>*??
       
-      <span lang="hr">*Ti sćeca<s>š</s> <span lang="en">it</span> **wrong**!!!!*</span>  
+      <span lang="hr">*Ti sjćeca<s>š</s> <span lang="en">it</span> **wrong**!!!!*</span>  
       [behind the door, three separate words:] <span lang="hr" style="text-transform:uppercase;">Ni. O. Čemu.</span>
     tr-en: |-
       What is behind [the] door?
