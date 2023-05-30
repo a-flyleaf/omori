@@ -111,6 +111,8 @@ log:
       - some murder game nonsense (incomplete)
   - dt: 2023-05-23
     line: <a href="art/aubey">Drew a thing</a>.
+  - dt: 2023-05-30
+    line: Finished drawing <a href="art/bench">a thing</a>.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

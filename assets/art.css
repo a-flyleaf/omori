@@ -8,7 +8,7 @@ body{background:#808080 url(../assets/img/bg-art2.png); text-align:center;} ::se
 header,h1,#a-date{display:inline-block;}
 header div{font-size:1.25em;} header.box{padding:.25em 1em;} h1{font-weight:normal; margin-left:-.25em;} #a-date{color:#bfbfbf;}
 
-#aimg{display:block; margin-bottom:1em;}
+#aimg,#img2{display:block; margin-bottom:1em;}
 #a-img{border:1em solid #efefef; background:#efefef; box-shadow:0 0 1em .5em #000; box-shadow:0 0 1em .5em rgba(0,0,0,.35); display:inline-block;} #a-img img{pointer-events:none;} #a-img ::selection{background:#fff;}
 figcaption{background:url(../assets/img/bg-paper.png); box-shadow:0 0 .25em .15em #dfdfdf; padding:.15em 1em; line-height:1.25;} figcaption p,summary{margin:1em 0;}
 figcaption a{color:inherit; text-decoration-color:#bfbfbf;} figcaption a:hover,figcaption a:focus,figcaption a:active{color:#808080;}
