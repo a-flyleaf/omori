@@ -14,7 +14,7 @@ h1{font-size:2em; line-height:1.25; padding:.5em 0;}
 
 #nx{margin:3em 0 5em;}
 #nx a:hover,#nx a:focus,#nx a:active{opacity:.75;}
-#back{opacity:.5; display:inline-block; margin:0 0 .5em;} #back:hover,#back:focus,#back:active{opacity:1;}
+#back{opacity:.75; display:inline-block; margin:0 0 .5em;} #back:hover,#back:focus,#back:active{opacity:1;}
 
 /*content*/
 main [lang=hr]{font-style:italic;}
@@ -31,7 +31,7 @@ figure{margin-bottom:1em;} .ml figure{margin-bottom:1.5em;} .ml figure:last-of-t
 .imgs a:hover,.imgs a:focus,.imgs a:active{opacity:.65;}
 article p,article ul{text-align:left;} article p{margin:.5em 0; font-size:.95em;}
 
-figcaption{overflow:auto;} .flag{float:left; margin-right:.5em;} figcaption p{margin:.5em 0 .5em 2em;}
+figcaption{overflow:auto;} .flag{float:left; margin-right:.5em;} figcaption p{margin:.5em 0 .5em 2em; font-size:.85em; line-height:1.5;}
 sup{font-size:.75em; font-style:normal;}
 .fn p{margin-left:0; font-size:.85em; line-height:1.5;}
 
@@ -44,6 +44,6 @@ hr{margin:1em 0;}
 	figcaption{margin-bottom:0;}
 	.tr-hr,.tr-en{width:50%; float:left;}
 	.flag{display:block; float:none; margin-bottom:-.5em;}
-	figcaption p{margin:.5em;}
+	figcaption p{margin:.5em 0; font-size:.95em; line-height:1.65;}
 	.an{padding:0 .5em .25em;}
 }

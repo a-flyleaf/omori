@@ -72,7 +72,7 @@ log:
   - dt: 2023-03-16
     line: Fixed assorted things.
   - dt: 2023-03-30
-    line: <a href="hrvatski" lang="hr"><i>Jezik je pojam!</i></a>
+    line: <a href="hrvatski/index-v0" lang="hr"><i>Jezik je pojam!</i></a>
   - dt: 2023-04-01
     line: <a href="art/roundup-2023-03">March art roundup</a> is a thing.
   - dt: 2023-04-03
@@ -81,7 +81,7 @@ log:
     line: Translated a thing...
     done: |-
       - <a href="art/hr-tr">standalone art version</a>
-      - <a href="hrvatski/tr">version with commentary</a>
+      - <a href="hrvatski/tr-v0">version with commentary</a>
   - dt: 2023-04-07
     line: "Drew some stuff:"
     done: |-
@@ -118,6 +118,7 @@ log:
     done: |-
       - <a href="hrvatski/kuci">homepage</a>
       - finished <a href="hrvatski/yaoi">yaoi.</a> (+<a href="art/hr-yaoi">standalone art version</a>)
+      - converted older pages to new layout
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
