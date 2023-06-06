@@ -117,7 +117,7 @@ log:
     line: "Updated the <span lang='hr'>hrvastski</span> pages:"
     done: |-
       - <a href="hrvatski/kuci">homepage</a>
-      - finished <a href="hrvatski/yaoi">yaoi.</a>
+      - finished <a href="hrvatski/yaoi">yaoi.</a> (+<a href="art/hr-yaoi">standalone art version</a>)
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
