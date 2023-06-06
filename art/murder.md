@@ -2,7 +2,7 @@
 layout: base
 title: HUNGRI
 permalink: murdergaem
-css: "/*core*/ body{font-family:'comic sans ms',sans-serif; font-size:1.15em; background:#4a4039; color:#fff;} a{color:#33e0ff;} a:focus,summary:focus{outline:.15em solid #fff; outline:.15em solid rgba(255,255,255,.5);} a:hover,a:focus,a:active{color:inherit;} ::selection{background:#000; background:rgba(0,0,0,.35);} /*content*/ .nosho{opacity:0; height:0;} details>summary{list-style:none;} details>summary::marker,details>summary::-webkit-details-marker{display:none;} summary:hover,summary:active{opacity:.75;} summary{display:inline-block; line-height:0; cursor:default;} .whomst{font-weight:bold;} blockquote{font-family:'century schoolbook',times,serif;} figcaption a{text-decoration:none;} small{opacity:.5;} /*layout*/ #back:hover,#back:focus,#back:active{opacity:.5;}"
+css: "/*core*/ body{font-family:'comic sans ms',sans-serif; font-size:1.15em; background:#4a4039; color:#fff;} a{color:#33e0ff;} a:focus,summary:focus{outline:.15em solid #fff; outline:.15em solid rgba(255,255,255,.5);} a:hover,a:focus,a:active{color:inherit;} ::selection{background:#000; background:rgba(0,0,0,.35);} /*content*/ .nosho{opacity:0; height:0;} details>summary{list-style:none;} details>summary::marker,details>summary::-webkit-details-marker{display:none;} summary:hover,summary:active,summary:focus{opacity:.95;} summary{display:inline-block; line-height:0; cursor:default;} .whomst{font-weight:bold;} blockquote{font-family:'century schoolbook',times,serif;} figcaption a{text-decoration:none;} small{opacity:.5;} /*layout*/ #back:hover,#back:focus,#back:active{opacity:.5;}"
 
 game1:
   - l: a
@@ -99,13 +99,13 @@ game1:
       
       <em style="text-transform:uppercase;font-style:normal;">why is there flavor text for rotting corpses i ASDFGHJKL</em>
       
-      "hey omori wanna hang out"
-      
       <small class="img-desc">[Omori simply looks on, thinking,]</small> <i>ah, so peaceful.</i>
   - l: m
     title: overusedJoke
     desc: |-
       > <span class="x">[Headspace-]</span><span class="whomst omo">Kel</span> keeps trying to tell a joke, but it always falls flat.
+      
+      "hey omori wanna hang out"
       
       <small class="img-desc">[Omori and Mari are furious.]</small> <strong style="text-transform:uppercase;font-weight:normal;">L + ratio + not funny + didn't LOL + *get that truth shit outta here*</strong>
       
