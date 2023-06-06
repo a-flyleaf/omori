@@ -4,7 +4,7 @@ title: Jezik je (still) pojam!
 back: kuci
 next: yaoi
 
-css: "#jazz figure+hr{display:none;} .ne{color:inherit; text-decoration-thickness:initial} .svi{background:#7c7b79; color:#e2ecdd;} .svi h2{color:#cbbfa2;} p+ul{margin:.25em 0 0 1em;} li ul{font-size:.85em; margin-bottom:.15em;} figcaption ul{list-style-type:none; margin-left:2em;} .svi ::selection{background:#5b5a58;} article{overflow:auto;} #clueless{margin:2em 0 -.5em 0; color:#b1b3ba;} @media only screen and (min-width:500px){#clueless img{max-width:400px;}} #clueless figcaption p{margin:0; font-size:.85em;} #tense figcaption{text-transform:uppercase;} #tense em{font-weight:bold;} #tense .tr-en em{font-style:normal;} @media only screen and (min-width:600px){figcaption ul{margin-left:.5em;}}"
+css: "#jazz figure+hr{display:none;} .ne{color:inherit; text-decoration-thickness:initial} .svi{background:#7c7b79; color:#e2ecdd;} .svi h2{color:#cbbfa2;} p+ul{margin:.25em 0 0 1em;} li ul{font-size:.85em; margin-bottom:.15em;} figcaption ul{list-style-type:none; margin-left:2em;} .svi ::selection{background:#5b5a58;} article{overflow:auto;} #clueless{margin:2em 0 -.5em 0; color:#b1b3ba;} @media only screen and (min-width:500px){#clueless img{max-width:400px;}} #clueless figcaption p{margin:0; font-size:.85em;} #tense figcaption{text-transform:uppercase;} #tense em{font-weight:bold;} #tense .tr-en em{font-style:normal;} @media only screen and (min-width:600px){figcaption ul{margin-left:0;}}"
 
 h1: "<span lang='hr'><span>Jezik je</span> <span><span lang='en'>(still)</span> pojam!</span></span>"
 htxt: >-

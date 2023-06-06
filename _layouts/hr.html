@@ -14,7 +14,7 @@ css: hr
 		<div class="note">{{scrib.note|markdownify}}</div>{%endif%}{%for pic in scrib.imgs%}
 		<figure>
 			<div class="imgs"><a href="{%include url.html%}/assets/img/hr/{{scrib.dt|date:"%Y-%m-%d"}}{%if pic.img%}{{pic.img}}{%endif%}.png"><img src="{%include url.html%}/assets/img/hr/{{scrib.dt|date:"%Y-%m-%d"}}{%if pic.img%}{{pic.img}}{%endif%}.png" alt="{{pic.alt}}" title="{{pic.alt}}"></a></div>{%if pic.tr-hr%}
-			<figcaption><div class="tr-hr"><span class="flag">🇭🇷</span>{{pic.tr-hr|markdownify}}</div><div class="tr-en"><span class="flag">🇺🇸</span>{{pic.tr-en|markdownify}}</div>{%if pic.fn%}<div class="fn">{{pic.fn|markdownify}}</div>{%endif%}</figcaption>
+			<figcaption><div class="tr"><div class="tr-hr"><span class="flag">🇭🇷</span>{{pic.tr-hr|markdownify}}</div><div class="tr-en"><span class="flag">🇺🇸</span>{{pic.tr-en|markdownify}}</div></div>{%if pic.fn%}<div class="fn">{{pic.fn|markdownify}}</div>{%endif%}</figcaption>
 		{%endif%}{%if pic.fn-only%}<figcaption><div class="fn">{{pic.fn-only|markdownify}}</div></figcaption>{%endif%}</figure>{%endfor%}{%if scrib.an%}<hr>
 		<div class="an">{{scrib.an|markdownify}}</div>{%endif%}
 	</article>{%endfor%}{%if page.footnote%}<div id="footnote">{{page.footnote|markdownify}}</div>{%endif%}{%if page.next%}<div id="nx"><a href="{%include url.html%}/hrvatski/{{page.next}}"><img src="{%include url.html%}/assets/img/hand.png" alt="next"></a></div>{%endif%}
