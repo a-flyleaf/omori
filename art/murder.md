@@ -2,7 +2,21 @@
 layout: base
 title: HUNGRI
 permalink: murdergaem
-css: "/*core/typography*/ body{font-family:'comic sans ms',sans-serif; font-size:18px; background:#4a4039; color:#fff;} a{color:#33e0ff;} a:focus,summary:focus{outline:.15em solid #fff; outline:.15em solid rgba(255,255,255,.5);} a:hover,a:focus,a:active{color:inherit;} ::selection{background:#000; background:rgba(0,0,0,.35);} .up{text-transform:uppercase;} em.up{font-style:normal;} strong.up{font-weight:normal;} /*content*/ .nosho{opacity:0; height:0;} details>summary{list-style:none;} details>summary::marker,details>summary::-webkit-details-marker{display:none;} summary:hover,summary:active,summary:focus{opacity:.95;} summary{display:inline-block; line-height:0; cursor:default;} .whomst{font-weight:bold;} blockquote{font-family:'century schoolbook',times,serif;} figcaption{font-size:14px;} figcaption a{text-decoration:none;} small{opacity:.5;} /*layout*/ #back:hover,#back:focus,#back:active{opacity:.5;}"
+css: "/*core*/ body{font-family:'comic sans ms',sans-serif; font-size:18px; background:#2f2722; color:#fff; text-align:center;} a{color:#33e0ff;} a:focus,summary:focus{outline:.15em solid #fff; outline:.15em solid rgba(255,255,255,.5);} a:hover,a:focus,a:active{color:inherit;} ::selection{background:#000; background:rgba(0,0,0,.35);}
+.up{text-transform:uppercase;} em.up{font-style:normal;} strong.up{font-weight:normal;}
+/*content*/ .nosho{opacity:0; height:0; overflow:hidden;} h2,h3{text-transform:uppercase; font-size:1.25em; letter-spacing:.05em;}
+.tog{padding:.5em 0;} .tog:focus,.tog:hover,.tog:active,.backup:hover,.backup:active,.backup:focus{background:rgba(0,0,0,.25); outline-color:#33e0ff;}
+details>summary{list-style:none; color:#33e0ff;} details>summary::marker,details>summary::-webkit-details-marker{display:none;} summary:hover,summary:active,summary:focus{opacity:.95;} figure summary{display:inline-block; line-height:0; cursor:default;}
+figure{text-align:center;} figcaption{max-width:800px; margin:0 auto; font-size:16px;} figcaption a{text-decoration:none;}
+.whomst{font-weight:bold;} blockquote{font-family:'century schoolbook',times,serif; background:#000; background:rgba(0,0,0,.35); margin:.5em; padding:.5em;} small{color:#b2a196;} figcaption p{margin:.5em 0;}
+figure:last-of-type,figure:last-of-type figcaption{margin-bottom:0 !important;} .backup{text-decoration:none; display:inline-block; padding:.5em;}
+/*layout*/ #all{max-width:900px; margin:0 auto; background:#4a4039;}
+header{padding:1em 1em 0;} h1{font-size:2em;} header p{margin:1em auto 1.5em; max-width:27.5em; line-height:1.65;}
+main{padding-bottom:5em; background:linear-gradient(to top,#2f2722,#4a4039 20em);}
+hr{margin:1em;}
+.gaem figure{margin:1em 0;} .gaem figcaption{background:#000; background:rgba(0,0,0,.15); margin:-.25em auto 3em; padding:.5em;} #rip{margin:1em 0;}
+footer{padding:1em 0; background:#2f2722; color:#928277;} #back:hover,#back:focus,#back:active{opacity:.5;} footer p{font-size:12px; margin-top:.5em;}
+/*420 stealIt*/ #steal{padding:0 1em;} #steal h2 a{text-decoration:none;} #steal p{margin:.5em 0;} #steal small{color:#a59489; font-size:.85em;} #steal p:last-child{margin-top:1em;} textarea{background:#2f2722; color:#a59489; border:.01em solid; padding:.5em .75em; width:100%; max-width:100%;} textarea::selection{background:#33e0ff; color:#2f2722;} textarea:focus,textarea:active{outline:.15em solid #33e0ff;} @media only screen and (min-width:600px){#cols{overflow:auto; margin:-1em 0 -.5em;} .col{float:left; width:50%; padding:.5em;}}"
 
 game1:
   - l: a
@@ -309,32 +323,43 @@ game2:
       
       <i>fin.</i> (<em class="up">I Guess.</em>)
 ---
-<header markdown="1">
+<div id="all" markdown="1"><header markdown="1">
 # ~~hunger~~ murder gaem
 
-shenanigans brought to you by [the murder game simulator](http://orteil.dashnet.org/murdergames/) and some slapdash scribbles. this is mostly just a separate page for transcription's sake ~~and because I had no idea how to lay these out on a canvas~~; full captions are in the image clickthroughs
+shenanigans brought to you by [the murder game simulator](http://orteil.dashnet.org/murdergames/) and some slapdash scribbles. this is mostly just a separate page for transcription's sake ~~and because I had no idea how to lay these out on a canvas~~
 
-[link back to roundup goes here; update the footer too!!]
+<!--[link back to roundup goes here; update the footer too!!]-->
 </header>
+----
 <main markdown="1">
 <h2 id="gaem" class="nosho">da gaems</h2>
-<h3 class="nosho">round 1</h3>
+<details class="gaem" id="r1" open><summary class="tog"><h3>round 1</h3></summary>
 {%for img in page.game1%}<figure><h4 class="nosho">{{img.title|downcase}}.png</h4><details><summary><img src="{%include url.html%}/assets/img/art/murder/1{{img.l}}-{{img.title|downcase}}.png" alt="" title="{{img.title|downcase}}.png"/></summary><figcaption>{{img.desc|markdownify}}</figcaption></details></figure>{%endfor%}
+<a class="backup" href="#r1">▲</a>
+</details>
 
-### round 2
+<div id="rip">†</div>
+
+<details class="gaem" id="r2"><summary class="tog"><h3>round 2</h3></summary>
 {%for img in page.game2%}<figure><h4 class="nosho">{{img.title|downcase}}.png</h4><details><summary><img src="{%include url.html%}/assets/img/art/murder/2{{img.l}}-{{img.title|downcase}}.png" alt="" title="{{img.title|downcase}}.png"/></summary><figcaption>{{img.desc|markdownify}}</figcaption></details></figure>{%endfor%}
+<a class="backup" href="#r2">▲</a>
+</details>
 
-## steal my setup
-with images
+----
+
+<section id="steal" markdown="1">
+## [steal my setup](http://orteil.dashnet.org/murdergames/)
+<div id="cols"><div class="col">
+<p>with images</p>
 <textarea readonly>{"teams":[{"name":"NOTEAM"},{"name":"zzz"},{"name":"REAL SHIT"}],"chars":[{"name":"OMORI","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/omri.jpg","team":"zzz","perks":["leader","survivalist","pitchfork"]},{"name":"AUBREY","g":1,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/baubey.jpg","team":"zzz","perks":["cute","bulky","big stick"]},{"name":"KEL","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/kil.jpg","team":"zzz","perks":["scrappy","annoying","slingshot"]},{"name":"HERO","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/dreamhero.jpg","team":"zzz","perks":["peaceful","seductive","ancient scepter"]},{"name":"MARI","g":1,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/mri.jpg","team":"zzz","perks":["kind","devious","rocket launcher"]},{"name":"BASIL","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/bagel.jpg","team":"zzz","perks":["naive","unstable","wish ring"]},{"name":"SOMETHING","g":2,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/smthn.jpg","team":"zzz","perks":[]},{"name":"STRANGER","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/strnager.jpg","team":"zzz","perks":["survivalist"]},{"name":"Sunny","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/snuuy.jpg","team":"REAL SHIT","perks":["unstable","big stick"]},{"name":"Kel","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/keel.jpg","team":"REAL SHIT","perks":["naive","pet wolf"]},{"name":"Hero","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/hero.jpg","team":"REAL SHIT","perks":["kind","pitchfork"]},{"name":"Aubrey","g":1,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/aubey.jpg","team":"REAL SHIT","perks":["survivalist","axe"]},{"name":"Mari(’s spirit)","g":1,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/helmarireal.jpg","team":"REAL SHIT","perks":[]},{"name":"Basil","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/babel.jpg","team":"REAL SHIT","perks":["suicidal","sword"]},{"name":"a sad, lonely picnic basket","g":2,"t":1,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/basketcase.jpg","team":"REAL SHIT","perks":["sociopath","devious","grenade"]},{"name":"Basil, with a gun","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/sansil.jpg","team":"REAL SHIT","perks":["unstable","lunatic","shotgun"]}]}</textarea>
-
-without
+</div><div class="col">
+<p>without</p>
 <textarea readonly><textarea readonly>{"teams":[{"name":"NOTEAM"},{"name":"zzz"},{"name":"REAL SHIT"}],"chars":[{"name":"OMORI","g":0,"t":0,"pic":"","team":"zzz","perks":["leader","survivalist","pitchfork"]},{"name":"AUBREY","g":1,"t":0,"pic":"","team":"zzz","perks":["cute","bulky","big stick"]},{"name":"KEL","g":0,"t":0,"pic":"","team":"zzz","perks":["scrappy","annoying","slingshot"]},{"name":"HERO","g":0,"t":0,"pic":"","team":"zzz","perks":["peaceful","seductive","ancient scepter"]},{"name":"MARI","g":1,"t":0,"pic":"","team":"zzz","perks":["kind","devious","rocket launcher"]},{"name":"BASIL","g":0,"t":0,"pic":"","team":"zzz","perks":["naive","unstable","wish ring"]},{"name":"SOMETHING","g":2,"t":0,"pic":"","team":"zzz","perks":[]},{"name":"STRANGER","g":0,"t":0,"pic":"","team":"zzz","perks":["survivalist"]},{"name":"Sunny","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["unstable","big stick"]},{"name":"Kel","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["naive","pet wolf"]},{"name":"Hero","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["kind","pitchfork"]},{"name":"Aubrey","g":1,"t":0,"pic":"","team":"REAL SHIT","perks":["survivalist","axe"]},{"name":"Mari(’s spirit)","g":1,"t":0,"pic":"","team":"REAL SHIT","perks":[]},{"name":"Basil","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["suicidal","sword"]},{"name":"a sad, lonely picnic basket","g":2,"t":1,"pic":"","team":"REAL SHIT","perks":["sociopath","devious","grenade"]},{"name":"Basil, with a gun","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["unstable","lunatic","shotgun"]}]}</textarea></textarea>
+</div></div>
 
-(you can edit the team attributes, name, pictures, etc. after import!)
+<small>(you can edit the team attributes, name, pictures, etc. after import!)</small>
 
 knock yourself out; feel free to [lmk if something funny happens](https://a-flyleaf.github.io/omori/about#contact)~
-
-</main>
+</section></main>
 <footer><a href="{%include url.html%}" id="back"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a>
-	<p><span class="omo">Omori © Omocat, LLC.</span></p></footer>
+<p><span class="omo">Omori © Omocat, LLC.</span></p></footer></div>

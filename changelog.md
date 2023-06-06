@@ -114,11 +114,13 @@ log:
   - dt: 2023-05-30
     line: Finished drawing <a href="art/bench">a thing</a>.
   - dt: 2023-06-06
-    line: "Updated the <span lang='hr'>hrvastski</span> pages:"
+    line: "Finished some pages:"
     done: |-
-      - <a href="hrvatski/kuci">homepage</a>
-      - finished <a href="hrvatski/yaoi">yaoi.</a> (+<a href="art/hr-yaoi">standalone art version</a>)
-      - converted older pages to new layout
+      - <span lang="hr">hrvatski</span>:
+        - <a href="hrvatski/kuci">new homepage</a>
+        - finished <a href="hrvatski/yaoi">yaoi.</a> (+<a href="art/hr-yaoi">standalone art version</a>)
+        - converted older pages to new layout
+      - <a href="murdergaem">murder game nonsense</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
