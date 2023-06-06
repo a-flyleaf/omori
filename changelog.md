@@ -113,6 +113,11 @@ log:
     line: <a href="art/aubey">Drew a thing</a>.
   - dt: 2023-05-30
     line: Finished drawing <a href="art/bench">a thing</a>.
+  - dt: 2023-06-06
+    line: "Updated the <span lang='hr'>hrvastski</span> pages:"
+    done: |-
+      - <a href="hrvatski/kuci">homepage</a>
+      - finished <a href="hrvatski/yaoi">yaoi.</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

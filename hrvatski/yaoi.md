@@ -1,23 +1,43 @@
 ---
 layout: hr
-title: ???
-back: ostatak-aprila
+title: yaoi.
+back: kuci
 
-css: ".ns{font-size:.85em; font-family:consolas,monospace;} #yaoi{background:#696c71; color:#fff;} #yaoi h2{color:#bfbfbf;} #yaoi a{text-decoration-color:#9c9ea2;} #yaoi ::selection{background:#494c51;} #yaoi del{color:inherit;}"
+css: "#tense figcaption{text-transform:uppercase;} #yaoi{background:#696c71; color:#fff;} #yaoi h2{color:#bfbfbf;} #yaoi .note img{display:block;} #yaoi a{text-decoration-color:#9c9ea2;} #yaoi ::selection{background:#494c51;} #yaoi del{color:inherit;} #thanks-doc hr{display:none;} #alas{margin-bottom:-.5em;} /*temp*/ small{font-size:.85em;}"
 
-h1: "???"
+h1: "yaoi."
 htxt: >-
-  <span class="ns">[WIP of sorts, to be finished at the end of May; unsure how I want to handle the page splits but for now it's just the yaoi]<br>isto <img src="https://cdn.discordapp.com/attachments/483318565022203904/1105652598796718110/image.png" alt="this whole thing is a sitcom now i think." title="this whole thing is a sitcom now i think."/><br>[isto isto, link the all-in-one version here too; do the same for the sentence comic, since both can be ~decently understood without a translation]</span>
+  [...and an outlier, for now.]
 
 scribs:
+  - dt: 2023-05-01
+    id: tense
+    typ: sn
+    imgs:
+    - alt: Back in Basil’s special hell, Stranger-Aubrey points at three variations of a sentence on a chalkboard. (Faintly in the background, a drawing of him and Sunny has been erased.) Basil is distressed.
+      tr-hr: |-
+        <span lang="hr">Soba Crnog Prostora: <s class="ne">Škola Aubrey 2</s></span> <span lang="en">tension. geddit---</span>
+        
+        - <span lang="hr">perfekt: *nije* razumio</span>
+        - <span lang="hr">prezent: *ne* razumije</span>
+        - <span lang="hr">futur 1: *neće* razumjeti</span>
+      tr-en: |-
+        Room of Black Space: <s class="ne">Aubrey School 2</s> tension. geddit---
+        
+        - [~]past tense: [he] *didn't* understand
+        - [~]present tense: [he] *doesn't* understand
+        - [~]future tense: [he] *won't* understand
+    an: |-
+      Croatian and English tenses are not, by a long shot, 1:1. Besides that, I had a weird amount of trouble with this *specific* line from [last round](hrvatski/ostatak-aprila#bonding)---and even got it wrong the first time *here,* hence the little correction.
   - dt: 2023-05-07
     id: yaoi
     typ: ml svi cn
+    note: <img src="https://cdn.discordapp.com/attachments/483318565022203904/1105652598796718110/image.png" alt="this whole thing is a sitcom now i think."/>
     imgs:
     - alt: “Hey, Sunny—” Aubrey approaches Sunny and says something nice in Croatian. He doesn’t get it, to her annoyance. She yells to Basil, who’s been watching from a distance; “Ugh, sorry about this, Sunny; forget I said anyth—” Basil, in a panic, yells “W-wait—No no no no ne [no]—!!!”
       img: "/a"
       tr-hr: |-
-        "<span lang="hr">On još ne <span class="ns">[nije?]</span></span> get it."
+        "<span lang="hr">On još nije get it."
         
         <span class="omo">Aubrey</span>: <q lang="hr">Stalo mi... Jako mi je stalo do tebe..\.. Nadam se da si dobro, i...</q>  
         <span class="omo">Aubrey</span>: <q lang="hr">...drago mi je da smo prijatelji.</q>
@@ -83,8 +103,6 @@ scribs:
         
         <span class="omo">Basil</span>: <q lang="hr">I want us to be... *very*... close friends..\..</q>
       fn: |-
-        <span class="ns">[oh whoops **note to self**, fix the white box in the top right]</span>
-        
         <q lang="hr">Prilično</q> [*seems* to be](https://www.easy-croatian.com/2014/11/56.html) stronger than <q lang="jako">jako</q>..\.. Besides that, Basil's line has been left wonky on purpose again (<q lang="hr">želim ~~smo biti~~ **da budemo** vrlo bliski prijatelji</q>), because grammatical tense.
     - alt: "Sunny thought bubble: 1. Aubrey said one thing; question mark. 2. Basil said another; heart. 3. Both dialogues had “mi je stalo do tebe” and “prijatelji.” 4. Therefore, question mark = heart? approximately…? / 5. Therefore, Aubrey said [heart]??!!!! Fireworks go off in Sunny’s head. Ode_to_Joy.sproutmole! Aubrey picking him up bridal-style! Aubrey and him holding hands [how scandalous, redacted]! [Something /fully/ redacted]…! / Speech bubble from offscreen: “Hey. Earth to Sunny?”"
       img: "/e"
@@ -97,7 +115,15 @@ scribs:
       tr-en: |-
         <span class="omo">Aubrey</span>: <q>See? You lost him...</q>
     an: |-
-      [insert that follow-up doodle here. alas.png]
+      <figure class="imgs" id="alas"><a href="../assets/img/hr/2023-05-09"><img src="../assets/img/hr/2023-05-09.png" alt="Gru meme ft. Basil. First panel: Aubrey, who speaks Croatian, talked to Sunny; Sunny has a crush on her. Second panel (expectation): If Basil speaks Croatian, Sunny will crush on /him/. Third panel (in which Basil looks disgruntled): Aubrey has taught him Croatian both back then (both kneeling over a puzzle) and now (her yelling at him through a megaphone…). Fourth panel (reality, to Basil’s /extreme/ disgruntlement): Basil speaks Croatian. Sunny doesn’t get it." title="Gru meme ft. Basil. First panel: Aubrey, who speaks Croatian, talked to Sunny; Sunny has a crush on her. Second panel (expectation): If Basil speaks Croatian, Sunny will crush on /him/. Third panel (in which Basil looks disgruntled): Aubrey has taught him Croatian both back then (both kneeling over a puzzle) and now (her yelling at him through a megaphone…). Fourth panel (reality, to Basil’s /extreme/ disgruntlement): Basil speaks Croatian. Sunny doesn’t get it."></a><figcaption><a href="https://knowyourmeme.com/memes/grus-plan">alas.</a></figcaption></figure>
+  - dt: 2023-05-14
+    id: thanks-doc
+    typ: sn cn
+    note: And Now For Something Completely Different. <small>[might move this to the next page later, but for now it's here since it's from the same month]</small>
+    imgs:
+    - alt: "Basil wakes up in the hospital, with Kel, Hero, and Aubrey standing nearby. Hero: “Hey, Basil. How’re you feeling?” He holds up a card that reads “How much does it hurt?”, below which is a pain scale from 1 (Not at all!) to 3 (OK) to 5 (Horrid Agony). / Basil’s response: “P… Pet….”. Kel: “‘Pet’? You want Hector? /Here??/” Aubrey translates: “Five. He means five….”"
+    an: >-
+      Needs no translation. The language of pain is universal.
 ---
 ČčĆćĐđŠšŽž
 …‘’“”—
