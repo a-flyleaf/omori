@@ -2,7 +2,7 @@
 layout: base
 title: HUNGRI
 permalink: murdergaem
-css: "/*core*/ body{font-family:'comic sans ms',sans-serif; font-size:1.15em; background:#4a4039; color:#fff;} a{color:#33e0ff;} a:focus,summary:focus{outline:.15em solid #fff; outline:.15em solid rgba(255,255,255,.5);} a:hover,a:focus,a:active{color:inherit;} ::selection{background:#000; background:rgba(0,0,0,.35);} /*content*/ .nosho{opacity:0; height:0;} details>summary{list-style:none;} details>summary::marker,details>summary::-webkit-details-marker{display:none;} summary:hover,summary:active,summary:focus{opacity:.95;} summary{display:inline-block; line-height:0; cursor:default;} .whomst{font-weight:bold;} blockquote{font-family:'century schoolbook',times,serif;} figcaption a{text-decoration:none;} small{opacity:.5;} /*layout*/ #back:hover,#back:focus,#back:active{opacity:.5;}"
+css: "/*core/typography*/ body{font-family:'comic sans ms',sans-serif; font-size:18px; background:#4a4039; color:#fff;} a{color:#33e0ff;} a:focus,summary:focus{outline:.15em solid #fff; outline:.15em solid rgba(255,255,255,.5);} a:hover,a:focus,a:active{color:inherit;} ::selection{background:#000; background:rgba(0,0,0,.35);} .up{text-transform:uppercase;} em.up{font-style:normal;} strong.up{font-weight:normal;} /*content*/ .nosho{opacity:0; height:0;} details>summary{list-style:none;} details>summary::marker,details>summary::-webkit-details-marker{display:none;} summary:hover,summary:active,summary:focus{opacity:.95;} summary{display:inline-block; line-height:0; cursor:default;} .whomst{font-weight:bold;} blockquote{font-family:'century schoolbook',times,serif;} figcaption{font-size:14px;} figcaption a{text-decoration:none;} small{opacity:.5;} /*layout*/ #back:hover,#back:focus,#back:active{opacity:.5;}"
 
 game1:
   - l: a
@@ -30,13 +30,13 @@ game1:
       
       > <span class="whomst">Kel</span> sics his pet ~~wolf~~ dog on <span class="x">[Headspace-]</span><span class="whomst omo">Hero</span>! <span class="whomst omo">Hero</span> gets torn to shreds by the ravenous animal!
       
-      <small class="img-desc">[Thinks Kel, <i>You're not my <em class="omo">real</em> bro...</i>. Hector (the dog) wags his tail, sitting happily in a puddle of blood with Headspace-Hero's dismembered arm in his maw. Kel, turned away, sheds a dramatic tear and clenches his fist, dramatically.]</small>
+      <small class="img-desc">[Thinks Kel,]</small> <i>You're not my <em class="omo">real</em> bro...</i> <small class="img-desc">[Hector (the dog) wags his tail, sitting happily in a puddle of blood with Headspace-Hero's dismembered arm in his maw. Kel, turned away, sheds a dramatic tear and clenches his fist, dramatically.]</small>
   - l: d
     title: allThePlants
     desc: |-
       > <span class="whomst">Basil</span> swooshes the air with his ~~sword~~ shears.
       
-      <em style="text-transform:uppercase;font-style:normal;">"I f—ing love gardening"</em> <small class="img-desc">[declares Basil, [determined](https://knowyourmeme.com/memes/all-the-things).]</small>
+      <em class="up">"I f—ing love gardening"</em> <small class="img-desc">[declares Basil, [determined](https://knowyourmeme.com/memes/all-the-things).]</small>
   - l: e
     title: canon1
     desc: |-
@@ -67,7 +67,7 @@ game1:
       
       <small class="img-desc">[Headspace Basil does indeed split like a melon sprite.]</small> aw
       
-      ("why so many Basils" [the roster has] Mari, dead Mari, Something, bonus... [the roster] hada to even out.)
+      ("why so many Basils" [the roster has] Mari, dead Mari, Something, bonus... had to even [them] out.)
   - l: i
     title: canon3
     desc: |-
@@ -97,7 +97,7 @@ game1:
     desc: |-
       > <span class="x">[Headspace-]</span><span class="whomst omo">Aubrey</span>'s corpse rots peacefully.
       
-      <em style="text-transform:uppercase;font-style:normal;">why is there flavor text for rotting corpses i ASDFGHJKL</em>
+      <em class="up">why is there flavor text for rotting corpses i ASDFGHJKL</em>
       
       <small class="img-desc">[Omori simply looks on, thinking,]</small> <i>ah, so peaceful.</i>
   - l: m
@@ -107,7 +107,7 @@ game1:
       
       "hey omori wanna hang out"
       
-      <small class="img-desc">[Omori and Mari are furious.]</small> <strong style="text-transform:uppercase;font-weight:normal;">L + ratio + not funny + didn't LOL + *get that truth shit outta here*</strong>
+      <small class="img-desc">[Omori and Mari are furious.]</small> <strong class="up">L + ratio + not funny + didn't LOL + *get that truth shit outta here*</strong>
       
       > <span class="whomst omo">Mari</span> and <span class="whomst omo">Omori</span> conspire against <span class="whomst omo">Kel</span>...
   - l: n
@@ -126,7 +126,7 @@ game1:
       scissors</span>  
       <small class="img-desc">[In which Omori and (one version of) Basil play the aforementioned game...]</small>
       
-      ~~gun?~~ <strong style="text-transform:uppercase;font-weight:normal;">Knife.</strong>
+      ~~gun?~~ <strong class="up">Knife.</strong>
       
       > <span class="whomst omo">Omori</span> lobs his ~~pitchfork~~ knife at <span class="whomst">Basil, with a gun</span>, killing him instantly!
   - l: p
@@ -140,7 +140,7 @@ game1:
       
       "we did it, Basil! we [beat all the fake people!](https://knowyourmeme.com/memes/we-did-it-patrick-we-saved-the-city)"
       
-      <small class="img-desc">[Mari fistpumps the air in victory. The caveman is less entused.]</small>
+      <small class="img-desc">[Mari fistpumps the air in victory. The caveman is less enthused.]</small>
       
       > <span class="whomst">Basil</span> longs for death.
   - l: q
@@ -160,7 +160,154 @@ game1:
   - l: r
     title: rip
     desc: |-
-      [oops i forgot the bonus]
+      <span class="up">Bonus:</span>
+      
+      > <span class="up">Round 13</span>  
+      > The dead husk of <span class="whomst">Hero</span> rots peacefully.  
+      > The pile of flesh that used to be <span class="whomst omo"><span class="x">[Headspace-]</span>Mari</span> rots peacefully.  
+      > <span class="whomst">Mari(’s spirit)</span> twiddles her thumbs.
+      
+      this was the Entire round. <u>1</u>4<u>3</u> ig...!!
+      
+      <small class="img-desc">[Mari's spirit is indeed twiddling her thumbs, sitting on a stump.]</small> nothing disturbing here, folks! <small class="img-desc">[Hero and Headspace-Mari lie facedown in the foreground.]</small>
+game2:
+  - l: a
+    title: batterUp
+    desc: |-
+      very eventful first round... (1/?)
+      
+      > Headspace-Aubrey bludgeons Aubrey to death with her big stick!
+      
+      <em class="up">"Which version of me is long gone <strong style="font-weight:normal;font-style:italic;">now</strong>"</em>
+      
+      <small class="img-desc">[Headspace-Aubrey is splattered in blood. Her bat</small> doesn't even have nails.<small class="img-desc">]</small> <em class="up">"Fucker"</em>
+  - l: b
+    title: TheyAreTheCool
+    desc: |-
+      very eventful first round... (2/?)
+      
+      > <span class="whomst omo">Something</span> tries to kill <span class="whomst omo"><span class="x">[Headspace-]</span>Aubrey</span>, but <span class="whomst omo">Aubrey</span> retalitates and kills it instead.  
+      > <span class="whomst omo">Omori</span> lobs his knife at <span class="whomst">Basil</span>, killing him instantly!
+      
+      in a row, yes.
+      
+      <small class="img-desc">[Aubrey and Omori don #CoolShades, and there is a cool explosion behind them.]</small> #NotThisTime. <small class="img-desc">[Something and Basil lie flat in the background; Basil</small> didn't even <em class="up">do</em> anything<small class="img-desc">.]</small>
+  - l: c
+    title: isThisPhotobomb
+    desc: |-
+      very eventful first round... (3/3)
+      
+      "wow..." <small class="img-desc">[says Basil, starry-eyed.]</small>
+      
+      > <span class="whomst omo"><span class="x">[Headspace-]</span>Basil</span> admires <span class="whomst omo"><span class="x">[Headspace-]</span>Aubrey</span>'s muscles.
+      
+      "Thanks," <small class="img-desc">[replies Aubrey, flexing,]</small> "you should kill your real self for these guns next round!"
+  - l: d
+    title: wrongBro2
+    desc: |-
+      > <span class="whomst omo"><span class="x">[Headspace-]</span>Kel</span> uses his slingshot to pelt <span class="whomst">Hero</span> with rocks, which is more annoying than anything, really.
+      
+      <small class="img-desc">[Hero, nonchalantly eating a sandwich, only glances over. He thinks,]</small> <i style="text-transform:lowercase;">You're not my real bro...</i>
+  - l: e
+    title: threatening
+    desc: |-
+      <span class="up">Before</span><small class="img-desc">[, there is Sunny.]</small>
+      
+      > <span class="whomst">Sunny</span> finally snaps!
+      
+      after... <small class="img-desc">[there is Sunny. Nothing has changed.]</small>
+  - l: f
+    title: bikiniphobia
+    desc: |-
+      A Tragedy in Three Parts:
+      
+      1.
+      > <span class="whomst omo"><span class="x">[Headspace-]</span>Hero</span> tries to get others to notice him.
+      
+      2.
+      > <span class="whomst omo">Hero</span> finds a lovely bikini and puts it on! It's quite revealing.
+      <small class="img-desc">[The top is on his eyes.]</small>
+      
+      <small class="img-desc">[Mari's spirit says,]</small> "i appreciate the gender but pls leave those for real Hero"  
+      <small class="img-desc">[Hero is dejected.]</small> "ok..."
+      
+      3.
+      > <span class="whomst">Mari(’s spirit)</span> ambushes <span class="whomst omo">Hero</span> and gets rid of him!
+  - l: g
+    title: manDown
+    desc: |-
+      alas, real Hero:
+      > <span class="whomst omo">Omori</span> attempts to kill <span class="whomst">Mari(’s spirit)</span>, but <span class="whomst">Hero</span> intervenes to protect her! Unfortunately, <span class="whomst">Hero</span> dies in the attempt...
+      
+      <small class="img-desc">[Spirit-Mari gestures down the stairs, as Hero falls down.]</small> "why would you do this." <small class="img-desc">[Omori is unphased.]</small> "was the bikini not enough"
+  - l: h
+    title: violince
+    desc: |-
+      > In a fit of frenzy, <span class="whomst">Sunny</span> creeps up on <span class="whomst omo">Omori</span> and slaughters him!
+      
+      <small class="img-desc">[Sunny thwacks Omori over the head with the violin, which is *thoroughly* broken. Omori lies paper-flat.]</small>
+      
+      when ~~past-you talks too much shit~~ <em class="up">the bikini was *good*, **coward**</em>
+  - l: i
+    title: tragic
+    desc: |-
+      > <span class="whomst omo">Stranger</span> attacks and kills <span class="whomst omo">Aubrey</span> before <span class="whomst omo"><span class="x">[Headspace-]</span>Basil</span> can react! <span class="whomst omo">Basil</span> rushes to help, but <span class="whomst omo">Aubrey</span> dies in his arms...
+      
+      "not the guns... anything but the sick guns..."  
+      <small class="img-desc">[Stranger, watching blankly:]</small> "<em class="up">Bruh.</em>"
+      
+      Basil Proceeds To Have A Great Time.
+      > <span class="whomst omo">Basil</span> just wants it to end already...  
+      > <span class="whomst omo">Basil</span> starts sobbing uncontrollably.  
+      > <span class="whomst omo">Basil</span> has a blank expression and seems unresponsive to what's going on...  
+      > <span class="whomst omo">Basil</span> starts sobbing uncontrollably. 
+      
+      (again, yes.)
+      
+      <span class="up">To Be Contineu<span>
+  - l: j
+    title: bigMisteak
+    desc: |-
+      <strong style="text-transform:uppercase;">Bruh again????</strong>
+      
+      <small class="img-desc">[Sunny shoves Mari down the stairs; *begone*. She</small> should've apologized for the steak.<small class="img-desc">]</small>
+      
+      > In a fit of frenzy, <span class="whomst">Sunny</span> creeps up on <span class="whomst">Mari(’s spirit)</span> and snaps her neck!
+  - l: k
+    title: wrong
+    desc: |-
+      > <span class="whomst omo">Stranger</span> won't die like the others. <small class="desc">[immediately followed by:]</small>  
+      > In a fit of frenzy, <span class="whomst">Sunny</span> creeps up on <span class="whomst omo">Stranger</span> and kills him dead!
+      
+      <small class="desc">[Four-panel [meme](https://knowyourmeme.com/memes/for-the-better-right), in which Sunny and Stranger face each other.]</small>  
+      "you accept the Truth now, right?"  
+      <small class="img-desc">[Stranger stares.]</small>  
+      <small class="img-desc">[Sunny stares closer.]</small>  
+      <small class="img-desc">[Stranger sweats.]</small>
+  - l: l
+    title: squeakToyNoise
+    desc: |-
+      last but not at All least.
+      
+      > In a fit of frenzy, <span class="whomst">Sunny</span> creeps up on <span class="whomst omo"><span class="x">[Headspace-]</span>Basil</span> and snaps his neck!
+      
+      <small class="img-desc">[Sunny stares down Basil atop the stairs. Sunny grabs Basil by the neck like a squeak toy.]</small>
+      
+      <strong style="text-transform:uppercase;">Sunnyvengeance.MP3</strong>  
+      (you were expecting a shove weren't you 😎)
+  - l: m
+    title: hungri
+    desc: |-
+      <small class="img-desc">[In the final ranking, Sunny won with 4 kills.]</small>
+      
+      <small class="img-desc">[Sunny, in real life, has also zoned out flat on his back, with a book spread over his face. His friends sit around him. In dialogue bubbles with no indicated speakers (or order):]</small>
+      - "Did... did he fall asleep reading?"
+      - "What's a hunger game? Now I'm hungry."
+      - "Hey, Sunny? ...Wow. Out like a light."
+      - "How long has he been...?"
+      - "This has happened before..."
+      
+      <i>fin.</i> (<em class="up">I Guess.</em>)
 ---
 <header markdown="1">
 # ~~hunger~~ murder gaem
@@ -175,7 +322,7 @@ shenanigans brought to you by [the murder game simulator](http://orteil.dashnet.
 {%for img in page.game1%}<figure><h4 class="nosho">{{img.title|downcase}}.png</h4><details><summary><img src="{%include url.html%}/assets/img/art/murder/1{{img.l}}-{{img.title|downcase}}.png" alt="" title="{{img.title|downcase}}.png"/></summary><figcaption>{{img.desc|markdownify}}</figcaption></details></figure>{%endfor%}
 
 ### round 2
-{%for img in page.game2%}<figure><h4 class="nosho">{{img.title|downcase}}.png</h4><details open><summary><img src="{%include url.html%}/assets/img/art/murder/2{{img.l}}-{{img.title|downcase}}.png" alt="" title="{{img.title|downcase}}.png"/></summary><figcaption>{{img.desc|markdownify}}</figcaption></details></figure>{%endfor%}
+{%for img in page.game2%}<figure><h4 class="nosho">{{img.title|downcase}}.png</h4><details><summary><img src="{%include url.html%}/assets/img/art/murder/2{{img.l}}-{{img.title|downcase}}.png" alt="" title="{{img.title|downcase}}.png"/></summary><figcaption>{{img.desc|markdownify}}</figcaption></details></figure>{%endfor%}
 
 ## steal my setup
 with images
