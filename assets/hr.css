@@ -42,6 +42,7 @@ hr{margin:1em 0;}
 @media only screen and (min-width:600px){
 	figcaption,.an,.fn{max-width:800px; margin:0 auto;}
 	figcaption{margin-bottom:0;}
+	.tr{padding-left:.5em;}
 	.tr-hr,.tr-en{width:50%; float:left;}
 	.tr-hr{padding-right:.25em;} .tr-en{padding-left:.25em;}
 	.flag{display:block; float:none; margin-bottom:-.5em;}

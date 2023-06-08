@@ -16,7 +16,8 @@ main{padding-bottom:5em; background:linear-gradient(to top,#2f2722,#4a4039 20em)
 hr{margin:1em;}
 .gaem figure{margin:1em 0;} .gaem figcaption{background:#000; background:rgba(0,0,0,.15); margin:-.25em auto 3em; padding:.5em;} #rip{margin:1em 0;}
 footer{padding:1em 0; background:#2f2722; color:#928277;} #back:hover,#back:focus,#back:active{opacity:.5;} footer p{font-size:12px; margin-top:.5em;}
-/*420 stealIt*/ #steal{padding:0 1em;} #steal h2 a{text-decoration:none;} #steal p{margin:.5em 0;} #steal small{color:#a59489; font-size:.85em;} #steal p:last-child{margin-top:1em;} textarea{background:#2f2722; color:#a59489; border:.01em solid; padding:.5em .75em; width:100%; max-width:100%;} textarea::selection{background:#33e0ff; color:#2f2722;} textarea:focus,textarea:active{outline:.15em solid #33e0ff;} @media only screen and (min-width:600px){#cols{overflow:auto; margin:-1em 0 -.5em;} .col{float:left; width:50%; padding:.5em;}}"
+/*420 stealIt*/ #steal{padding:0 1em;} #steal h2 a{text-decoration:none;} #steal p{margin:.5em 0;} #steal small{color:#a59489; font-size:.85em;} #steal p:last-child{margin-top:1em;} textarea{background:#2f2722; color:#a59489; border:.01em solid; padding:.5em .75em; width:100%; max-width:100%;} textarea::selection{background:#33e0ff; color:#2f2722;} textarea:focus,textarea:active{outline:.15em solid #33e0ff;} @media only screen and (min-width:600px){#cols{overflow:auto; margin:-1em 0 -.5em;} .col{float:left; width:50%; padding:.5em;}}
+/*addendums tweaks idk this code is a mess*/ ul{list-style-type:none;} li{margin:.25em 0;}"
 
 game1:
   - l: a
@@ -112,6 +113,8 @@ game1:
       > <span class="x">[Headspace-]</span><span class="whomst omo">Aubrey</span>'s corpse rots peacefully.
       
       <em class="up">why is there flavor text for rotting corpses i ASDFGHJKL</em>
+      
+      <small class="img-desc">[Skeletons are chained to the wall in triads. One wears a bow.]</small> "omori why"
       
       <small class="img-desc">[Omori simply looks on, thinking,]</small> <i>ah, so peaceful.</i>
   - l: m
@@ -274,9 +277,7 @@ game2:
       > <span class="whomst omo">Basil</span> just wants it to end already...  
       > <span class="whomst omo">Basil</span> starts sobbing uncontrollably.  
       > <span class="whomst omo">Basil</span> has a blank expression and seems unresponsive to what's going on...  
-      > <span class="whomst omo">Basil</span> starts sobbing uncontrollably. 
-      
-      (again, yes.)
+      > <span class="whomst omo">Basil</span> starts sobbing uncontrollably. <span style="'comic sans ms',sans-serif;">(again, yes.)</span>
       
       <span class="up">To Be Contineu<span>
   - l: j
@@ -326,7 +327,7 @@ game2:
 <div id="all" markdown="1"><header markdown="1">
 # ~~hunger~~ murder gaem
 
-shenanigans brought to you by [the murder game simulator](http://orteil.dashnet.org/murdergames/) and some slapdash scribbles. this is mostly just a separate page for transcription's sake ~~and because I had no idea how to lay these out on a canvas~~
+shenanigans brought to you by [the murder game simulator](http://orteil.dashnet.org/murdergames/) and some slapdash scribbles. this is mostly just a separate page for transcription's sake (toggled via click) ~~and because I had no idea how to lay these out on a canvas~~
 
 <!--[link back to roundup goes here; update the footer too!!]-->
 </header>
@@ -354,12 +355,12 @@ shenanigans brought to you by [the murder game simulator](http://orteil.dashnet.
 <textarea readonly>{"teams":[{"name":"NOTEAM"},{"name":"zzz"},{"name":"REAL SHIT"}],"chars":[{"name":"OMORI","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/omri.jpg","team":"zzz","perks":["leader","survivalist","pitchfork"]},{"name":"AUBREY","g":1,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/baubey.jpg","team":"zzz","perks":["cute","bulky","big stick"]},{"name":"KEL","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/kil.jpg","team":"zzz","perks":["scrappy","annoying","slingshot"]},{"name":"HERO","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/dreamhero.jpg","team":"zzz","perks":["peaceful","seductive","ancient scepter"]},{"name":"MARI","g":1,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/mri.jpg","team":"zzz","perks":["kind","devious","rocket launcher"]},{"name":"BASIL","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/bagel.jpg","team":"zzz","perks":["naive","unstable","wish ring"]},{"name":"SOMETHING","g":2,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/smthn.jpg","team":"zzz","perks":[]},{"name":"STRANGER","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/strnager.jpg","team":"zzz","perks":["survivalist"]},{"name":"Sunny","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/snuuy.jpg","team":"REAL SHIT","perks":["unstable","big stick"]},{"name":"Kel","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/keel.jpg","team":"REAL SHIT","perks":["naive","pet wolf"]},{"name":"Hero","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/hero.jpg","team":"REAL SHIT","perks":["kind","pitchfork"]},{"name":"Aubrey","g":1,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/aubey.jpg","team":"REAL SHIT","perks":["survivalist","axe"]},{"name":"Mari(’s spirit)","g":1,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/helmarireal.jpg","team":"REAL SHIT","perks":[]},{"name":"Basil","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/babel.jpg","team":"REAL SHIT","perks":["suicidal","sword"]},{"name":"a sad, lonely picnic basket","g":2,"t":1,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/basketcase.jpg","team":"REAL SHIT","perks":["sociopath","devious","grenade"]},{"name":"Basil, with a gun","g":0,"t":0,"pic":"https://a-flyleaf.github.io/omori/assets/img/art/murder/sansil.jpg","team":"REAL SHIT","perks":["unstable","lunatic","shotgun"]}]}</textarea>
 </div><div class="col">
 <p>without</p>
-<textarea readonly><textarea readonly>{"teams":[{"name":"NOTEAM"},{"name":"zzz"},{"name":"REAL SHIT"}],"chars":[{"name":"OMORI","g":0,"t":0,"pic":"","team":"zzz","perks":["leader","survivalist","pitchfork"]},{"name":"AUBREY","g":1,"t":0,"pic":"","team":"zzz","perks":["cute","bulky","big stick"]},{"name":"KEL","g":0,"t":0,"pic":"","team":"zzz","perks":["scrappy","annoying","slingshot"]},{"name":"HERO","g":0,"t":0,"pic":"","team":"zzz","perks":["peaceful","seductive","ancient scepter"]},{"name":"MARI","g":1,"t":0,"pic":"","team":"zzz","perks":["kind","devious","rocket launcher"]},{"name":"BASIL","g":0,"t":0,"pic":"","team":"zzz","perks":["naive","unstable","wish ring"]},{"name":"SOMETHING","g":2,"t":0,"pic":"","team":"zzz","perks":[]},{"name":"STRANGER","g":0,"t":0,"pic":"","team":"zzz","perks":["survivalist"]},{"name":"Sunny","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["unstable","big stick"]},{"name":"Kel","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["naive","pet wolf"]},{"name":"Hero","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["kind","pitchfork"]},{"name":"Aubrey","g":1,"t":0,"pic":"","team":"REAL SHIT","perks":["survivalist","axe"]},{"name":"Mari(’s spirit)","g":1,"t":0,"pic":"","team":"REAL SHIT","perks":[]},{"name":"Basil","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["suicidal","sword"]},{"name":"a sad, lonely picnic basket","g":2,"t":1,"pic":"","team":"REAL SHIT","perks":["sociopath","devious","grenade"]},{"name":"Basil, with a gun","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["unstable","lunatic","shotgun"]}]}</textarea></textarea>
+<textarea readonly>{"teams":[{"name":"NOTEAM"},{"name":"zzz"},{"name":"REAL SHIT"}],"chars":[{"name":"OMORI","g":0,"t":0,"pic":"","team":"zzz","perks":["leader","survivalist","pitchfork"]},{"name":"AUBREY","g":1,"t":0,"pic":"","team":"zzz","perks":["cute","bulky","big stick"]},{"name":"KEL","g":0,"t":0,"pic":"","team":"zzz","perks":["scrappy","annoying","slingshot"]},{"name":"HERO","g":0,"t":0,"pic":"","team":"zzz","perks":["peaceful","seductive","ancient scepter"]},{"name":"MARI","g":1,"t":0,"pic":"","team":"zzz","perks":["kind","devious","rocket launcher"]},{"name":"BASIL","g":0,"t":0,"pic":"","team":"zzz","perks":["naive","unstable","wish ring"]},{"name":"SOMETHING","g":2,"t":0,"pic":"","team":"zzz","perks":[]},{"name":"STRANGER","g":0,"t":0,"pic":"","team":"zzz","perks":["survivalist"]},{"name":"Sunny","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["unstable","big stick"]},{"name":"Kel","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["naive","pet wolf"]},{"name":"Hero","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["kind","pitchfork"]},{"name":"Aubrey","g":1,"t":0,"pic":"","team":"REAL SHIT","perks":["survivalist","axe"]},{"name":"Mari(’s spirit)","g":1,"t":0,"pic":"","team":"REAL SHIT","perks":[]},{"name":"Basil","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["suicidal","sword"]},{"name":"a sad, lonely picnic basket","g":2,"t":1,"pic":"","team":"REAL SHIT","perks":["sociopath","devious","grenade"]},{"name":"Basil, with a gun","g":0,"t":0,"pic":"","team":"REAL SHIT","perks":["unstable","lunatic","shotgun"]}]}</textarea></textarea>
 </div></div>
 
 <small>(you can edit the team attributes, name, pictures, etc. after import!)</small>
 
 knock yourself out; feel free to [lmk if something funny happens](https://a-flyleaf.github.io/omori/about#contact)~
 </section></main>
-<footer><a href="{%include url.html%}" id="back"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a>
+<footer><a href="{%include url.html%}/art/roundup-2023-05" id="back"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a>
 <p><span class="omo">Omori © Omocat, LLC.</span></p></footer></div>

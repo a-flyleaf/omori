@@ -3,7 +3,7 @@ layout: hr
 title: yaoi.
 back: kuci
 
-css: "#tense figcaption{text-transform:uppercase;} #yaoi{background:#696c71; color:#fff;} #yaoi h2{color:#bfbfbf;} #yaoi .note img{display:block;} #yaoi a{text-decoration-color:#9c9ea2;} #yaoi ::selection{background:#494c51;} #yaoi del{color:inherit;} #thanks-doc hr{display:none;} #alas{margin-bottom:-.5em;} /*temp*/ small{font-size:.85em;}"
+css: "#tense figcaption{text-transform:uppercase;} #yaoi{background:#696c71; color:#fff;} #yaoi h2{color:#bfbfbf;} #yaoi .note img{display:block;} #yaoi a{text-decoration-color:#9c9ea2;} #yaoi ::selection{background:#494c51;} #yaoi del{color:inherit;} #thanks-doc hr{display:none;} #alas{margin-bottom:-.5em;} /*temp*/ small{font-size:.85em;} article:last-of-type{margin-top:7em;}"
 
 h1: "yaoi."
 htxt: >-
@@ -16,13 +16,13 @@ scribs:
     imgs:
     - alt: Back in Basil’s special hell, Stranger-Aubrey points at three variations of a sentence on a chalkboard. (Faintly in the background, a drawing of him and Sunny has been erased.) Basil is distressed.
       tr-hr: |-
-        <span lang="hr">Soba Crnog Prostora: <s class="ne">Škola Aubrey 2</s></span> <span lang="en">tension. geddit---</span>
+        <span lang="hr">Soba Crnog Prostora: <s class="ne">Škola Aubrey 2</s></span>
         
         - <span lang="hr">perfekt: *nije* razumio</span>
         - <span lang="hr">prezent: *ne* razumije</span>
         - <span lang="hr">futur 1: *neće* razumjeti</span>
       tr-en: |-
-        Room of Black Space: <s class="ne">Aubrey School 2</s> tension. geddit---
+        Room of Black Space: <s class="ne">Aubrey School 2</s>
         
         - [~]past tense: [he] *didn't* understand
         - [~]present tense: [he] *doesn't* understand
