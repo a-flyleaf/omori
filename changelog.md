@@ -121,6 +121,8 @@ log:
         - finished <a href="hrvatski/yaoi">yaoi.</a> (+<a href="art/hr-yaoi">standalone art version</a>)
         - converted older pages to new layout
       - <a href="murdergaem">murder game nonsense</a>
+  - dt: 2023-06-08
+    line: <a href="art/roundup-2023-05">May art roundup</a> is a thing.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
