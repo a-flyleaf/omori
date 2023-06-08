@@ -1,6 +1,8 @@
 ---
 layout: none
 ---
+<style>del{color:#bfbfbf;}</style>
+
 # TBA
 o heck you found my note-to-self "things to be added eventually" page. nice
 
@@ -42,15 +44,14 @@ linked on the index via ~~mini door, draw a new one~~ oh what if it's a key actu
 	- +absolutely blursed comment for the filerip page: “[x] is that one picture of everyone’s (least?) favorite donut, in case you wanted Sweetheart’s hole in high definition for whatever reason.”  
 	thought of THAT out of nowhere and i hate it, i Must inflict it upon the world
 - achievement checklist, noting which route (both, true, hikikomori) & simplest how-to (story checkpoint, do xyz)
-	- version for me, as of first playthrough
-	- for ease of copying, two versions in a textarea: one with markdown formatting (checklist via ``[ ]``, ``###`` h3 headers) and one that's basically identical but not markdown-specific
+	- ~~version for me, as of first playthrough~~
+	- ~~for ease of copying, two versions in a textarea: one with markdown formatting (checklist via ``[ ]``, ``###`` h3 headers) and one that's basically identical but not markdown-specific~~
+	- **[WIP](achievements)**, but keeping this here until it's actually done
 - CDs!! they're not in the official OST. could be extended to other not-OST track videos, like slowed versions in Black Space 2?
 	- bonus points for an HTML table that kinda mirrors the Black Space refthing, aligned right and everything
 	- the LP has some of these non-OST tracks, or at least the Black Space clock one and *presumably* others
 - what's a 90s-style indie site without random one-off pages. like, you type in "[url]/kel" and get a SLAM DUNK gif or something.
 	- ~~omori~~, sunny?, kel, hero, aubrey, basil, ~~mari~~, something
-- ``/headspace-faraway``. Just a standalone doodle for now.
-	- or maybe I'll end up smushing this together with the OTHER au idea lol help
 
 ### /doors (and art thing)
 linked somewhere, but nowhere specific
@@ -62,6 +63,7 @@ linked somewhere, but nowhere specific
 - [Mari.]({%include url.html%}/mari)
 - [piano~]({%include url.html%}/piano)
 - [Omori (Omori)]({%include url.html%}/omori)
+- [achievements]({%include url.html%}/achievements)
 
 ----
 
