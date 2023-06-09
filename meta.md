@@ -11,7 +11,7 @@ css: ".gif:hover,.gif:focus,.gif:active{background-image:url(assets/img/rcy_160.
 &gt;makes site primarily to house this stuff  
 &gt;doesn't save any diddly darn place on the homepage to actually, like, Spotlight It
 
-Currently reviewing my initial playthrough and compiling thoughts & observations noted throughout.
+Started by reviewing my initial playthrough and compiling thoughts & observations noted throughout.
 
 - <b>[An introduction of some sort.]({%include url.html%}/meta/intropost)</b>  
 The who (bit about me), the how (approach to the game & meta in general), the why (why tho).
@@ -21,12 +21,7 @@ Early impressions.
 Musings on violence, rabid sprouts, Hero as a concept, and other stuff.
 - <b>[intermission snippets]({%include url.html%}/meta/intermission)</b>  
 Things that didn't fit at the end of last post.
+- <b>[[untitled dumpage]]({%include url.html%}/meta/voicemail)</b>  
+Unfinished continuation.
 
-----
-
-Also, for my own reference/ease of later linking:
-## Things That Will Come Up Later
-- [playground]({%include url.html%}/meta/playground): Kim, speculating on characters named after people; Headspace linearity & the Last Resort
-- [not-playground]({%include url.html%}/meta/not-playground): Headspace characterizations via Sunny (hi Aubrey, hi Basil/Stranger)
-- ??: "Something👁️‍🗨️ represents abuse."
-- ??: duality motif? although this'll be long-running
+The rest will be, uh, less comprehensive. I think. Or at least less perfectionistically-written.... >\_>\"

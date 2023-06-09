@@ -15,7 +15,7 @@ o heck you found my note-to-self "things to be added eventually" page. nice
 - uhh. specific favicons maybe? don't have to go the full 9 yards with the generator but just for particular pages (thinking an inverted one for black-space, mari+omori; flag stripes on hrvatski; murdergaem would be funny as fuck with dot-eyed sunny from the stranger one)
 
 ## meta overhaul
-[3/24] ok uh. thinking about the omori meta thing and: fuck it, leave the series as-is, but just,, Move On. publish the draft more or less as it exists, with an addendum noting its intentional incompletion, and then a postscript simply titled “um.” and up top is a doodle of aubrey with too many fucking phones. hold on actually lemme type a draft—
+[3/24] ok uh. thinking about the omori meta thing and: fuck it, leave the series as-is, but just,, Move On. ~~publish the draft more or less as it exists, with an addendum noting its intentional incompletion,~~ and then a postscript simply titled “um.” and up top is a doodle of aubrey with too many fucking phones. hold on actually lemme type a draft—
 
 <div markdown="1" style="border:1px solid #bfbfbf; padding:0 1em;">
 I have reached a bit of an impasse.
@@ -24,9 +24,9 @@ So like, this big liveblog-liveblog was kind of originally the entire reason I w
 
 Or like. I *do*. I have So Mnay Fuckign Thoughts, a lot of the big ideas were developed throughout the playthrough and I don’t *not* enjoy revisiting it all. But it’s also, just… A Lot Of Recycling. It is extremely possible to skim moar and condense entire days into bullet points, but then I feel like I’m doing neither observations nor the game itself *justice*; the perfect is the enemy of the good and all, but my “summaries” almost always turn into extended rambles anyway.
 
-Also, like, the time I spend writing Meta Novels could also be spent… experiencing the rest of the game (hi, Hikikomori!). making Newer (still-OMORI-related) Things, like this one angsty-ass AU that I keep chewing on where Basil and Sunny die and Kel and Aubrey have to deal with that and it goes about as well (awful as all fuck) as anyone might expect but *it’s not a suicide domino like every other YouTube comment is convinced it would be dammit* (but it’s still going to suck a lot of shit for a very long time). Or this other, still-fucked-up-but-less-overtly-angsty AU where, after a certain other ending, Headspace still exists but is… *different*, and I swear I *need* firsthand Hikikomori knowledge to develop it properly because it has the deeply-buried shit surfacing nearly from the getgo and it’s all experimental and wack and at *some point* there’s the line “You loved them and you left them.” (Guess the ending that fucks me up most!!)
+Also, like, the time I spend writing Meta Novels could also be spent… experiencing the rest of the game (hi, Hikikomori!). making Newer (still-OMORI-related) Things~~, like this one angsty-ass AU that I keep chewing on where Basil and Sunny die and Kel and Aubrey have to deal with that and it goes about as well (awful as all fuck) as anyone might expect but *it’s not a suicide domino like every other YouTube comment is convinced it would be dammit* (but it’s still going to suck a lot of shit for a very long time). Or this other, still-fucked-up-but-less-overtly-angsty AU where, after a certain other ending, Headspace still exists but is… *different*, and I swear I *need* firsthand Hikikomori knowledge to develop it properly because it has the deeply-buried shit surfacing nearly from the getgo and it’s all experimental and wack and at *some point* there’s the line “You loved them and you left them.” (Guess the ending that fucks me up most!!)~~
 
-Wow, I swear I write more than buckets of angst. I want them to be happy but I also need to dunk them in giant fucking angst buckets first okay?? okay. ah fuck it this isn’t a draft I’m just rambling HERE’S THE POINTS THO:
+~~Wow, I swear I write more than buckets of angst. I want them to be happy but I also need to dunk them in giant fucking angst buckets first okay?? okay.~~ ah fuck it this isn’t a draft I’m just rambling HERE’S THE POINTS THO:
 - still Want to compile thoughts but this Properly-Written Blog Post thing is overwhelming me already
 - pile of thoughts also increases exponentially forever
 - in the mean time I could actually be playing the rest of the game, and/or making new stuff, instead of Recycling Forever
@@ -36,6 +36,7 @@ Wow, I swear I write more than buckets of angst. I want them to be happy but I a
 - also I read a book where the author kept fucking saying “we’ll get to this later” and it drove me nuts, idk why I thought it was a good idea to write in so haphazardly
 - +feel free to tease the AU shit too why not. it ain’t the Focus but they sure are recurring thoughts I may or may not ever do anything with someday
 </div>
+6/8: yeah nah that's outdated now too lmao, and not really necessary either, BUT the bullet points sum it up nicely. they can more or less get published as-is maybe
 
 ## other pages
 linked on the index via ~~mini door, draw a new one~~ oh what if it's a key actually

@@ -49,7 +49,7 @@ From [February]({%include url.html%}/art/roundup-2023-03-02). See, the ribbon is
 
 We like character design in this house.\* Speaking of which...
 
-## Theory-Thought the Second: Does Hero is Sunny
+<h2 id="hero">Theory-Thought the Second: Does Hero is Sunny</h2>
 We are going to continue borking the chronology, because up to and including the end of Basil's house, most of my notes were pretty slapdash and I don't have much to expand on. (Also, my initial draft of this post *did* keep it all in order, and on a fresh-eyed reread the pacing was awkward and meh. *Sledgehammer edits ahoy.*) Instead, here's an idea that got introduced around this point:
 
 <blockquote class="dc" markdown="1">
