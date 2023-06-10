@@ -127,6 +127,8 @@ log:
       - art: <a href="art/roundup-2023-05">May roundup</a>
       - page draft: <a href="achievements">achievements</a>
       - meta: <a href="meta/voicemail">voicemail</a>
+  - dt: 2023-06-10
+    line: <a href="meta/impasse">Meta coda.</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
