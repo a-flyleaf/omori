@@ -128,7 +128,10 @@ log:
       - page draft: <a href="achievements">achievements</a>
       - meta: <a href="meta/voicemail">voicemail</a>
   - dt: 2023-06-10
-    line: <a href="meta/impasse">Meta coda.</a>
+    line: Did some meta stuff.
+    done: |-
+      - <a href="meta/impasse">coda.</a>
+      - started a Discord notedump page that will never be 100% complete
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

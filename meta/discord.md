@@ -5,14 +5,16 @@ css: "body{background:#1E1F22; color:#949BA4; font-family:sans-serif; line-heigh
 
 header,.note{color:#B5BAC1;}
 h1{color:#fff;} header span{display:inline-block;} header strong{color:#DADCE0;}
+footer{max-width:27em;}
 
 h2{font-weight:normal; font-size:.75em; padding-left:.75em;}
 
 .msg{border:0; margin:0; padding:.75em; background:#313338; font-family:verdana,sans-serif; font-size:.85em; line-height:1.65; color:#e0e1e5; border-radius:.25em; margin:.25em 0;}
 .msg p:last-child{margin-bottom:0;} .msg p:first-of-type{margin-top:0;}
-.noi{font-style:normal;}
-.msg blockquote{border-color:#4E5058; margin:-.5em 0;} .bq{padding-bottom:1.25em;}
+.noi{font-style:normal;} .nob{font-weight:normal;}
+.msg blockquote{border-color:#4E5058; margin:-.5em 0;} .bq{padding-bottom:1.25em;} 
 .eta{font-family:sans-serif;}
+.noli ul{list-style-type:none; margin:-1em 0;} .noli li:before{content:'- ';} .ul{padding-bottom:1.75em;}
 
 .note{margin-bottom:1.5em; font-size:.85em; padding:0 .65em;}
 .note p{margin:.5em 0;} .note blockquote{margin:-.25em 0;}"
@@ -20,9 +22,10 @@ h2{font-weight:normal; font-size:.75em; padding-left:.75em;}
 msg:
   - added: 2023-06-10
     time: 2023-01-28 02:01
+    cl: noli ul
     msg: |-
       thinkin about the lake scene again.  
-      \- <em class="omo">Did Basil leave the Egret flower tho.</em>!!! there’s one in <em class="omo noi">his</em> house, very prominently, and one by the picnic basket! and another at the grave; who knows if he’s visited, not me (yet)!! fuck?!!! (Aubrey wouldn’t have left it surely, not if she hasn’t told the Hooligans anything….)
+      - <em class="omo">Did Basil leave the Egret flower tho.</em>!!! there’s one in <em class="omo noi">his</em> house, very prominently, and one by the picnic basket! and another at the grave; who knows if he’s visited, not me (yet)!! fuck?!!! (Aubrey wouldn’t have left it surely, not if she hasn’t told the Hooligans anything….)
     note: |-
       In retrospect I think this is one of those details that doesn't need a diegetic explanation. Also, the name "Hooligans" is only used in the battle overlay, never by any of the characters, so at this point I tend to think that's just Sunny's insert.
   - time: 2023-01-28 09:32
@@ -84,6 +87,49 @@ msg:
       The hospital comes up again somewhere else (will be linked when I get to it), but while we're here: I'm really, *really* not sure how literally to take the hospital scenes. Regardless, we get one&nbsp;(1) glimpse into his room and it's a *very* significant cutscene; flowers would be distracting.
       
       Still though. F.
+  - time: 2023-02-12 15:43
+    msg: |-
+      [<span class="eta">[video: "Earthbound and Inspiration - Nitro Rad"]</span>](https://piped.video/watch?v=E7Pj2RNGsU4) watching this (rewatching? but it's been years i have Zero memory) and VERY interesting commentary--kids navigating the world like adults, the adult world through the naive eyes of children, and maybe it's because the adults are stuck in their own childish fantasies  
+      eta (at around midway) <em class="omo noi">oh it was inspired by Peanuts! yeah that'd explain a lot</em>  
+      eta2: *ohhhhh wait. Wait.* ok it's not 100% because just look at pokemon but like, the style of peanuts influencing sprites? hello???
+      
+      yume nikki segment at 7:59 sounds a *lot* like the black space ambiance  
+      --actually if I noted *every* similarity it'd be too much. wow, <span class="eta">[Weeb]</span> was Not kidding about the inspiration @_@
+  - time-il: 2023-02-12 15:58
+    msg: |-
+      whoops going down a little wiki linkhole and <em class="omo noi">aughhhh</em>. [<span class="eta">[video: "Yume Nikki (OST ) - Snow World"]</span>](https://piped.video/watch?v=stmKF_1BB1I) <em class="omo noi">it's Spaces In-Between!!!</em>
+      
+      [<span class="eta">[video: "Yume Nikki - Melting Madotsuki"]</span>](https://piped.video/watch?v=REHpRL2lBzQ) *the bedroom ambiance too!!!!!!!* GDI i'm gonna have to binge the yume nikki soundtrack at some point  
+      . . . *the long stairs tho im fuckign*  
+      **im fucking** <https://yumenikki.fandom.com/wiki/Falling_Men>
+  - time-il: 2023-02-12 16:21
+    msg: |-
+      <https://yumenikki.fandom.com/wiki/Indigenous_Imagery>
+      > One of the most well known aspects of Aztec culture is their religious sacrifices.
+      
+      \* i am going to flip an <em class="omo noi">entire</em> shit*
+  - time-il: 2023-02-12 16:24:00
+    msg: |-
+      there's one black space track (calm? in town) that sounds like this but slowed <https://yumenikki.fandom.com/wiki/Hell>
+  - time-il: 2023-02-12 16:24:01
+    cl: noli ul
+    msg: |-
+      [<span class="eta">[video: "Yume Nikki - Nitro Rad"]</span>](https://piped.video/watch?v=us7ax1lvKXw) <em class="omo noi">the head shake!! when interacting with the door!!!!!!!
+      - i was So Right about the balcony, it even <em class="omo noi">sounds</em> like it
+      - ...y'know, the headless effect is a thing, matsoduki(?) has pigtails. is that it?? is that just a fuckign (well it's never <em class="omo noi">just</em> but) yume nikki reference???? wasn't someone (either <span class="eta">[weeb]</span> or secondhand via him or some other comment) saying omori is like, yume nikki but with story, I Feel That
+    note: |-
+      re:balcony, the [Construction in the Lake](https://omori.fandom.com/wiki/TREEHOUSE_AREA) Black&nbsp;Space area reminded me of <i>Yume Nikki</i> on sight.
+  - time: 2023-02-12 17:00
+    msg: |-
+      [<span class="eta">[video: "This <span class="omo">Omori</span> Music Tier List will upset you (Part 1/3)"]</span>](https://piped.video/watch?v=t6458t0zN5Q) *the medication theme is related to the pharmacy and hospital, **escapism is medicine*** i hate this entire gam
+    note: |-
+      This has nothing to do with meta but the video also suggests that getting fucked up by "It Means Everything." is a nigh-universal experience. *Big mood.*
+  - time-il: 2023-02-12 23:54
+    msg: |-
+      <em class="omo noi">oh unrelatedly</em> just realized. aubrey re:hooligans calls them “new friends” (to hero, asking if they can be invited to future hangouts, at the basil ‘sleepover’ bit). <em style="omo noi">granted</em> this could just mean like, new Compared To You Guys, it doesn’t stick out *that* much, but -jots thought down anyway-
+    note: |-
+      Yeah, might be poking at this one too much... As of writing the most I've been able to gauge of The History here is that  
+      ---actually fun fact I got sidetracked Right There. I'm gonna leave it as-is tbh because like that's it, that's All i got
 ---
 <header markdown="1">
 # [<i class="omo">Omori</i> meta]({%include url.html%}/meta): Discord notedump simulator
@@ -92,13 +138,24 @@ One must imagine Sisyphus organized and caught up.
 <span>Pardon the yelling and swearing and general lack of polish. Or don't, it's authentic as it gets.</span> <span>**This page isn't meant to be read start to finish**; it primarily exists for my own reference.</span>
 </header>
 <main>
-{%for msg in page.msg%}{%if msg.added%}<h2>added {{msg.added|date:"%B %d"}}</h2>{%endif%}<blockquote class="msg{%if msg.cl%} {{msg.cl}}{%endif%}">{%unless msg.time-il%}<div class="time">{{msg.time|date:"%m/%d"}}</div>{%endunless%}{{msg.msg|markdownify}}</blockquote>{%if msg.note%}<div class="note">{{msg.note|markdownify}}</div>{%endif%}{%endfor%}
+{%for msg in page.msg%}{%if msg.added%}<h2>added {{msg.added|date:"%B %d"}}</h2>{%endif%}<blockquote class="msg{%if msg.cl%} {{msg.cl}}{%endif%}"{%if msg.id%} id="{{msg.id}}"{%endif%}>{%unless msg.time-il%}<div class="time">{{msg.time|date:"%m/%d"}}</div>{%endunless%}{{msg.msg|markdownify}}</blockquote>{%if msg.note%}<div class="note">{{msg.note|markdownify}}</div>{%endif%}{%endfor%}
 </main>
+
 <!--
+
+  - added: 2023-MM-DD
 
   - time: 2023-MM-DD HH:MM
     msg: |-
       ??
     note: |-
       ??
+
+    id: 
+
+the spacing is a billion times faster if you just paste from discord and *then* the indents
+<em class="omo">
+<em class="omo noi">
+<span class="eta">[]</span>
+[<span class="eta">[video: "TITLE"]</span>](https://piped.video/watch?v=LINK)
 -->
