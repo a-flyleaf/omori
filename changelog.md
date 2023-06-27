@@ -53,24 +53,17 @@ log:
   - dt: 2023-03-02
     line: Did some stuff.
     done: |-
-      - misc: assorted minor fixes
-      - misc: image folder shuffling
+      - backend image folder shuffling
       - new page: [Heardle](heardle)
       - words: meta <a href="meta">index</a>, <a href="meta/intropost">intropost</a>, <a href="meta/playground">playground</a>, <a href="meta/not-playground">not-playground</a>
   - dt: 2023-03-03
-    line: Revised yesterday’s meta.
-    done: |-
-      - words: essentially rewrote the "<a href="meta/not-playground">not-playground</a>" post from the ground up
+    line: Revised (effectively rewrote) <a href="meta/not-playground">a post from yesterday</a>.
   - dt: 2023-03-04
-    line: Fixed things, added things.
-    done: |-
-      - words: <a href="meta/intermission">meta intermission</a>
+    line: Wrote <a href="meta/intermission">meta intermission</a>.
   - dt: 2023-03-05
     line: Wrote more meta (incomplete).
   - dt: 2023-03-07
     line: <a href="art/smad">Drew a thing</a>.
-  - dt: 2023-03-16
-    line: Fixed assorted things.
   - dt: 2023-03-30
     line: <a href="hrvatski/index-v0" lang="hr"><i>Jezik je pojam!</i></a>
   - dt: 2023-04-01
@@ -93,7 +86,6 @@ log:
     line: "Did assorted things:"
     done: |-
       - page draft: <a href="piano">piano</a>
-      - misc: assorted fixes
       - <a href="omori">Omori (Omori)</a>
   - dt: 2023-04-25
     line: Updated the piano thing.
@@ -122,7 +114,7 @@ log:
         - converted older pages to new layout
       - <a href="murdergaem">murder game nonsense</a>
   - dt: 2023-06-08
-    line: Fixed stuff, working on stuff.
+    line: Working on stuff.
     done: |-
       - art: <a href="art/roundup-2023-05">May roundup</a>
       - page draft: <a href="achievements">achievements</a>
@@ -132,6 +124,11 @@ log:
     done: |-
       - <a href="meta/impasse">coda.</a>
       - started a Discord notedump page that will never be 100% complete
+  - dt: 2023-06-27
+    line: Things continue to be concepts.
+    done: |-
+      - removed "fix" notes from this page
+      - art: <a href="art/august-water">August/Water</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
