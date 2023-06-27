@@ -29,8 +29,9 @@ In the interest of (hopefully) not having to do more sledgehammer edits, I'm gon
 
 ----
 
-[[img: "Cardboard boxes are littered across the house."]](https://cdn.discordapp.com/attachments/483318565022203904/1063282357982994522/image.png)  
-"Hmm, recently moved in? "Littered" is certainly a word choice"  
+> [[img: "Cardboard boxes are littered across the house."]](https://cdn.discordapp.com/attachments/483318565022203904/1063282357982994522/image.png)  
+> Hmm, recently moved in? "Littered" is certainly a word choice
+
 ...Son of a bitch, I just realized this is probably related to the ongoing trash/recycling motif. There's some [good meta on tumblr](https://lastvalyrian.tumblr.com/post/656958916051238912/im-sorry-you-got-another-stupid-trauma-blaming) about Sunny's recycling "obsession," although the trash half of that is worth closer inspection; we *do* have a whole-ass Junkyard map, and then the flavor text above is a thing long before any of that. No conclusions, only observations.
 
 ----
@@ -39,7 +40,7 @@ This game legitimately had me afraid to check the voicemail, have I mentioned th
 > One more thing before I unleash a fresh round of hell: this is... approximately where the light bulb is in the white room, I think? And instead of investigating the fan (a light) you're looking at Mom's sticky note, huh  
 [[img: Mom's sticky note: "I left some food in the fridge for you downstairs. It's steak... your favorite!"]](https://cdn.discordapp.com/attachments/483318565022203904/1063282593900019742/image.png)  
 laptop is roughly where the voicemail is, plant is the tissues, cat is chores  
-<i>[Weeb] I'm not ready</i>
+<i>[Weeb,] I'm not ready</i>
 
 ^Fear aside, parallel room setups are something I stopped paying close attention to somewhere along the line (the Faraway houses are pretty cookie-cutter), but it'll be worth another look in -checks smudged writing on mental calendar- five-thousand years when I finally play the true route again. I totally forgot about this note.
 

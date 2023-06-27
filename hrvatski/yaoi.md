@@ -37,7 +37,7 @@ scribs:
     - alt: “Hey, Sunny—” Aubrey approaches Sunny and says something nice in Croatian. He doesn’t get it, to her annoyance. She yells to Basil, who’s been watching from a distance; “Ugh, sorry about this, Sunny; forget I said anyth—” Basil, in a panic, yells “W-wait—No no no no ne [no]—!!!”
       img: "/a"
       tr-hr: |-
-        "<span lang="hr">On još nije get it."
+        "<span lang="hr">On još nije <span lang="en">get it</span>.</span>"
         
         <span class="omo">Aubrey</span>: <q lang="hr">Stalo mi... Jako mi je stalo do tebe..\.. Nadam se da si dobro, i...</q>  
         <span class="omo">Aubrey</span>: <q lang="hr">...drago mi je da smo prijatelji.</q>
@@ -67,7 +67,7 @@ scribs:
         
         (<span class="omo">Aubrey</span>: <q><em style="text-transform:uppercase;">I taught you everything you know—</em></q>)  
         (<span class="omo">Aubrey</span>: <q><em style="text-transform:uppercase;">I give up.</em></q>)  
-        <span class="omo">Basil</span>: <q lang="hr">[...]I want you to know...</q>
+        <span class="omo">Basil</span>: <q>[...]I want you to know...</q>
     - alt: "Basil clasps Sunny’s hands in both of his. He speaks in Croatian with yaoi flourish, sidemouth and flowing petals and kneeling and all. / Sunny stares blankly as ever. (Artist’s note in the corner: “this is Hte Best Thign i have Ever drawn, if oyu disagree then Ufck Yuo. [in strikethrough] it’s past 1AM”)"
       img: "/c"
       tr-hr: |-
@@ -99,9 +99,9 @@ scribs:
         <span class="omo">Basil</span>: <q>Very, *very* much, I care about you...</q>
         
         ([Aubrey] <em style="text-transform:uppercase;font-style:normal;">is not</em> affiliated with these people)  
-        <span class="omo">Basil</span>: <q lang="hr">[...]and...</q>
+        <span class="omo">Basil</span>: <q>[...]and...</q>
         
-        <span class="omo">Basil</span>: <q lang="hr">I want us to be... *very*... close friends..\..</q>
+        <span class="omo">Basil</span>: <q>I want us to be... *very*... close friends..\..</q>
       fn: |-
         <q lang="hr">Prilično</q> [*seems* to be](https://www.easy-croatian.com/2014/11/56.html) stronger than <q lang="jako">jako</q>..\.. Besides that, Basil's line has been left wonky on purpose again (<q lang="hr">želim ~~smo biti~~ **da budemo** vrlo bliski prijatelji</q>), because grammatical tense.
     - alt: "Sunny thought bubble: 1. Aubrey said one thing; question mark. 2. Basil said another; heart. 3. Both dialogues had “mi je stalo do tebe” and “prijatelji.” 4. Therefore, question mark = heart? approximately…? / 5. Therefore, Aubrey said [heart]??!!!! Fireworks go off in Sunny’s head. Ode_to_Joy.sproutmole! Aubrey picking him up bridal-style! Aubrey and him holding hands [how scandalous, redacted]! [Something /fully/ redacted]…! / Speech bubble from offscreen: “Hey. Earth to Sunny?”"

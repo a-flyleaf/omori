@@ -63,7 +63,7 @@ scribs:
       
       ----
       
-      \*This whole saga (of <span lang="hr">Škrabotine</span> (Scribbles) in general, not just this one) is a time capsule of what I did/n't know at the time tbh. Like, as of writing (May&nbsp;1) I can independently spot some issues in the older doodles---<q lang="hr">što **li** [behind door],</q> unnecessary/redundant pronouns, case and tense shenanigans..\.. Also, although I'm not keeping track, a *majority* of these Škrabotine have been edited between initial drawing and the upload that goes live.
+      \*This whole saga (of <span lang="hr">Škrabotine</span> (Scribbles) in general, not just this one) is a time capsule of what I did/n't know at the time tbh. Like, as of writing (May&nbsp;1) I can independently spot some issues in the older doodles---<q lang="hr">što **li** <span lang="en">[behind door]</span>,</q> unnecessary/redundant pronouns, case and tense shenanigans..\.. Also, although I'm not keeping track, a *majority* of these Škrabotine have been edited between initial drawing and the upload that goes live.
       
       I don't really have A Formal Procedure for this! If it's something I messed up despite knowledge I had at the time, I'll probably change it, or at least make a note of it for publication here later. (With this lore-wall *specifically,* I've just learned A Lot over the past >couple weeks!) But retroactively, I'm probably not gonna touch either art or writing, because that way a neverending ouroboros of self-correction lies.
   - dt: 2023-04-18
@@ -188,7 +188,7 @@ scribs:
       tr-hr: |-
         <span lang="hr" style="text-transform:uppercase;">*Nije* ruski!!!!</span>
       tr-en: |-
-        <span lang="hr" style="text-transform:uppercase;">*It's not* Russian!!!!</span>
+        <span style="text-transform:uppercase;">*It's not* Russian!!!!</span>
     an: |-
       And thus the lore expands.
 ---
