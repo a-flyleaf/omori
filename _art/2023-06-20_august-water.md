@@ -1,0 +1,21 @@
+---
+slug: august-water
+title: "August/Water"
+date: 2023-06-20
+class: dark
+da: "[probably not?]"
+desc: |-
+  [Photobash](https://conceptartempire.com/photobashing/) based on the "Scribbles" area of Black&nbsp;Space: an unnaturally technicolor beach with fish-head house-structures rising from the sea, black/green coral in the foreground, and scribbled polaroids scattered on the sand. Not present in-game, the upper border of the image dissolves into purple space, then void.
+css: "ul{margin-top:-.85em;} #gif{display:block; margin-top:.5em;} #gif:hover,#gif:active,#gif:focus{opacity:.85;}"
+---
+Made this in ~2.5&nbsp;hours on the fly, completely winged. It's not the most exciting composition in the world but none of it was planned and I don't know where else to put it, so ¯\\\_(&nbsp;:V&nbsp;)_/¯
+
+Photo credits:
+- beaches: [base](https://www.flickr.com/photos/smiller999/27828740655/in/photolist-Jp8z4n-29gji1Q-2huCfZz-2mGkriR-RAJmcZ-2kxFfpx-66K6ww-2kqTinW-p2fAjR-5M6V3E-23kEiee-4dYKFz-QV3qda-2mYK53u-p2foy7-2jBvh3X-6mC4Rr-SiBc97-2jpWvdB-aAuEmz-2jfX4Fr-2jbkKpS-2gjYZVs-2njK5TM-LwxTnb-a67CNu-az1i6h-e2JT-RrU1se-2nsVAeB-a67Cyy-2oiHKh4-2mdfRcr-J31FmN-AxN7qX-6mGd5C-2n6Y2V8-2hLGqdz-2g49QCL-2m4u4a2-o8y8Dj-2iGvroz-2ob7Cee-2nqzXxz-2q9C1e-JHvFnE-8rZLHE-2idBJJd-2nEUou3-23kEgoa), [birds-eye view](https://unsplash.com/photos/topYY3pxwYg), [sky/shoreline](https://unsplash.com/photos/dkIAmVSMmXk), [additional overlay](https://unsplash.com/photos/P7O0IEetfUw)
+- assorted fish heads: [uno](https://unsplash.com/photos/VgkMYlZQIOM), [dos](https://www.flickr.com/photos/dendroica/5622915151/in/photolist-9ySULX-5hzWh-87WWnh-awdKRz-d2sRay-fkDrgc-eFjcx-5DhsHp-8wdaL8-888Hsm-23epUGG-ysseeY-bs4s8k-5xva14-bnfShS-hqDeCv-248JHmC-oSSGUD-G6X4m-HrC8-aQ4qnz-9z885V-2byypAT-HLGWWj-22csb98-4rgfNn-29Vfemh-8jxcAm-pGCW25-Qa1HE7-TK8PrC-xZeSy2-FRNecc-2Ykkq-4GHDx-ZHGdSs-GSbfnz-Zmn7s2-aznhsG-21chEP2-fbtVKm-6j8KT4-aAeQEb-nqJ5ce-noF521-nnzxhJ-2gQbV-29RnHEk-RH957k-9yf46H), [tres](https://www.flickr.com/photos/jasonevines/31607113462/in/photolist-Qa1HE7-TK8PrC-xZeSy2-FRNecc-2Ykkq-4GHDx-ZHGdSs-GSbfnz-Zmn7s2-aznhsG-21chEP2-fbtVKm-6j8KT4-aAeQEb-nqJ5ce-noF521-nnzxhJ-2gQbV-29RnHEk-RH957k-9yf46H-23UWWzg-yEgQH3-8PFVpc-21PtyLw-ZNmxok-6uovp1-Rnxjaz-uWqE3X-YFBX2w-5PbGY3-83yzTM-hVTEjw-gUKJrt-YHH4SN-YffBoE-5aPtCu-ZKFbQC-aFQqS8-2b8JhfE-4BW3ti-9V82Kb-6ZtKf2-bcarpK-XZGuPA-6TUYZB-h8W59Z-kBCLjS-4KLXxx-cfz9sq), [quatro](https://www.flickr.com/photos/leodirac/154785037/in/photolist-eFjcx-5DhsHp-8wdaL8-888Hsm-23epUGG-ysseeY-bs4s8k-5xva14-bnfShS-hqDeCv-248JHmC-oSSGUD-G6X4m-HrC8-aQ4qnz-9z885V-2byypAT-HLGWWj-22csb98-4rgfNn-29Vfemh-8jxcAm-pGCW25-Qa1HE7-TK8PrC-xZeSy2-FRNecc-2Ykkq-4GHDx-ZHGdSs-GSbfnz-Zmn7s2-aznhsG-21chEP2-fbtVKm-6j8KT4-aAeQEb-nqJ5ce-noF521-nnzxhJ-2gQbV-29RnHEk-RH957k-9yf46H-23UWWzg-yEgQH3-8PFVpc-21PtyLw-ZNmxok-6uovp1)
+- [sand](https://unsplash.com/photos/fMxke2FrELw), [footprints](https://www.flickr.com/photos/colinjagoe/8343457096/in/photolist-dHhp7y-8LLVSa-G3aUE4-45BXg-c99BXJ-pCpUjA-yvVMz-rYmiCm-9AH4cz-vJtS-7God3-9Dfc8U-DgVg-4HN7pL-9htNr2-w2dn3-3chaMq-avBFr-85yp4c-r9ea1u-e7Pezb-bvGqBZ-BFGBs-cR3F7-hSVbd-J6dL-cQcvg-97WEBA-79skp-89UYSv-62WMNA-hJ8eB-4ncec-4svWPh-8kj9i-oUUUk-9biQtd-4t354v-4gHPgP-dTKz2H-bgtfCV-6kWD5-7YvXME-boZRiA-2iDLHnL-dss4Qi-9Mzi6-5uoxXr-NVgNQU-4RFL2X)
+- [polaroids](https://unsplash.com/photos/ihLJQrMn6xo)
+- [branch](https://unsplash.com/photos/-KOlStNqb1A) (unused in final), [actual coral](https://www.flickr.com/photos/bushman_k/12209001193/in/photolist-jASjGz-cG8pLj-DZsjj-cG8qC9-8xU21R-yQ2Df-uWsgJ-cG8pcj-B6EP4-oZLc4o-9ARDUN-7i1jgy-ivcJXq-29nL6aS-yzQtqU-yzQBWb-HKSd1M-Jb24k-zJENFd-figjCm-2mPy1Jy-UfHYBZ-7DcqsG-czedaq-oBMq4-czecTm-2drL9VD-L89hJr-6q7eez-di4McV-jWaCbp-d5azhS-7aZDoY-34pAPU-21sMcCy-5CN8DZ-ozFuQ-cG8qUS-nfPPHc-DgcYu-bUecJP-bUefpB-JdXFdz-Jb2uF-26ReP1w-otE8Ss-AR2MG-9dtDsj-21C5u9w-wUkjG9)
+
++process gif (approximate, reverse-frankenstein'd from the final layers):
+<a href="{%include url.html%}/assets/img/art/2023-06-20_process.gif" id="gif" target="_blank"><img src="{%include url.html%}/assets/img/art/2023-06-20_process.gif" alt="process gif; larger size opens in a new tab" title="process gif; larger size opens in a new tab"></a>
