@@ -21,3 +21,6 @@ In which I attempted to review my initial playthrough and compile thoughts & obs
 - <b>[um.]({%include url.html%}/meta/impasse)</b>: Not really meta, just explaining why this got scrapped.
 
 The rest will be, uh, less comprehensive. I think. Or at least less perfectionistically-written.... >\_>\"
+
+## the rest
+- <b>[is this a meta]({%include url.html%}/meta/not-meta)</b>: Revisited my save files, made some little observations throughout and also went on a pinwheel tangent.
