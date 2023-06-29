@@ -256,7 +256,7 @@ Backstage, playtime 83:19:43.
 
 Ah dang, a'ight, already decided to beat the shit out of Basil then. Only way to go is forward (literally; Sunny shakes his head if you try walking down too far), and thennnn... Duet sequence, I think? The ending sequence is so Much it always gets jumbled in my head....
 
--checks LP- (relevant part at the very end of [this update](https://lparchive.org/Omori/Update%2048/)) *Oh wait no ok,* Omori fight and *then* the Duet. Guess this is a quick ticket to the Oyasumi end, then.... :,D Saving just for that, I suppose.
+-checks [LP](https://lparchive.org/Omori/Update%2048/)- *Oh wait no ok,* Omori fight and *then* the Duet. Guess this is a quick ticket to the Oyasumi end, then.... :,D Saving just for that, I suppose.
 
 (As a side note, Crime and Slander that the Fandom wiki doesn't note this area, along with all the other abstract-as-hell maps from the truth sequence, under "Black Space." They're all *incredibly* important and symbolic and such, but they don't get special pages like the rooms found via doors. Heck is up with that!!!)
 
@@ -272,7 +272,8 @@ I have no idea what this one i---*oh my god it's after I beat the fucking Recycu
 
 So, yeah, don't need to keep this file either, but some other tidbits of note while I'm here:
 
-- Wow, flavor text for Kel's Pet&nbsp;Rock is "Kel's best friend." Hector is rock is dog is Rock(TM)-rock but *my guy really doesn't* (didn't, I guess) *have a "best" friend anymore, huh.*
+- Wow, flavor text for Kel's Pet&nbsp;Rock is "Kel's best friend." Hector is rock is dog is Rock(TM)<!--the uppercase letters are intentional here-->-rock but *my guy really doesn't* (didn't, I guess) *have a "best" friend anymore, huh.*
+	- addendum: Right, right, also bears remembering that flavor text is also filtered through Sunny. Granted, Kel strikes me as a "has many friends but none(/few) are *close*" kind of guy, but it seems Sunny also thinks Kel has no BFFs left but his rock toy. Kind of self-deprecating in that way, on Sunny's part; if he asked, I'd imagine Kel would call him a BFF again in a heartbeat.
 - This would've surprised me if I hadn't already seen someone talking about it (somehow did not notice during playthrough, or if I *did* then it didn't stick to memory) but Aubrey already having a charm, the Pinwheel, is a nice touch! Reportedly it also isn't there after she leaves it at the stump. Don't feel like replaying the scene to check that, but I really need to dig into the pinwheel symbolism some time....\*
 - Sunny's "weapon" is Hands, "This is all you have." (sounds mildly pathetic/disappointed; yeah, the knife sure has more "cool" factor (but at what cost)...); Hero's is *Fist,* "Gets the job done." They Are The Same Fucking Thing and Sunny is *still* compelled to hold Hero's in higher regard.
 
