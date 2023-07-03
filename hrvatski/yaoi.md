@@ -2,12 +2,12 @@
 layout: hr
 title: yaoi.
 back: kuci
+next: itd
 
-css: "#tense figcaption{text-transform:uppercase;} #yaoi{background:#696c71; color:#fff;} #yaoi h2{color:#bfbfbf;} #yaoi .note img{display:block;} #yaoi a{text-decoration-color:#9c9ea2;} #yaoi ::selection{background:#494c51;} #yaoi del{color:inherit;} #thanks-doc hr{display:none;} #alas{margin-bottom:-.5em;} /*temp*/ small{font-size:.85em;} article:last-of-type{margin-top:7em;}"
+css: "#tense figcaption{text-transform:uppercase;} #yaoi{background:#696c71; color:#fff;} #yaoi h2{color:#bfbfbf;} #yaoi .note img{display:block;} #yaoi a{text-decoration-color:#9c9ea2;} #yaoi ::selection{background:#494c51;} #yaoi del{color:inherit;} #alas{margin-bottom:-.5em;}"
 
 h1: "yaoi."
-htxt: >-
-  [...and an outlier, for now.]
+htxt: wow...
 
 scribs:
   - dt: 2023-05-01
@@ -116,14 +116,6 @@ scribs:
         <span class="omo">Aubrey</span>: <q>See? You lost him...</q>
     an: |-
       <figure class="imgs" id="alas"><a href="../assets/img/hr/2023-05-09.png"><img src="../assets/img/hr/2023-05-09.png" alt="Gru meme ft. Basil. First panel: Aubrey, who speaks Croatian, talked to Sunny; Sunny has a crush on her. Second panel (expectation): If Basil speaks Croatian, Sunny will crush on /him/. Third panel (in which Basil looks disgruntled): Aubrey has taught him Croatian both back then (both kneeling over a puzzle) and now (her yelling at him through a megaphone…). Fourth panel (reality, to Basil’s /extreme/ disgruntlement): Basil speaks Croatian. Sunny doesn’t get it." title="Gru meme ft. Basil. First panel: Aubrey, who speaks Croatian, talked to Sunny; Sunny has a crush on her. Second panel (expectation): If Basil speaks Croatian, Sunny will crush on /him/. Third panel (in which Basil looks disgruntled): Aubrey has taught him Croatian both back then (both kneeling over a puzzle) and now (her yelling at him through a megaphone…). Fourth panel (reality, to Basil’s /extreme/ disgruntlement): Basil speaks Croatian. Sunny doesn’t get it."></a><figcaption><a href="https://knowyourmeme.com/memes/grus-plan">alas.</a></figcaption></figure>
-  - dt: 2023-05-14
-    id: thanks-doc
-    typ: sn cn
-    note: And Now For Something Completely Different. <small>[might move this to the next page later, but for now it's here since it's from the same month]</small>
-    imgs:
-    - alt: "Basil wakes up in the hospital, with Kel, Hero, and Aubrey standing nearby. Hero: “Hey, Basil. How’re you feeling?” He holds up a card that reads “How much does it hurt?”, below which is a pain scale from 1 (Not at all!) to 3 (OK) to 5 (Horrid Agony). / Basil’s response: “P… Pet….”. Kel: “‘Pet’? You want Hector? /Here??/” Aubrey translates: “Five. He means five….”"
-    an: >-
-      Needs no translation. The language of pain is universal.
 ---
 ČčĆćĐđŠšŽž
 …‘’“”—

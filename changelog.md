@@ -131,6 +131,8 @@ log:
       - art: <a href="art/august-water">August/Water</a>
   - dt: 2023-06-28
     line: Wrote <a href="meta/not-meta">a meta(?)post</a>.
+  - dt: 2023-07-02
+    line: <a lang="hr" href="hrvatski/itd">Hrvatski opet.</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

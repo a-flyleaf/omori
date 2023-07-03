@@ -12,3 +12,4 @@ css: "#navthing{display:none;} main a{display:inline-block; margin-bottom:.5em;}
 <a href="./tr"><img src="../assets/img/hr/kuci/2.png" alt="2: a comic" title="2: a comic"></a>
 <a href="./ostatak-aprila"><img src="../assets/img/hr/kuci/3.png" alt="3: April smorgasbord" title="3: April smorgasbord"></a>
 <a href="./yaoi"><img src="../assets/img/hr/kuci/4.png" alt="4: yaoi, mostly" title="4: yaoi, mostly"></a>
+<a href="./itd"><img src="../assets/img/hr/kuci/5.png" alt="5: etc" title="5: etc"></a>
