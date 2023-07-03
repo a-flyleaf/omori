@@ -23,7 +23,7 @@ main [lang=hr] em{font-weight:bold;}
 
 article{max-width:850px; margin:2em auto; padding:.5em 1em 1.25em; background:#313338;} article:first-of-type{margin-top:0;}
 .sn{border-radius:.35em;} .sn img{border-radius:5px;}
-h2{font-weight:normal; margin-bottom:.5em;}
+h2{font-weight:normal; margin-bottom:.5em;} h2 a{text-decoration:none;} h2 a:hover,h2 a:focus,h2 a:active{color:inherit; opacity:.65;}
 
 .note{background:#2b2d31; color:#e0e1e5; padding:.5em 1em; max-width:600px; margin:0 auto 1em; border-radius:.5em;}
 
