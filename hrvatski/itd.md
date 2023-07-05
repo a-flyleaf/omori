@@ -51,11 +51,11 @@ scribs:
     - alt: "This time Aubrey just yells at him; a mildly panicked Basil is loud right back. A: “What do you do for a hobby?” B: “I. I used to garden…?” A: “Good. [Translation, roughly.] / What or who would you take care of. /Other than Sunny/.” B: “Uhhh [attempted translation]” A: “[single word]. What concerns or worries you.” Basil answers something; clarification seems to be alright; A: “Well not—whatever”"
       img: _c
       tr-hr: |-
-        <span class="omo">Pokušaj Tri... (će biti charm...?)</span>
+        <span class="omo" lang="hr">Pokušaj Tri... (će biti <span lang="en">charm</span>...?)</span>
         
         <span class="omo">Aubrey</span>: <q lang="hr">Zanima te vrtlarstvo.</q>
         
-        <span class="omo">Basil</span>: <q lang="hr">Brinem se za baka---baku?</q>  
+        <span class="omo">Basil</span>: <q lang="hr"><span lang="en">Uhhh</span> brinem se za baka---baku?</q>  
         <span class="omo">Aubrey</span>: <q lang="hr">*Odlično.*</q>
         
         <span class="omo">Basil</span>: <q lang="hr">N-Nešto.</q>  
@@ -67,7 +67,7 @@ scribs:
         
         <span class="omo">Aubrey</span>: <q>You're interested in gardening.</q>
         
-        <span class="omo">Basil</span>: <q>I take care of grandma</q>  
+        <span class="omo">Basil</span>: <q>Uhhh I take care of grandma</q>  
         <span class="omo">Aubrey</span>: <q>*Excellent.*</q>
         
         <span class="omo">Basil</span>: <q>S-Something.</q>  
@@ -108,12 +108,12 @@ scribs:
       \> <span lang="hr">uči hrvatski</span> (teach/learn Croatian)  
       \> <span lang="hr">koristi</span> (use) 👁️‍🗨️, which on Discord renders as a black speech bubble with an eye in it, to indicate <a href="../hrvatski#crni-prostor"><span lang="hr">riječi "Crnog&nbsp;Prostora"</span> (words of "Black&nbsp;Space")</a>  
       \> at some point, make Cursed Emoji Face <span style="display:inline-block;">"👁️👄👁️"</span> but with the Other eye  
-      \> unrelatedly, introduce <q lang="hr">Slavenski Nešto</q>  
+      \> unrelatedly, <span lang="hr">uči</span> <q lang="hr">Slavenski Nešto</q>  
       \> 
       
       <figure class="imgs" id="w"><a href="../art/roundup-2023-06"><img src="../assets/img/hr/2023-06-05.png" alt="Cursed Emoji Face, but with a different shape for the eyes. Basil, in the foreground, mutters the following:" title="Cursed Emoji Face, but with a different shape for the eyes. Basil, in the foreground, mutters as below:"></a><figcaption><p>“<span lang="hr">Koji</span>… actual <span lang="hr">kurac</span>…” ≈ “What… the actual fuck…”</p></figcaption></figure>
       
-      Basil really didn't have to here but I thought it was funnier that way. Cue this:
+      Basil really didn't have to be here but I thought it was funnier that way. Cue this:
     an: (Also no, I do not *quite* know what this so-called "Slavic Something" is yet..\..)
   - dt: 2023-06-21
     id: da-covjek
@@ -143,7 +143,7 @@ scribs:
         
         <strong class="omo">All these years you were afraid of *nothing*</strong>
     an: |-
-      "Ni o čemu" is not the big deal it was made out to be: it means "about nothing." As for why the word <q lang="hr">ničemu</q> ("nothing," on its own) gets split? Grammatical shenanigans. [<span lang="hr">Jad</span>... (woe...)](https://knowyourmeme.com/memes/dramatic-dmitry)
+      "Ni o čemu" is not the big deal I drew it as: it means "about nothing." As for why the word <q lang="hr">ničemu</q> ("nothing," on its own) gets split? Grammatical shenanigans. Which are not actually that hard to grasp now that I know but, once more in the name of art, [It Funney](https://knowyourmeme.com/memes/dramatic-dmitry)..\..
 ---
 ČčĆćĐđŠšŽž
 …‘’“”—
