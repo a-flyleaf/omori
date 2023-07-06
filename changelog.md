@@ -133,6 +133,11 @@ log:
     line: Wrote <a href="meta/not-meta">a meta(?)post</a>.
   - dt: 2023-07-02
     line: <a lang="hr" href="hrvatski/itd">Hrvatski opet.</a>
+  - dt: 2023-07-05
+    line: "Did some little things:"
+    done: |-
+      - added TCRF to <a hre="links">the Links page</a>
+      - more Discord notedump meta
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

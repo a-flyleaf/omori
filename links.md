@@ -30,10 +30,12 @@ A forum-based playthrough of the entire game, with most dialogue transcribed, so
 	- \*~~nitpicky grievances~~ Things to note: LPer has given talksprites to characters without, including spirit!Mari (who has a sprite sheet in the files but only one is used in-game) & inserted dialogue in the Omori fight without making clear this is an insert. While there's some commentary from the LPer, it's sparse; there are no, say, snarky jokes between every other line or incoherent keysmashing about dramatic moments. Both of which are #valid and have their place, but they'd make the LP a lot less useful as a game reference, y'know? 
 - <b>[Omoriboy Archive](https://alexanderjt.neocities.org/omoriboy)</b>  
 Manually-created mirror of the blog posts that started it all. The original blogs are inaccessible even with a Tumblr login, but some (if not all?) posts were [reblogged by Omocat](https://www.omocat-blog.com/tagged/omori/chrono).
+- <b>[The Cutting Room Floor](https://tcrf.net/OMORI)</b>  
+Massive, *massive* pages detailing various content from the files that got cut and/or changed between versions. And at the time of writing (July 2023), they're still not done!!
 - <b>[Spriters Resource spriterips](https://www.spriters-resource.com/pc_computer/omori/)</b>  
 At the time of writing this is neither comprehensive nor well-organized, with [the Switch sprites being a separate page entirely](https://www.spriters-resource.com/nintendo_switch/omori/). But in a pinch, it loads a lot faster than the Fandom pages.
 - <b>[RPG-Maker Restore-Images](https://petschko.org/tools/mv_decrypter/)</b>  
-Not technically <span class="omo">Omori</span>-related, but if you own the game on Steam, you can use this to rip the sprite sheets yourself ;V (Requires familiarity with your Program Files to find the dang things. Might make a page/folder guide about this later....)
+Not technically <span class="omo">Omori</span>-related, but if you own the game on Steam, you can use this to rip the sprite sheets yourself ;V (Requires familiarity with your Program Files to find the dang things. Might make a page/folder guide about this later....) (also see: [Unused Graphics at TCRF](https://tcrf.net/OMORI/Unused_Graphics) (main page linked above))
 	- music also! have yet to do this myself though, stay tuned....
 - <b>[OST Heardle](https://omori-heardle-2-5.glitch.me/)</b>  
 Not technically a *resource,* I Just Think [It's Fun](heardle)
