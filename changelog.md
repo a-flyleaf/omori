@@ -138,6 +138,8 @@ log:
     done: |-
       - added TCRF to <a hre="links">the Links page</a>
       - more Discord notedump meta
+  - dt: 2023-07-08
+    line: Drafted some meta.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

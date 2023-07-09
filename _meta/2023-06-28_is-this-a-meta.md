@@ -277,7 +277,7 @@ So, yeah, don't need to keep this file either, but some other tidbits of note wh
 - This would've surprised me if I hadn't already seen someone talking about it (somehow did not notice during playthrough, or if I *did* then it didn't stick to memory) but Aubrey already having a charm, the Pinwheel, is a nice touch! Reportedly it also isn't there after she leaves it at the stump. Don't feel like replaying the scene to check that, but I really need to dig into the pinwheel symbolism some time....\*
 - Sunny's "weapon" is Hands, "This is all you have." (sounds mildly pathetic/disappointed; yeah, the knife sure has more "cool" factor (but at what cost)...); Hero's is *Fist,* "Gets the job done." They Are The Same Fucking Thing and Sunny is *still* compelled to hold Hero's in higher regard.
 
-\*Aaand immediately after writing that, jotted down a few thoughts, the more-publicly-comprehensible version of which is essentially: the fans of the pinwheel are to leaves of trees, and the pinwheel is a decidedly happier (or at least more nostalgic) counterpart.
+<span id="pinwheel">\*</span>Aaand immediately after writing that, jotted down a few thoughts, the more-publicly-comprehensible version of which is essentially: the fans of the pinwheel are to leaves of trees, and the pinwheel is a decidedly happier (or at least more nostalgic) counterpart.
 
 1. A recurring image is of leaves swaying in the breeze (maybe not that exact phrasing but something to the extent);
 2. trees are very much memory-related, albeit not the happiest memories;
