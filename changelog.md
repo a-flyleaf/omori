@@ -139,7 +139,7 @@ log:
       - added TCRF to <a hre="links">the Links page</a>
       - more Discord notedump meta
   - dt: 2023-07-08
-    line: Drafted some meta.
+    line: Jotted down <a href="meta/boss-rush">some meta</a>.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
