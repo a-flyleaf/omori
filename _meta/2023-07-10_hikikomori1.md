@@ -6,6 +6,15 @@ css: body{background:#000;} em.omo{font-style:normal;} .m-hk blockquote{margin-l
 title: hikikomori notes 1
 date: 2023-07-10
 slug: hikikomori1
+
+addendum: |-
+  <sup id="1">[[1]](#1-main)</sup> Originally said Hero doesn't have emotion-*related* skills, but his second skill is Massage, which *removes* an emotion. Also, some of his skills affect the *enemy's* emotions: Enchant and Dazzle make Happy, while Spicy Food sparks Angry.
+  
+  <sup id="2">[[2]](#2-main)</sup> ohh, this photo is another Conspicuous Circle. maybe?? idk, they're framed as opposites/in parallel here, it's a neat composition
+  
+  <sup id="3">[[3]](#3-main)</sup> as in, in the first playthrough. also it wasn't actually *that* long, I don't think? maybe around Basil's house?
+  
+  <sup id="4">[[4]](#4-main)</sup> world’s tiniest detail but he also fuckign retconned aubrey’s flower colors?? they are ALL pink here. irl photo had more variety.
 ---
 ## White Space, Neighbor's Room
 - vertical hierarchy: knife is closest southwest of WS room (same corner as Mewo)
@@ -13,14 +22,14 @@ slug: hikikomori1
 - love that Aubrey and Kel's initial impressions swap their respective emotions; Aubrey's happy to see you and Kel's mad about the cards
 	- side note, they also immediately flip back; Kel's happy about his pet rock, Aubrey's like ">:( he took my toy"
 	- oh yeah duh, they also both start with skills with the emotion flip too; Aubrey's Pep Talk, Kel's Annoy
-		- later note: take this with $amount of salt since Hero doesn't have emotion-related skills Period.
+		- later note: take this with $amount of salt since Hero doesn't have emotion-giving skills Period.<sup id="1-main">[[1]](#1)
 - sure is an eye-plant in an inaccessible corner. also *huh,* that's a <em class="omo">blender</em> not a trophy??
 
 <img src="https://cdn.discordapp.com/attachments/483318565022203904/1128001932267618415/image.png" alt="Screenshot of the flavor text of one item in the Neighbor’s Room. “A blender.”" title="Screenshot of the flavor text of one item in the Neighbor’s Room. “A blender.”" class="mg">
 
 - Plantegg: <q>Makes a weird noise when you punch it.</q> $20 on Sunny knowing this thanks to Kel, and also why <em class="omo">would</em> it do that
 - Hector: <q>Can talk, but is very shy. He is a good friend.</q> ohh. ohh, huh, Hector ~= Sunny??
-- Hero is straightforward wrt both charm (Spatula) and skill (Cook). Bro Makes Food that's it that's his schtick; he also doesn't have as much unique dialogue right off the bat (like, I think I missed Kel talking about Hector the first time)
+- Hero is straightforward wrt both charm (Spatula) and skill (Cook). Bro Makes Food that's it that's his schtick; he also doesn't have as much unique dialogue right off the bat (like, I think I missed Kel talking about Hector the first time, but Hero has nothing new to say between the scene dialogue and advancing the story)
 	- on the other hand, Hero's the one you talk to to *get* the party together, and he's the one who stops you from returning to White Space immediately after
 	- also his sprite for card-playing is ever so Slightly off-model (hair spike). noticing the real details
 
@@ -28,7 +37,7 @@ slug: hikikomori1
 
 ## to the Playground
 - Aubrey getting stuck is a weird little point; the boys were actually *this* close to forging on without her?? (Omori moves, too; it's a cutscene outside the player's control.) and the only other person who notably pops out of the stump like that is, uh, Black Space Basil
-- the silence at the North Lake is kinda eerie, especially when everywhere else so far has music. obviously this fits later scenes *odličan* (excellently), but for now: the area seems to correlate to both the beach and lake memories. curious!
+- the silence at the North Lake is kinda eerie, especially when everywhere else so far has music. obviously this fits later scenes *odlično* (excellently), but for now: the area seems to correlate to both the beach and lake memories. curious!
 	- I love the detail of Kel making his sandcastle-statue wicked fast and Hero takes the longest. consistent characterization in cutscenes! we love to see it!!!
 	- did the sandcastle thing a few times just to see the variety; sometimes Hero or Kel will just go swim (not sure if Aubrey does?), and Hero always makes the same bog-standard castle. shit, even Omori has more variety (usually stump, sometimes Mewo or... some sphere that's probably a planet, maybe Earth?)
 	- this miiiight be the first possibe glimpse of Something? nice. did not get the dark Anxiety Overlay after staying there for a while, curiously, and it's not at the other -phobia zone entries (ladder or cobwebs) either
@@ -41,7 +50,7 @@ slug: hikikomori1
 - <q>We just have to pretend you're not there?</q> 8,^) <q>Sure, I can do that!</q> ***8,^)*** (and then Kel immediately turns away, lmao. little details!!!!)
 
 ## Photo Album
-- oh, I forgot that the <em class="omo">first</em> fuckin photo (right here! in Headspace!!) is a counterexample to the "only take non-staged photos" idea---*it's ~~Sunny~~ Omori and Kel with Mari's flower crown.*
+- oh, I forgot that the <em class="omo">first</em> fuckin photo (right here! in Headspace!!) is a counterexample to the "only take non-staged photos" idea---*it's ~~Sunny~~ Omori and Kel with Mari's flower crown.*<sup id="2-main">[[2]](#2)</sup>
 - it is *wild* how much of Basil's commentary Sunny overwrote (if not outright deleted) with reckless abandon, here. and also kinda ?sweet that, whereas real-Basil seemed kinda sheepish about wearing an *entire* flower crown (though the accessory stuck, give or take some talksprites) Sunny just went "nah you get the full thing forever here"
 - But like, even the captions that *don't* have a ton changed are still so eyebrow-raising?? Compare:
 
@@ -53,7 +62,7 @@ slug: hikikomori1
 - The order gets scrambled, too, which doesn't stick out until You Know. Like, yeah, sure, they went from flowers to watermelons, nbd---*oh wait.* (Also ha, <q><span class="omo">Aubrey</span> has some seeds on her face. Maybe someone should tell her.</q> Between that and the option to say she would *not* look good with pink hair, actually, I am forever squinting at the Sunny→Aubrey dynamic here a little bit.)
 - I've said this before but I'm repeating it again: Kel has his dislike of milk overwritten because color symbolisms. and also maybe Sunny subtly judges the guy for it because No One Likes That Orange Crap
 - Anyway *wow,* the photo of Sunny and Basil with the book got *completely* janked; Mari had Hero take the photo instead of doing it herself, and the <q>Everyone thinks a flower crown really suits me</q> line got transplanted here, without argument. Also, extremely rare (if not the *only?*) instance of Omori with the little blush-lines.
-- I spent a stupid amount of time not realizing Kel and Hero were brothers despite it being confirmed upfront right here, whoops
+- I spent a stupid amount of time<sup id="3-main">[[3]](#3)</sup> not realizing Kel and Hero were brothers despite it being confirmed upfront right here, whoops
 - Teeny tiny Headspace retcon: <q><span class="omo">Mari</span> wanted to take ~~pictures~~ **a picture** of everyone~~!~~**.** Say cheese!</q> ...Sunny didn't like Mari taking pictures too much, huh?
 - I *still* think that one photo of Kel with the ~~ketchup~~ watermelon stain is weirdly ominous and for what. It doesn't amount to anything but it's on the same side Omori (and potentially Sunny) stabs himself! Why!!!
 
@@ -70,7 +79,7 @@ slug: hikikomori1
 ## Hide & Seek, Boss
 - <q><span class="omo">Berly</span> talks so fast when she's excited. It gets really hard to keep up...</q> oh what a mood
 - if you try to skip the hide-and-seek bit (by not talking to Berly before leaving) Aubrey's the one who stops you
-- and despite ^that she and Kel are first to break off 
+- and despite ^that she and Kel are first to break off when Berly's trying to get the gang to play
 - Basil takes up the last position in the party but when they're lined up for hide & seek he's next to Omori (followed by, right to left, Aubrey, Kel, and Hero)
 - huh, not-Angel isn't in the hide & seek lineup. moved in later, maybe? (he *is* on the playground, though)
 	- ohh, curiously he and *Daisy* are blocking the exit during the seeking. huh
@@ -109,7 +118,7 @@ slug: hikikomori1
 - Basil: <q>You always have everything under control!</q> Mari: <q>That's not true at all!</q> and then even Hero agrees she at least makes it *look* easy... there's always the paradox of like, everyone's characterization here is filtered *through Sunny,* so Hero might've been more understanding irl, but like. Still
 - oh shit Basil leaves the picnic this round. huh. I also totally forgot about the option to *dis*agree with everyone's Mari praise
 - oh shit x2, Basil was *on* the picnic blanket post-cutscene
-- oh shit x3, *I never went back to do the playground picnic with everyone but it's the whole gang with flower crowns............*
+- oh shit x3, *I never went back to do the playground picnic with everyone but it's the whole gang with flower crowns............*<sup id="4-main">[[4]](#4)</sup>
 
 <img src="https://cdn.discordapp.com/attachments/483318565022203904/1128051082661204068/image.png" alt="Screenshot of a picnic at the Playground, in which the gang has flowers. (Additional description below.)" title="Screenshot of a picnic at the Playground, in which the gang has flowers.">
 
