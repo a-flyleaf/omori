@@ -3,7 +3,7 @@ layout: hr
 title: itd.
 back: kuci
 
-css: "h1 [lang=hr]{font-style:italic;} small,#careful li ul{font-size:.85em;} #thanks-doc hr{display:none;} @media only screen and (min-width:600px){.cn2 .tr p{text-align:center;}} #careful figure:nth-of-type(3){text-transform:uppercase;} #w img{max-width:400px;} #w figcaption p{font-size:.85em; text-align:center; margin-top:0;} #w [lang=hr]{font-style:normal;} #eye-see-you .note{max-width:100%; background:0; padding:0 1em;} #sve-ni-za-cemu .note p{text-align:center;}"
+css: "h1 [lang=hr]{font-style:italic;} small,#careful li ul{font-size:.85em;} #thanks-doc hr,#eye-see-you hr{display:none;} @media only screen and (min-width:600px){.cn2 .tr p{text-align:center;}} #careful figure:nth-of-type(3){text-transform:uppercase;} @media only screen and (min-width:500px){#w img{max-width:400px;}} #w figcaption p{font-size:.85em; text-align:center; margin-top:0;} #w [lang=hr]{font-style:normal;} #eye-see-you .note{max-width:100%; background:0; padding:0 1em;} #sve-ni-za-cemu .note p{text-align:center;}"
 
 h1: "<span lang='hr'>itd.</span> (etc.)"
 htxt: |-
@@ -143,7 +143,7 @@ scribs:
         
         <strong class="omo">All these years you were afraid of *nothing*</strong>
     an: |-
-      "Ni o čemu" is not the big deal I drew it as: it means "about nothing." As for why the word <q lang="hr">ničemu</q> ("nothing," on its own) gets split? Grammatical shenanigans. Which are not actually that hard to grasp now that I know but, once more in the name of art, [It Funney](https://knowyourmeme.com/memes/dramatic-dmitry)..\..
+      "Ni o čemu" is not the big deal I drew it as: it means "about nothing." As for why the word <q lang="hr">ničemu</q> ("nothing," on its own) gets split? Grammatical shenanigans. Which are not actually that complicated now that I have context but, once more in the name of art, [Exaggerated Reaction Funney](https://knowyourmeme.com/memes/dramatic-dmitry)..\..
 ---
 ČčĆćĐđŠšŽž
 …‘’“”—
