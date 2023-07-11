@@ -2,7 +2,9 @@
 title: "January 12: theoryloss.jpg"
 date: 2023-03-03
 slug: not-playground
-css: "#pg-img{padding-bottom:.5em;} .gif:hover,.gif:focus,.gif:active{background-image:url(../assets/img/rcy_160.gif);} /*if custom css you'll have to re-add these*/ figcaption{max-width:400px; margin:-1em auto 0;} main li{margin:.25em 0;} hr{margin:3em 0 2em;} hr+h2{font-size:1.25em !important; font-style:italic; color:#bfbfbf !important;}"
+css: "figcaption{max-width:400px; margin:-1em auto 0;} main li{margin:.25em 0;} hr{margin:3em 0 2em;} hr+h2{font-size:1.25em !important; font-style:italic; color:#bfbfbf !important;}"
+m-ver: 0
+layout: ws-text
 ---
 Oh. Hm. This is going to be a novel series by the time it's done, isn't it?
 

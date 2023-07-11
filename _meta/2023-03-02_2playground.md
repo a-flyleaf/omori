@@ -2,6 +2,8 @@
 title: "January 12: It’s all fun and games…"
 date: 2023-03-02
 slug: playground
+m-ver: 0
+layout: ws-text
 ---
 ...You know, I don't really have a plan for these. Like, *reasonably,* I would read through everything, jot down a few major points, and then go back and write them all together all nice and organized. Essay-style, even.
 

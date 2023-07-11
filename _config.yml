@@ -14,7 +14,6 @@ defaults:
   - scope:
       path: "_meta"
     values:
-      layout: "ws-text"
       permalink: /meta/:slug
       img:
         url: rcy_160
