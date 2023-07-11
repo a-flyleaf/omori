@@ -140,6 +140,11 @@ log:
       - more Discord notedump meta
   - dt: 2023-07-08
     line: Jotted down <a href="meta/boss-rush">some meta</a>.
+  - dt: 2023-07-10
+    line: "Did more meta stuff:"
+    done: |-
+      - backend layout changes
+      - actual meta post: <a href="meta/hikikomori1">hikikomori1</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
