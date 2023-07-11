@@ -12,12 +12,12 @@ Not comprehensive.
 - [Official Website (English)](https://www.omori-game.com/en)
 - [Bandcamp](https://omori.bandcamp.com/)
 - Twitter\*
-	- <span class="omo">@[Omori_game](https://notabird.site/OMORI_GAME/)</span> -- Tweetsite infohub.
-	- @[_omocat](https://notabird.site/_OMOCAT) -- The studio; same name as the creator's personal handle.
-	- @[its_omocat](https://notabird.site/its_omocat) -- The person.
+	- <span class="omo">@[Omori_game](https://nitter.net/OMORI_GAME/)</span> -- Tweetsite infohub.
+	- @[_omocat](https://nitter.net/_OMOCAT) -- The studio; same name as the creator's personal handle.
+	- @[its_omocat](https://nitter.net/its_omocat) -- The person.
 - [Omocat's Tumblr](https://www.omocat-blog.com/)
 
-\*linked via Nitter, a Twitter frontend without the noise. If you want the source links, replace "notabird.site" in the URL with "twitter.com".
+\*linked via Nitter, a Twitter frontend without the noise. If you want the source links, replace "nitter.net" in the URL with "twitter.com".
 
 <div class="para" markdown="1">
 ## Fanmade Resources

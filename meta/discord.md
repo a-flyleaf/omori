@@ -30,11 +30,11 @@ msg:
       In retrospect I think this is one of those details that doesn't need a diegetic explanation. Also, the name "Hooligans" is only used in the battle overlay, never by any of the characters, so at this point I tend to think that's just Sunny's insert.
   - time: 2023-01-28 09:32
     msg: |-
-      [https://notabird.site/OMORI_GAME/status/1396360249221685248](https://static.wikia.nocookie.net/omori/images/0/0c/Aubrey_throughout_the_years.gif) <em class="omo noi">I just realized this could be a timeline???</em> if it’s one image a year that’s 4 since Mari’s death *and 4 between that and Headspace. the fuck*
+      [https://notabird.site/OMORI_GAME/status/1396360249221685248](https://www.omocat-blog.com/post/651955548159442944/happy-birthday-aubrey-caution-this-comic) <em class="omo noi">I just realized this could be a timeline???</em> if it’s one image a year that’s 4 since Mari’s death *and 4 between that and Headspace. the fuck*
     note: |-
       *Eh,* I no longer think the Headspace kids are meant to have specific ages. They seem especially young at the start, though, so there's still merit to this....
       
-      eta 7/5: Twitter machine broke; changed link above to the Fandom wiki version (is the same).
+      eta: Twitter machine broke; changed link above to the full Tumblr post.
   - time: 2023-02-06 13:10
     cl: bq
     msg: |-
@@ -387,7 +387,7 @@ msg:
       
       [today] hmm. sweetheart’s castle, sprout mole masks: they are all lowly moles under her glorious presence?? can’t believe i haven’t looked into the sweetheart/mole connection more actually; they are also Literally right next door, and the only way *to* sweetheart is through their village….
     note: |-
-      \* Twitter is a crumbling hellscape, but the Discord link preview preserved the original tweet (though I don't remember if it was a thread):
+      \* Twitter is a crumbling hellscape, but the Discord link preview preserved the tweet (~~though I don't remember if it was a thread~~ +later update, checked with [the main Nitter instance](https://nitter.net/aroma_ga_umaize/status/1626405819507150849); it's just this):
       > "Spiky on the outside, soft on the inside."  
       > What does this mean?
       > 
