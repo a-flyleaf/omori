@@ -26,4 +26,5 @@ The rest will be, uh, less comprehensive. I think. Or at least less perfectionis
 - <b>[is this a meta]({%include url.html%}/meta/not-meta)</b>: Revisited my save files, made some little observations throughout and also went on a pinwheel tangent.
 - <b>[boss rush speedrun]({%include url.html%}/meta/boss-rush)</b>: Notes on the Headspace bosses.
 - <span id="hk">actual hikikomori-playthrough notes:</span>
-	- [1: White Space--Ye Olde Sprout Mole]({%include url.html%}/meta/hikikomori1)
+	- [1: White Space → Ye Olde Sprout Mole]({%include url.html%}/meta/hikikomori1)
+	- [2: Basil's House → Pluto]({%include url.html%}/meta/hikikomori2)

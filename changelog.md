@@ -146,7 +146,10 @@ log:
       - backend layout changes
       - actual meta post: <a href="meta/hikikomori1">hikikomori1</a>
   - dt: 2023-07-11
-    line: Finangled assorted Nitter links because Twitter sucks ass.
+    line: "Even more stuff:"
+    done: |-
+      - finangled assorted Nitter links because Twitter sucks ass
+      - meta: <a href="meta/hikikomori2">hikikomori2</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
