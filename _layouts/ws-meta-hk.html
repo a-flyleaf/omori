@@ -11,7 +11,7 @@ css: ws
 	</header>
 	<main>
 		<div class="m-hk">
-			<div id="hkm-dt">{{page.date|date:"%Y.%d.%m"}}</div>
+			<div id="hkm-dt">{{page.date|date:"%Y.%m.%d"}}</div>
 			<div class="hkm-ct">{{content}}</div>
 		</div>{%if page.addendum%}<div class="m-hk ad"><h2>addendum/footnotes</h2>{{page.addendum|markdownify}}</div>{%endif%}</main>
 	<footer><a href="{%include url.html%}/meta#hk" id="back" class="dark"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a><p>musings by <a href="{%include url.html%}/about">yours truly</a><br><span class="omo">Omori © Omocat, LLC.</span></p></footer>
