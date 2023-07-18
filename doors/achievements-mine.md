@@ -1,11 +1,13 @@
 ---
 layout: none
 ---
-<style>details{border:1px solid #bfbfbf; padding:.25em .5em; margin:1em 0;} summary{cursor:pointer;} summary h2{display:inline;} .task-list{list-style-type:none; margin:0 0 0 1.25em; padding:0;} .task-list li{margin:.5em 0; text-indent:-1.5em;} input{margin-right:.5em;} h3{margin-bottom:0;}</style>
+<style>details{border:1px solid #bfbfbf; padding:.25em .5em; margin:1em 0;} summary{cursor:pointer;} summary h2{display:inline;} .task-list{list-style-type:none; margin:0 0 0 1.25em; padding:0;} .task-list li{margin:.5em 0; text-indent:-1.5em;} input{margin-right:.5em;} h3{margin-bottom:0;}
+
+del,input[checked]+strong{color:#808080;}</style>
 
 this isn't really supposed to be A Page i just don't know where else to put it
 
-as of first (and as of writing (June 8), only) playthrough
+~~as of first (and as of writing (June 8), only) playthrough~~ now playing hikikomori! updated as of **7/17**
 
 <details markdown="1">
 <summary><h2>all</h2></summary>
@@ -63,13 +65,13 @@ as of first (and as of writing (June 8), only) playthrough
 - [x] **Patron of the Arts**: Commission all of Rococo's art.  
 (Leave and re-enter Sprout Mole Village to trigger artwork completion. Costs 106,000 clams total, including the first.)
 - [x] **Power of Friendship!**: Release Energy on your foes.
-- [ ! ] **One for the Road**: Gain Bread using Bread Slice.  
+- [x] **One for the Road**: Gain Bread using Bread Slice.  
 (Learned by Omori at Level 5.)
 - [x] **Perfect Weather Conditions**: Defeat Kite Kid.  
 (Found in Pinwheel Forest.)
 - [x] **Gwahahaha!!**: Defeat ???.  
 (Defeat Pluto in Otherworld before finding the Special Mixtape.)
-- [ ! ] **Goodbye, World!**: Defeat The Earth  
+- [x] **Goodbye, World!**: Defeat The Earth  
 (Found in Captain Spaceboy's shortcut to the Junkyard; disappears on Two Days Left.)
 - [x] **Ohoooooooooo...**: Defeat the Unbread Twins.  
 (Found in Orange Oasis, Breaven. (Poke around the graveyard.))
@@ -80,7 +82,7 @@ as of first (and as of writing (June 8), only) playthrough
 - [ ! ] **Littering is bad, recycling is better.**: Throw away something.
 - [x] **R.I.P.**: Read all the tombstones in the... dev room...  
 (Found in Black Space, The Neighborhood.)
-- [ ! ] **You think you're clever, huh...**: Enter code: haveadollariguess at www.omocat-shop.com for $1.00 off.  
+- [x] **You think you're clever, huh...**: Enter code: haveadollariguess at www.omocat-shop.com for $1.00 off.  
 (Name the protagonist "OMOCAT." (Not available on consoles.))
 - [x] **They call me Scarethrow.**: Listen to Mr. Scarethrow's rant.  
 (Found in the Junkyard. Dialogue loops when complete.)
@@ -157,13 +159,13 @@ as of first (and as of writing (June 8), only) playthrough
 (If you poke one, just leave & re-enter the map to make it re-appear.)
 - [ ] **Mmm... Sweetheart, I mean, Tofu.**: Hold 99 Tofu.  
 (Can be obtained via Sprout Mole fights and shops.)
-- [ ] **One for the Road**: Gain Bread using Bread Slice.  
+- [x] **One for the Road**: Gain Bread using Bread Slice.  
 (Learned by Omori at Level 5.)
-- [ ] **Goodbye, World!**: Defeat The Earth  
+- [x] **Goodbye, World!**: Defeat The Earth  
 (Found in Captain Spaceboy's shortcut to the Junkyard; disappears on Two Days Left.)
 - [ ] **Littering is bad, recycling is better.**: Throw away something.  
 (maybe Faraway-specific?)
-- [ ] **You think you're clever, huh...**: Enter code: haveadollariguess at www.omocat-shop.com for $1.00 off.  
+- [x] **You think you're clever, huh...**: Enter code: haveadollariguess at www.omocat-shop.com for $1.00 off.  
 (Name the protagonist "OMOCAT." (Not available on consoles.))
 
 ### hikikomori

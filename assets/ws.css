@@ -57,7 +57,7 @@ figcaption{color:#dfdfdf; font-size:.85em; margin:-1em 0 0;}
 
 .m-hk a{text-decoration-color:#808080;} .m-hk a:focus,.m-hk a:active,.m-hk a:hover{font-weight:bold; color:#efefef; text-decoration-color:#404040;}
 .m-hk sup{font-size:.85em; line-height:0; color:#bfbfbf;} .m-hk sup a:before,.m-hk sup a:after{content:none;} .ad sup{vertical-align:middle; font-size:normal;}
-.m-hk img{display:block; margin:-.5em auto 1.25em;} .m-hk img.mg{margin-bottom:-.5em;}
+.m-hk img{display:block; margin:-.5em auto 1.25em; background:#313338;} .m-hk img.mg{margin-bottom:-.5em;} .m-hk h2+p img,.m-hk br+img{margin-top:.25em;}
 .m-hk q,.m-hk blockquote{font-family:sans-serif; line-height:1.65; background:#000;}
 .m-hk q:before,.m-hk q:after{line-height:0; font-family:consolas,courier,'courier new',monospace; background:#202020;}
 .m-hk .q-note{font-family:consolas,courier,'courier new',monospace; color:#bfbfbf;}

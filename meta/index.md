@@ -28,3 +28,5 @@ The rest will be, uh, less comprehensive. I think. Or at least less perfectionis
 - <span id="hk">actual hikikomori-playthrough notes:</span>
 	- [1: White Space → Ye Olde Sprout Mole]({%include url.html%}/meta/hikikomori1)
 	- [2: Basil's House → Pluto]({%include url.html%}/meta/hikikomori2)
+	- [3: Otherworld Campsite → shortcut to Junkyard]({%include url.html%}/hikikomori3)
+	- [4: more Otherworld]({%include url.html%}/meta/hikikomori4)

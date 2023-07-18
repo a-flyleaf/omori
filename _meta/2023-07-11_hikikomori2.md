@@ -125,7 +125,7 @@ In conclusion I don't fuckin know why Basil refers to the scattered photos as "a
 - I missed this sidequest but isn't the guitar guy irl moving? that's kinda sweet, that his Headspace version is Completely Stationary(TM)---irl guy's moving on with his life! (and if I am wrong I will eat my words)
 	- later edit: <i>[ayoooo](https://omori.fandom.com/wiki/GUITAR_GUY)</i>
 - ohhh, the fear of heights overlay is *hands.* not sure if they're the same hands as the arachnophobia sequence, but they sure are hands!
-- ok so. vs Pluto, everyone at level 4 (Kel slightly behind the rest); one turn takes one arm down half, *Kel fuckign dies first again oh my god <strong class="omo">blease</strong>*
+- ok so. <span id="pluto">vs Pluto</span>, everyone at level 4 (Kel slightly behind the rest); one turn takes one arm down half, *Kel fuckign dies first again oh my god <strong class="omo">blease</strong>*
 	- <strong class="omo">good news, gang. not overleveled.</strong> got both arms down but Pluto Expanded pummeled the rest!!
 	- <strong class="omo">update it took three tries. Omori was *nearly* dead on the last turn but moved first.</strong> Kel was a *bro* when he didn't get K-O'd early (Hero went down first on that last try instead), sorry about the continued EXP lag buddy
 - ...huh, I noticed this earlier but only just validated: having a picnic with your friends *also* heals the whole party, even though there's no sound effect :o

@@ -184,7 +184,7 @@ msg:
       - video doesn't point this out but. >procession has that bell chime from nawa. fuckign
       - *Basil's last theme... has the neighbor motif.........* there is So Much Pain in this soundtrack
     note: |-
-      A bit more reaction-y than meta-y but w/e. After the <i>Yume Nikki</i> OST binged, watched ["This <span class="omo">Omori</span> Music Tier List will make you vibe (Part 2/3)"](https://piped.video/watch?v=gcHzO4YsOe8), which was my first impression for a good chunk of the Hikikomori-exclusive soundrack.
+      A bit more reaction-y than meta-y but w/e. After the <i>Yume Nikki</i> OST binge, watched ["This <span class="omo">Omori</span> Music Tier List will make you vibe (Part 2/3)"](https://piped.video/watch?v=gcHzO4YsOe8), which was my first impression for a good chunk of the Hikikomori-exclusive soundrack.
   - time: 2023-02-16 02:06
     msg: |-
       <em class="omo noi">oh forgot to mention</em> uhh, poooossible wrench in “aubrey got basil’s crush” theory: rain picture caption? the one where aubrey wouldn’t let kel under the umbrella. We Have Crumbs My Dude but it *does* suggest a degree of “mine. you be second,” which I at *least* figure applies to her sticking close to Omori even *before* day2’s sudden “hey let’s go on adventures together just the two of us! :star_eyes:” kicks in
@@ -344,7 +344,7 @@ msg:
       OH did I mention. angels in snow + it means everything motif --> that chord progression is actually signaling church/religion, not so much aubrey herself? that... makes sense I think, her first theme has *none* of it. she just gets uhhhh distorted noisy metal 8,)  
       ...actually, regardless, does anyone besides her and mari even *have* a musical motif? arguably omori's (and by extension sunny's?) is white/black space, the duet is a thing, but point is idk if kel or hero have motifs. i don't think they do... :thonk:
     note: |-
-      Honestly, considering the uncertainty here wrt "It Means Everything"'s motif, I wouldn't even say Aubrey has a theme; it's just Mari and "By Your Side." (The tierlist videos suggest Aubrey's motif is the "Lost at a Sleepover"/"Treehouse" theme, but I think that's more connected to the location than her specifically. Heavy ties there, mind, but that's for a later ramble...)
+      Honestly, considering the uncertainty here wrt "It Means Everything"'s motif, I wouldn't even say Aubrey has a theme; it's just Mari and "By Your Side." (The tierlist videos suggest Aubrey's motif is the "Lost at a Sleepover"/“Treehouse" theme, but I think that's more connected to the location than her specifically. Heavy ties there, mind, but that's for a later ramble...)
   - time: 2023-02-23 13:54
     msg: |-
       today's OMORI Heardle was [<span class="eta">["Bookcase"]</span>](https://omori.bandcamp.com/track/bookcase) and based on the bit before the piano note I thought it was the train. the train doesn't have an OST track but listening to it solo (it's on the fandom wiki) that <em class="omo noi">does</em> sound nearly identical. *huh*

@@ -69,7 +69,7 @@ log:
   - dt: 2023-04-01
     line: <a href="art/roundup-2023-03">March art roundup</a> is a thing.
   - dt: 2023-04-03
-    line: Made <a href="mari">a silly</a>, tweaked some stuff.
+    line: Made <a href="mari">a silly</a>.
   - dt: 2023-04-04
     line: Translated a thing...
     done: |-
@@ -136,7 +136,7 @@ log:
   - dt: 2023-07-05
     line: "Did some little things:"
     done: |-
-      - added TCRF to <a hre="links">the Links page</a>
+      - added TCRF to <a href="links">the Links page</a>
       - more Discord notedump meta
   - dt: 2023-07-08
     line: Jotted down <a href="meta/boss-rush">some meta</a>.
@@ -150,6 +150,10 @@ log:
     done: |-
       - finangled assorted Nitter links because Twitter sucks ass
       - meta: <a href="meta/hikikomori2">hikikomori2</a>
+  - dt: 2023-07-17
+    line: "Meta/hikikomori stuff continues:"
+    done: |-
+      - <a href="meta/hikikomori3">hikikomori3</a>, <a href="meta/hikikomori4">hikikomori4</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
