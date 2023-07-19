@@ -154,6 +154,11 @@ log:
     line: "Meta/hikikomori stuff continues:"
     done: |-
       - <a href="meta/hikikomori3">hikikomori3</a>, <a href="meta/hikikomori4">hikikomori4</a>
+  - dt: 2023-07-19
+    line: "Messed with some artstuff:"
+    done: |-
+      - <a href="art/roundup-2023-06">June roundup</a>
+      - <a href="art">index</a>: title text on thumbnails
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

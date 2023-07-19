@@ -11,8 +11,6 @@ o heck you found my note-to-self "things to be added eventually" page. nice
 	- have the index use pixel thumbnails on mobile/by default too
 - gif image sizing isn't ideal at suboptimal screenwidths, thiiink a background-size attribute should fix that
 	- don't forget to check the index+Mewo
-- ~~automate the custom css on meta pages, somehow... does this Have to have a convoluted if/unless tree~~
-	- if I end up overhauling the layout (not UNlikely, if only to adjust the contrast & line width. could even make it look more blog-ish...) then just slap a "meta0" variable onto existing pages and adjust from there
 - uhh. specific favicons maybe? don't have to go the full 9 yards with the generator but just for particular pages (thinking an inverted one for black-space, mari+omori; flag stripes on hrvatski; murdergaem would be funny as fuck with dot-eyed sunny from the stranger one)
 
 ## other pages
