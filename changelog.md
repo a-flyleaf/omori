@@ -159,6 +159,11 @@ log:
     done: |-
       - <a href="art/roundup-2023-06">June roundup</a>
       - <a href="art">index</a>: title text on thumbnails
+  - dt: 2023-07-20
+    line: "Meta pages:"
+    done: |-
+      - <a href="meta/hikikomori-addendump">addendump</a>
+      - <a href="meta/hikikomori5">hikikomori5</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

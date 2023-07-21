@@ -6,7 +6,7 @@ img:
   alt: Recycling is a concept. (back to homepage)
   title: Recycling is a concept. (back to homepage)
   link: a-space
-css: ".gif:hover,.gif:focus,.gif:active{background-image:url(assets/img/rcy_160.gif);} .box h2{font-size:1.15em; font-weight:bold;} #pg-img{padding-bottom:.5em;} #metanav{display:none;}"
+css: ".gif:hover,.gif:focus,.gif:active{background-image:url(assets/img/rcy_160.gif);} .box h2{font-size:1.15em; font-weight:bold;} #pg-img{padding-bottom:.5em;} #metanav{display:none;} #hk+p{margin-bottom:-.75em;}"
 ---
 &gt;makes site primarily to house this stuff  
 &gt;doesn't save any diddly darn place on the homepage to actually, like, Spotlight It
@@ -25,8 +25,12 @@ The rest will be, uh, less comprehensive. I think. Or at least less perfectionis
 ## the rest
 - <b>[is this a meta]({%include url.html%}/meta/not-meta)</b>: Revisited my save files, made some little observations throughout and also went on a pinwheel tangent.
 - <b>[boss rush speedrun]({%include url.html%}/meta/boss-rush)</b>: Notes on the Headspace bosses.
-- <span id="hk">actual hikikomori-playthrough notes:</span>
-	- [1: White Space → Ye Olde Sprout Mole]({%include url.html%}/meta/hikikomori1)
-	- [2: Basil's House → Pluto]({%include url.html%}/meta/hikikomori2)
-	- [3: Otherworld Campsite → shortcut to Junkyard]({%include url.html%}/meta/hikikomori3)
-	- [4: more Otherworld]({%include url.html%}/meta/hikikomori4)
+
+<h2 id="hk">hikikomori playthrough notes</h2>
+Written without much regard for prior context, nor do I usually bother to explain my various thought tangents or overall analytical process. That way perfectionism lies....
+- [1: White Space → Ye Olde Sprout Mole]({%include url.html%}/meta/hikikomori1)
+- [2: Basil's House → Pluto]({%include url.html%}/meta/hikikomori2)
+- [3: Otherworld Campsite → shortcut to Junkyard]({%include url.html%}/meta/hikikomori3)
+- [4: more Otherworld]({%include url.html%}/meta/hikikomori4)
+- [addendum dump]({%include url.html%}/meta/hikikomori-addendump)
+- [5: Junkyard → Download Window]({%include url.html%}/meta/hikikomori5)

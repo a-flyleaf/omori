@@ -42,7 +42,7 @@ addendum: |-
 
 ## Frozen Lake
 - that frozen lake-place<sup id="2-main">[[2]](#2)</sup> is such a weird little area and I am *very* curious to see how it comes into play later... btw the music uses the same motif as "It Means Everything," have I mentioned that. found it on a youtube comment<sup id="3-main">[[3]](#3)</sup> and my mind has not been at peace since.
-- <em class="omo">huh,</em> apparently the ghosts have flavor text! specifically: <q><span class="omo">Sunhat Ghost</span> looks around aimlessly as if it is lost.</q> *gee, sorta like a certain two-leafed recurring NPC...*
+- <em class="omo" id="lost-ghost">huh,</em> apparently the ghosts have flavor text! specifically: <q><span class="omo">Sunhat Ghost</span> looks around aimlessly as if it is lost.</q> *gee, sorta like a certain two-leafed recurring NPC...*
 
 <img src="https://cdn.discordapp.com/attachments/483318565022203904/1130580836723462314/image.png" alt="Screenshot of the flavor text quoted above. (This is entirely missable because the ghosts are walk-through, and until much later a first-time player wouldn’t know they’re NPCs and not random floating hats.)" title="Screenshot of the flavor text quoted above. (This is entirely missable because the ghosts are walk-through, and until much later a first-time player wouldn’t know they’re NPCs and not random floating hats.)">
 
