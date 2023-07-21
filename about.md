@@ -19,7 +19,7 @@ I spent over half the game thinking those squiggly little guys in White Space we
 - <b>Foe Facts</b>: Someone who refuses to be associated with a visual personae. A little obsessive.
 - ~~Favorite character~~ <b>Character tierlist<!--this can be a link later--> in a nutshell</b>: Aubrey & Kel \>\> Sunny/Omori & Basil > Mari & Hero (sorry. damned by lack of strong feelings, not active dislike)
 - <b>Favorite scenes</b>: "It Means Everything." (full church scene; before, during, and after) & Omori boss fight for the drama; ghost dance cutscene for the Top 10 Heartwarming Moments Before Certain Disaster
-- <b>Has played Hikikomori</b>: ~~Not yet....~~ As of July&nbsp;10, [heck yeah]({%include url.html%}/meta#hk)!
+- <b>Has played Hikikomori</b>: ~~Not yet....~~ As of July&nbsp;10, [it's a go]({%include url.html%}/meta#hk)!
 - <b>Plays piano</b>: With the aptitude of someone who's gotten really good at paint-by-numbers but doesn't understand anatomy. [Nonetheless, yes!]({%include url.html%}/piano)
 - <b>Other RPGs played</b>: [<i class="omo">Off</i>](https://off.fandom.com/wiki/OFF_Wiki), [<i class="omo">Undertale</i>](https://undertale.com/) + [<i style="font-style:normal;">deltarune</i>](https://deltarune.com/), and a handful of <i>Pokémon</i> installments
 - <b>Most likely to</b>:
@@ -35,7 +35,7 @@ I spent over half the game thinking those squiggly little guys in White Space we
 
 ## Thabks...
 ...to Omocat (studio, and also person) for making this beautiful thing.  
-...to my friend Weeb, with whom I had a hell of a Gaem Time.  
+...to <i lang="hr">[čovjek moj]({%include url.html%}/hrvatski/kuci)</i> Weeb, with whom I had a hell of a Gaem Time.  
 ...and to you, random internet denizen, for clicking around and finding out.
 
 ## Contact

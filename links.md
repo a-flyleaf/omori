@@ -36,7 +36,7 @@ Massive, *massive* pages detailing various content from the files that got cut a
 At the time of writing this is neither comprehensive nor well-organized, with [the Switch sprites being a separate page entirely](https://www.spriters-resource.com/nintendo_switch/omori/). But in a pinch, it loads a lot faster than the Fandom pages.
 - <b>[RPG-Maker Restore-Images](https://petschko.org/tools/mv_decrypter/)</b>  
 Not technically <span class="omo">Omori</span>-related, but if you own the game on Steam, you can use this to rip the sprite sheets yourself ;V (Requires familiarity with your Program Files to find the dang things. Might make a page/folder guide about this later....) (also see: [Unused Graphics at TCRF](https://tcrf.net/OMORI/Unused_Graphics) (main page linked above))
-	- music also! have yet to do this myself though, stay tuned....
+	- you can get the music this way, too! have yet to do that myself, though; stay tuned....
 - <b>[OST Heardle](https://omori-heardle-2-5.glitch.me/)</b>  
 Not technically a *resource,* I Just Think [It's Fun](heardle)
 </div>
