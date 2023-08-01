@@ -46,7 +46,7 @@ addendum: |-
 - anyway I totally missed this first game, I'm sure being underleveled (or at least not grossly *over*leveled) for it won't make me regret anything: <em class="omo">time to disrupt The Earth</em>
 	- damn it doesn't even have a different battle theme. anyway I don't remember if this is particularly hard (or not), *wish me luck*
 	- <q><span class="omo">The Earth</span> is cruel to <span class="omo">Omori</span>! <span class="omo">Omori</span> feels <span class="omo">Sad</span>...</q> *aw.*
-	- "oh this is pretty easy, it's slow going but we've whittled down the HP"[ultimate attack]<em class="omo">"What The Fu---"</em>  
+	- <a id="wtf"></a>"oh this is pretty easy, it's slow going but we've whittled down the HP"[ultimate attack]<em class="omo">"What The Fu---"</em>  
 	<img src="https://cdn.discordapp.com/attachments/483318565022203904/1129160722778165418/image.png" class="mg" alt="Screensot of the battle against The Earth, in which Aubrey is toast and the others are very close. Has the ominous near-death overlay and everything." title="Screensot of the battle against The Earth, in which Aubrey is toast and the others are very close. Has the ominous near-death overlay and everything.">
 	- <em class="omo">we were doing so well... everyone but Omori had full health (and his was still like 3/rths, thankfully) and it wasn't even a crit... the heck, man</em>
 	- <em class="omo i">twice in a row???? **bruhv**</em>
