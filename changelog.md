@@ -166,6 +166,8 @@ log:
       - writing: <a href="writing">index</a>, <a href="writing/no">[No title.]</a>
   - dt: 2023-08-01
     line: <a href="art/roundup-2023-06">July art roundup</a> is a thing.
+  - dt: 2023-08-02
+    line: <a href="art/headshots">Drew a thing</a>.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
