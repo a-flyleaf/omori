@@ -3,7 +3,7 @@ layout: base
 title: "[No title.]"
 permalink: writing/no
 
-css: ".wrap{max-width:37.5em; margin:1em auto; font-family:'noto sans',sans-serif;} h1{font-family:initial; font-weight:normal; margin:2em 0 5em; color:#bfbfbf;} p{line-height:1.5; margin:1em 0;} footer{margin-top:50em; margin-top:115vh;} ::selection{background:#fff; color:#efefef;} footer{text-align:center;} a{transition:2s;} a:focus,a:hover,a:active{opacity:.15; transition:1s; margin-left:-2em;}"
+css: ".wrap{max-width:39.5em; margin:1em auto; font-family:'noto sans',sans-serif; padding:0 1em;} h1{font-family:initial; font-weight:normal; margin:2em 0 5em; color:#bfbfbf;} p{line-height:1.5; margin:1em 0;} footer{margin-top:50em; margin-top:115vh;} ::selection{background:#fff; color:#efefef;} footer{text-align:center;} a{transition:2s;} a:focus,a:hover,a:active{opacity:.15; transition:1s; margin-left:-2em;}"
 ---
 <div class="wrap"><header><h1>No title.</h1></header>
 
