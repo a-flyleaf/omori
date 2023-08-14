@@ -11,11 +11,11 @@ css: "details{border:2px dashed #808080; padding:0 1em; margin:1em 0;} summary{m
 \>realizes that's the perfect excuse to do [that one "cast in your style" meme I've been eyeing for months](https://web.archive.org/web/20230711155453/https://nitter.net/heyitspegkat/status/1638785959452897282)  
 \>:o
 
-Didn't use the actual template for a couple reasons; firstly because I have no idea who made it (the version linked above doesn't seem to be the original; there are faint traces of someone else's art on it), and moreover because, as per [the fanwork policy](https://www.omori-game.com/en/updates), I try not to use official assets anywhere. Also, thought it'd be cool to do a sort of style comparison, one drawing (har har) more from the game canon and the other with more of my own liberties.
+Didn't use the actual template for a couple reasons; firstly because I have no idea who made it (the version linked above doesn't seem to be the original; there are faint traces of someone else's art on it), and moreover because, as per [the fanwork policy](https://www.omori-game.com/en/updates), I try not to use official assets anywhere. Also, thought it'd be cool to do a sort of style comparison, one which draws (har har) more from the game canon and the other with more of my own liberties.
 
 Incidentally I figure the Headspace crew looks more or less exactly as presented in-game, so! Twofold comparison combo >:3c
 
-Pencil-esque coloring style on the real-world took forever but was surprisingly fun! Relatively flat shading was ?inspired by (feels like the wrong word, nothing was directly referenced, but that these styles were In Mind at the time) the official talksprites + [Faraway fullbodies](https://web.archive.org/web/20230711154528/https://nitter.net/pic/orig/media%2FFWj7cDDVsAEVU4l.jpg), as well as various art by @udtcue (on [Tumblr](https://www.tumblr.com/udtcue/) + [(not-)Twitter](https://nitter.net/udtcue)).
+Pencil-esque coloring style on the real-world took forever but was surprisingly fun! Relatively flat shading was ?inspired by (feels like the wrong word, nothing was directly referenced, but these styles were In Mind at the time) the official talksprites + [Faraway fullbodies](https://web.archive.org/web/20230711154528/https://nitter.net/pic/orig/media%2FFWj7cDDVsAEVU4l.jpg), as well as various art by @udtcue (on [Tumblr](https://www.tumblr.com/udtcue/) + [(not-)Twitter](https://nitter.net/udtcue)).
 
 <details markdown="1"><summary>+additional unsolicited prattling</summary>
 It's kind of funny to me that I started drawing this crew all like "hmm, what do I do about art style," and now fast-forward over half a year later (?!!? *wth,* btw) and I think what it boils down to is

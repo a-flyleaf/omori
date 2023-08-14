@@ -335,7 +335,7 @@ shenanigans brought to you by [the murder game simulator](http://orteil.dashnet.
 <main markdown="1">
 <h2 id="gaem" class="nosho">da gaems</h2>
 <details class="gaem" id="r1" open><summary class="tog"><h3>round 1</h3></summary>
-{%for img in page.game1%}<figure><h4 class="nosho">{{img.title|downcase}}.png</h4><details><summary><img src="{%include url.html%}/assets/img/art/murder/1{{img.l}}-{{img.title|downcase}}.png" alt="" title="{{img.title|downcase}}.png"/></summary><figcaption>{{img.desc|markdownify}}</figcaption></details></figure>{%endfor%}
+{%for img in page.game1%}<figure><h4 class="nosho">{{img.title}}.png</h4><details><summary><img src="{%include url.html%}/assets/img/art/murder/1{{img.l}}-{{img.title|downcase}}.png" alt="" title="{{img.title|downcase}}.png"/></summary><figcaption>{{img.desc|markdownify}}</figcaption></details></figure>{%endfor%}
 <a class="backup" href="#r1">▲</a>
 </details>
 
