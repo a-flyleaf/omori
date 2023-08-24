@@ -2,8 +2,9 @@
 layout: hr
 title: itd.
 back: kuci
+next: lake
 
-css: "h1 [lang=hr]{font-style:italic;} small,#careful li ul{font-size:.85em;} #thanks-doc hr,#eye-see-you hr{display:none;} @media only screen and (min-width:600px){.cn2 .tr p{text-align:center;}} #careful figure:nth-of-type(3){text-transform:uppercase;} @media only screen and (min-width:500px){#w img{max-width:400px;}} #w figcaption p{font-size:.85em; text-align:center; margin-top:0;} #w [lang=hr]{font-style:normal;} #eye-see-you .note{max-width:100%; background:0; padding:0 1em;} #sve-ni-za-cemu .note p{text-align:center;}"
+css: "h1 [lang=hr]{font-style:italic;} small,#careful li ul{font-size:.85em;} #thanks-doc hr,#eye-see-you hr{display:none;} @media only screen and (min-width:600px){.cn2 .tr p{text-align:center;}} #careful figure:nth-of-type(3){text-transform:uppercase;} @media only screen and (min-width:500px){#w img{max-width:400px;}} #w figcaption p{font-size:.85em; text-align:center; margin-top:0;} #w [lang=hr]{font-style:normal;} #eye-see-you .note{max-width:100%; background:0; padding:0 1em;} #sve-ni-za-cemu .note p{text-align:center;} /*color wheee*/ #careful{background:#737474; color:#eef1d7} #careful h2{color:#b0b2a5;} #careful .an a{text-decoration-color:#92938d;} #careful .an a:focus,#careful .an a:hover,#careful .an a:active{color:inherit; opacity:.75;} #careful ::selection{background:#5D6060;}"
 
 h1: "<span lang='hr'>itd.</span> (etc.)"
 htxt: |-
@@ -144,6 +145,21 @@ scribs:
         <strong class="omo">All these years you were afraid of *nothing*</strong>
     an: |-
       "Ni o čemu" is not the big deal I drew it as: it means "about nothing." As for why the word <q lang="hr">ničemu</q> ("nothing," on its own) gets split? Grammatical shenanigans. Which are not actually that complicated now that I have context but, once more in the name of art, [Exaggerated Reaction Funney](https://knowyourmeme.com/memes/dramatic-dmitry)..\..
+  - dt: 2023-08-21
+    id: nja
+    typ: sn
+    imgs:
+    - alt: "Hero, driving, asks Sunny “Why does Basil call you [phrase in Croatian]?”. Thought box from Sunny: “You’re going to stop talking for a little while.”"
+      tr-hr: |-
+        <q lang="hr">moje malo miau miau</q>
+        
+        <span lang="hr">(molim ignoraj car Europi. hvala.)</span>
+      tr-en: |-
+        <q>my [little meow meow](https://knowyourmeme.com/memes/poor-little-meow-meow)</q>
+        
+        (please ignore the car of Europe. hvala.)
+    an: |-
+      Ripped shamelessly from [someone else's version](https://web.archive.org/web/20230824132530/https://nitter.net/lunectar/status/1536848167802634240). The note about the European car is because Hero's on the viewer's left, same as [the original meme](https://knowyourmeme.com/memes/why-does-x-call-you-babygirl).
 ---
 ČčĆćĐđŠšŽž
 …‘’“”—

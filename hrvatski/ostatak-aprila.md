@@ -100,7 +100,7 @@ scribs:
         - <q>question [indicator], no equivalent [word in English].</q>
         - <q>pants, [word is] feminine and plural.</q>
         
-        [If You Know [You Know](https://utrobadisease.tumblr.com/post/639581289868099584/wuffleton-puniper-does-anybody-have-that-one/amp).]
+        [If You Know [You Know](https://ghostar-jhostar.tumblr.com/post/649725324852133889/blobbcat-wuffleton-puniper-does-anybody-have).]
     an: |-
       I have learned some of the [<span lang="hr">Crni&nbsp;Prostor <span class="noi">riječi</span></span>](../hrvatski#crni-prostor). I handwrote each and every one, in that <span lang="hr" class="noi">Škrabotina</span>, no less than six times.
   - dt: 2023-04-27
