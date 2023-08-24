@@ -2,7 +2,7 @@
 slug: headshots
 title: "heck it. headshots"
 date: 2023-08-02
-da: 
+da: heck-it-headshots-977083097
 desc: |-
   Busts of the main cast, with Headspace versions mimicking the talksprites in small squares next to larger, older versions.
 css: "details{border:2px dashed #808080; padding:0 1em; margin:1em 0;} summary{margin:.5em 0;} details ul{margin-top:-.5em;}"
