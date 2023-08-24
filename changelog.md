@@ -168,6 +168,8 @@ log:
     line: <a href="art/roundup-2023-06">July art roundup</a> is a thing.
   - dt: 2023-08-02
     line: <a href="art/headshots">Drew a thing</a>.
+  - dt: 2023-08-23
+    line: <a href="art/banana">Drew a thing</a>.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
