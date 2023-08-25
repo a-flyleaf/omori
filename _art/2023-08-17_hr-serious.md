@@ -2,7 +2,7 @@
 slug: hr-serious
 title: serious škrabotina… wow….
 date: 2023-08-17
-da: 
+da: talking-idek-what-to-call-this-978881293
 big: y
 desc: |-
   Comic in which Basil and Aubrey have a talk by the lake. Description & full translation on the page linked below.

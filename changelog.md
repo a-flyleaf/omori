@@ -55,7 +55,7 @@ log:
     done: |-
       - backend image folder shuffling
       - new page: [Heardle](heardle)
-      - words: meta <a href="meta">index</a>, <a href="meta/intropost">intropost</a>, <a href="meta/playground">playground</a>, <a href="meta/not-playground">not-playground</a>
+      - words: meta [index](meta), [intropost](meta/intropost), [playground](meta/playground), [not-playground](meta/not-playground)
   - dt: 2023-03-03
     line: Revised (effectively rewrote) <a href="meta/not-playground">a post from yesterday</a>.
   - dt: 2023-03-04
@@ -71,26 +71,26 @@ log:
   - dt: 2023-04-03
     line: Made <a href="mari">a silly</a>.
   - dt: 2023-04-04
-    line: Translated a thing...
+    line: "Translated a thing:"
     done: |-
-      - <a href="art/hr-tr">standalone art version</a>
-      - <a href="hrvatski/tr-v0">version with commentary</a>
+      - [standalone art version](art/hr-tr)
+      - [version with commentary](hrvatski/tr-v0)
   - dt: 2023-04-07
     line: "Drew some stuff:"
     done: |-
-      - improved <a href="mari">the silly</a> :)
-      - unrelated art: <a href="art/aub3">untitled thing</a>
+      - improved [the silly](mari) :)
+      - unrelated art: [untitled thing](art/aub3)
   - dt: 2023-04-20
     line: Finished drawing <a href="art/au-thing">a thing</a>.
   - dt: 2023-04-23
     line: "Did assorted things:"
     done: |-
-      - page draft: <a href="piano">piano</a>
-      - <a href="omori">Omori (Omori)</a>
+      - page draft: [piano](piano)
+      - [Omori (Omori)](omori)
   - dt: 2023-04-25
     line: Updated the piano thing.
     done: |-
-      - art: <a href="art/h20">standalone gif</a>
+      - art: [standalone gif](art/h20)
   - dt: 2023-05-01
     line: <a href="hrvatski/ostatak-aprila" lang="hr"><i>Jezik je <span lang="en">(still)</span> pojam!</i></a>
   - dt: 2023-05-02
@@ -99,7 +99,7 @@ log:
     line: Made pages for some things from earlier in the month.
     done: |-
       - <span lang="hr">hrvatski</span>... 3! (incomplete)
-      - art: <a href="art/kel">Kel.</a>
+      - art: [Kel.](art/kel)
       - some murder game nonsense (incomplete)
   - dt: 2023-05-23
     line: <a href="art/aubey">Drew a thing</a>.
@@ -109,26 +109,26 @@ log:
     line: "Finished some pages:"
     done: |-
       - <span lang="hr">hrvatski</span>:
-        - <a href="hrvatski/kuci">new homepage</a>
-        - finished <a href="hrvatski/yaoi">yaoi.</a> (+<a href="art/hr-yaoi">standalone art version</a>)
+        - [new homepage](hrvatski/kuci)
+        - finished [yaoi.](hrvatski/yaoi) (+[standalone art version](art/hr-yaoi))
         - converted older pages to new layout
-      - <a href="murdergaem">murder game nonsense</a>
+      - [murder game nonsense](murdergaem)
   - dt: 2023-06-08
     line: Working on stuff.
     done: |-
-      - art: <a href="art/roundup-2023-05">May roundup</a>
-      - page draft: <a href="achievements">achievements</a>
-      - meta: <a href="meta/voicemail">voicemail</a>
+      - art: [May roundup](art/roundup-2023-05)
+      - page draft: [achievements](achievements)
+      - meta: [voicemail](meta/voicemail)
   - dt: 2023-06-10
     line: Did some meta stuff.
     done: |-
-      - <a href="meta/impasse">coda.</a>
+      - [coda.](meta/impasse)
       - started a Discord notedump page that will never be 100% complete
   - dt: 2023-06-27
     line: Things continue to be concepts.
     done: |-
       - removed "fix" notes from this page
-      - art: <a href="art/august-water">August/Water</a>
+      - art: [August/Water](art/august-water)
   - dt: 2023-06-28
     line: Wrote <a href="meta/not-meta">a meta(?)post</a>.
   - dt: 2023-07-02
@@ -136,7 +136,7 @@ log:
   - dt: 2023-07-05
     line: "Did some little things:"
     done: |-
-      - added TCRF to <a href="links">the Links page</a>
+      - added TCRF to [the Links page](links)
       - more Discord notedump meta
   - dt: 2023-07-08
     line: Jotted down <a href="meta/boss-rush">some meta</a>.
@@ -144,32 +144,38 @@ log:
     line: "Did more meta stuff:"
     done: |-
       - backend layout changes
-      - actual meta post: <a href="meta/hikikomori1">hikikomori1</a>
+      - actual meta post: [hikikomori1](meta/hikikomori1)
   - dt: 2023-07-11
     line: "Even more stuff:"
     done: |-
       - finangled assorted Nitter links because Twitter sucks ass
-      - meta: <a href="meta/hikikomori2">hikikomori2</a>
+      - meta: [hikikomori2](meta/hikikomori2)
   - dt: 2023-07-17
     line: "Meta/hikikomori stuff continues:"
     done: |-
-      - <a href="meta/hikikomori3">hikikomori3</a>, <a href="meta/hikikomori4">hikikomori4</a>
+      - [hikikomori3](meta/hikikomori3), [hikikomori4](meta/hikikomori4)
   - dt: 2023-07-19
     line: "Messed with some artstuff:"
     done: |-
-      - <a href="art/roundup-2023-06">June roundup</a>
-      - <a href="art">index</a>: title text on thumbnails
+      - [June roundup](art/roundup-2023-06)
+      - [index](art): title text on thumbnails
   - dt: 2023-07-20
     line: "Cleaned up some stuff:"
     done: |-
-      - meta: <a href="meta/hikikomori-addendump">addendump</a>, <a href="meta/hikikomori5">hikikomori5</a>
-      - writing: <a href="writing">index</a>, <a href="writing/no">[No title.]</a>
+      - meta: [addendump](meta/hikikomori-addendump), [hikikomori5](meta/hikikomori5)
+      - writing: [index](writing), [[No title.]](writing/no)
   - dt: 2023-08-01
     line: <a href="art/roundup-2023-06">July art roundup</a> is a thing.
   - dt: 2023-08-02
     line: <a href="art/headshots">Drew a thing</a>.
   - dt: 2023-08-23
     line: <a href="art/banana">Drew a thing</a>.
+  - dt: 2023-08-24
+    line: "Finished some <i lang='hr'>hrvatski</i> things:"
+    done: |-
+      - [standalone art version](art/hr-serious)
+      - [version with translation](hrvatski/lake)
+      - ’nother page (incomplete)
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

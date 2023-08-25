@@ -3,11 +3,11 @@ layout: hr
 title: A talk by a lake.
 back: kuci
 
-css: "#h-info span{display:block;} small{display:block; margin-top:1.5em; font-size:.85em; font-style:italic;} h2{display:none;} figure{padding-top:1em; margin-bottom:0 !important;} article{background:#635e56; color:#dfd8c9;} figure:nth-child(3) p:first-child{margin-bottom:1em;} figure ::selection{background:#443F39;}"
+css: "#h-info .ln{display:block;} small{display:block; margin-top:1.5em; font-size:.85em; font-style:italic;} h2{display:none;} figure{padding-top:1em; margin-bottom:0 !important;} article{background:#635e56; color:#dfd8c9;} figure:nth-child(3) p:first-child{margin-bottom:1em;} figure ::selection{background:#443F39;}"
 
 h1: "A talk by a lake."
 htxt: |-
-  <i lang="hr">Ne Mogu Vjerovati Da Nije Shitpost™!</i> <span>(I Can't Believe It's Not A Shitpost™!)</span>
+  <span class="ln"><i lang="hr">Ne Mogu Vjerovati Da Nije <span lang="en">Shitpost™</span>!</i> <span class="ln">(I Can't Believe It's Not A Shitpost™!)</span>
   
   <small>[Image description note: Because nearly all dialogue is in Croatian, alt text only describes the visuals.]</small>
 
@@ -18,15 +18,10 @@ scribs:
     - alt: "Fade in: lakeside, light dusk. Basil and Aubrey stand over the water's edge, talking; calm, if (at least on Basil’s end) uneasy."
       img: "_a"
       tr-hr: |-
-        <span class="omo">Basil</span>: <q lang="hr">Bez brige, bez brige!!</q>
-        
-        <span class="omo">Basil</span>: <q lang="hr">Sve je... more *ispod* most.</q>  
-        <span class="omo">Aubrey</span>: <q>("Sea under th"...)</q>  
-        <span class="omo">Aubrey</span>: <q>Oh, uh---<q lang="hr">voda</q>?</q>  
-        <span class="omo">Aubrey</span>: <q>'Water.'</q>
+        <span class="omo">Basil</span>: <q lang="hr">Bez brige, bez brige!!</q>  
+        <span class="omo">Basil</span>: <q lang="hr">Sve je... more *ispod* most.</q>
       tr-en: |-
-        <span class="omo">Basil</span>: <q>No worries, no worries!!</q>
-        
+        <span class="omo">Basil</span>: <q>No worries, no worries!!</q>  
         <span class="omo">Basil</span>: <q>Everything is... sea *under* the bridge.</q>
       fn: |-
         "Water under the bridge" is not a Croatian idiom. Basil using it anyway is intentional.
