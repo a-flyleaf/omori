@@ -5,6 +5,8 @@ slug: not-playground
 css: "figcaption{max-width:400px; margin:-1em auto 0;} main li{margin:.25em 0;} hr{margin:3em 0 2em;} hr+h2{font-size:1.25em !important; font-style:italic; color:#bfbfbf !important;}"
 m-ver: 0
 layout: ws-text
+lb: y
+back: meta#lb
 ---
 Oh. Hm. This is going to be a novel series by the time it's done, isn't it?
 

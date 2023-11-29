@@ -5,6 +5,8 @@ slug: intermission
 css: ".box h3{font-size:1.15em; margin:.5em 0 -.25em;} h2+.para{margin-top:-.5em;} .box ul{margin-top:-.85em;}"
 m-ver: 0
 layout: ws-text
+lb: y
+back: meta#lb
 ---
 Before we continue into the living hell that is the acrophobia sequence, some additional notes that didn't really fit at the end of last post:
 

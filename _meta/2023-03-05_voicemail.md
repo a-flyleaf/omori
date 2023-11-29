@@ -5,6 +5,8 @@ slug: voicemail
 css: "hr:first-of-type{margin-top:2em;} #dumpage{max-width:75%; margin:2em auto;} #dumpage hr{max-width:50%; margin:1.5em auto;} br{margin-bottom:.35em;} .note-self{font-family:consolas,monospace; font-size:.85em;} ul .dc{padding:.25em .5em;} ul .dc:first-child{margin-top:-.15em !important;} #dumpage li{margin:.5em 0;}"
 m-ver: 0
 layout: ws-text
+lb: y
+back: meta#lb
 ---
 [archivist's note, June 8: This was written in its entirety on March 5, a mere day after [the last post](intermission). It languished unformatted, unfinished, for -checks watch- All These Weeks, and is being dredged up now without much polish because I just wanna have it *out* tbh.
 

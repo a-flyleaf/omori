@@ -127,7 +127,7 @@ log:
   - dt: 2023-06-27
     line: Things continue to be concepts.
     done: |-
-      - removed "fix" notes from this page
+      - removed minor/unspecified fix-notes from this page
       - art: [August/Water](art/august-water)
   - dt: 2023-06-28
     line: Wrote <a href="meta/not-meta">a meta(?)post</a>.
@@ -177,7 +177,10 @@ log:
       - [version with translation](hrvatski/lake)
       - ’nother page (incomplete)
   - dt: 2023-11-28
-    line: Updated <a href="black-space">Black&nbsp;Space</a> to reflect Fandom wiki changes & fix images.
+    line: "Fixed some things:"
+    done: |-
+      - <a href="black-space">Black&nbsp;Space</a>: updated to reflect Fandom wiki changes & fix images
+      - <a href="meta">meta</a>: fixed broken navigation on pre-hikikomori posts
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

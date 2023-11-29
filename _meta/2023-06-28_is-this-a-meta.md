@@ -5,6 +5,7 @@ slug: not-meta
 css: ".box figure{margin-top:1em;} /*ACHIEVEMENTS*/ #ach{background:#fff; font-family:initial; color:initial; font-size:initial; line-height:initial;} #sum{padding:1em;} #sum:hover,#sum:focus,#sum:active{opacity:.5;} #ach-c{padding:0 1em .5em;} #ach h2{color:initial; font-size:1.5em; font-weight:bold;} #ach ul{margin:0 0 0 1.5em;} #ach ::selection{background:#dfdfdf; color:initial;} /*copypasted:*/ .ach{border:1px solid #bfbfbf; padding:.25em .5em; margin:1em 0;} summary{cursor:pointer;} summary h2{display:inline;} .task-list{list-style-type:none; margin:0 0 0 1.25em; padding:0;} .task-list li{margin:.5em 0; text-indent:-1.5em;} input{margin-right:.5em;} h3{margin-bottom:0;} /*end-A*/ em.omo{font-style:normal;} .box>ul li{margin:.25em 0;}"
 m-ver: 0
 layout: ws-text
+back: meta
 ---
 No; no, this is not what I would call A&nbsp;Meta at all. But it's going in here because I don't know where else to put it :V <!--should have a new layout later!!-->
 
