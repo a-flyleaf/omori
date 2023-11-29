@@ -177,10 +177,11 @@ log:
       - [version with translation](hrvatski/lake)
       - ’nother page (incomplete)
   - dt: 2023-11-28
-    line: "Fixed some things:"
+    line: "Tweaked some things:"
     done: |-
       - <a href="black-space">Black&nbsp;Space</a>: updated to reflect Fandom wiki changes & fix images
       - <a href="meta">meta</a>: fixed broken navigation on pre-hikikomori posts
+      - <a href="art">art index</a>: display pixel thumbnails on smaller screens
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">

@@ -1,17 +1,18 @@
 ---
 layout: none
 ---
-<style>del{color:#bfbfbf;}</style>
+<style>del{color:#bfbfbf;} code{border:1px solid #bfbfbf; padding:0 .25em;}</style>
 
 # TBA
 o heck you found my note-to-self "things to be added eventually" page. nice
 
 ## stuff to fix/edit
 - oh wait duh, on the art pages: just have thumbnails for current/next/prev? idk I just think the long box looks Worse with multiple rows, it feels too "more like this"-y and if people wanna see Everything that's what the art index is for
-	- have the index use pixel thumbnails on mobile/by default too
+	- ~~have the index use pixel thumbnails on mobile/by default too~~ DONE but keeping this as a reminder for a potential revamp... idk maybe the next version will have only highlights (with little descriptions!) on the index, then a thumbnail wall
 - gif image sizing isn't ideal at suboptimal screenwidths, thiiink a background-size attribute should fix that
 	- don't forget to check the index+Mewo
 - uhh. specific favicons maybe? don't have to go the full 9 yards with the generator but just for particular pages (thinking an inverted one for black-space, mari+omori; flag stripes on hrvatski; murdergaem would be funny as fuck with dot-eyed sunny from the stranger one)
+	- try `if layout.favicon==true or page.favicon==true`?
 
 ## other pages
 linked on the index via ~~mini door, draw a new one~~ oh what if it's a key actually
@@ -33,7 +34,7 @@ linked on the index via ~~mini door, draw a new one~~ oh what if it's a key actu
 linked somewhere, but nowhere specific
 - [Black Space area ref]({%include url.html%}/black-space)
 - [OMORI ALTER]({%include url.html%}/art/omori-alter), if I end up with multiple art-offshoot pages
-	- ok well. there's [murdergaem]({%include url.html%}/murdergaem) now ig. and maaaaybe the hrvatski comics idek
+	- ok well. there's [murdergaem]({%include url.html%}/murdergaem) now ig. and maaaaybe the hrvatski comics idek, i feel like those don't really need standalone pages but it's nice to have a single-image version for smoother reading
 - [Heardle]({%include url.html%}/heardle)
 - [Hrvatski saga]({%include url.html%}/hrvatski)
 - [Mari.]({%include url.html%}/mari)

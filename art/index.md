@@ -20,6 +20,6 @@ css: "body{background:#808080 url(../assets/img/bg-art2.png); text-align:center;
 	_128: that exact size, or proportionate & downscaled (128, 256, 384...)
 	_64: 128 down to 32, then back--adds a bit of pixelation but shouldn't look censored
 	-->
-	<section id="roco">{%for art in site.art%}<a href="{%include url.html%}/art/{{art.slug}}" title="{{art.title}}"{%if art.class contains 'dark'%} class="dark-b"{%endif%}><div><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}_128.png" alt="{{art.title}}"></div></a>{%endfor%}
+	<section id="roco">{%for art in site.art%}<a href="{%include url.html%}/art/{{art.slug}}" title="{{art.title}}"{%if art.class contains 'dark'%} class="dark-b"{%endif%}><div><picture><source media="(max-width:600px)" srcset="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}_64.png"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}_128.png" alt="{{art.title}}"></picture></div></a>{%endfor%}
 	</section>
 </main>
