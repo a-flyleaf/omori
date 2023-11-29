@@ -1,7 +1,7 @@
 ---
 layout: ws
 title: "Close enough./Dovoljno blizu."
-back: hrvatski
+back: changelog
 css: "body{background:#1e1f22; font-family:verdana,sans-serif; line-height:1.65; color:#e0e1e5; text-align:center;} /*hr*/ [lang=hr]{font-style:italic;} [lang=hr] [lang=en]{font-style:normal;} [lang=hr] em,[lang=hr] strong{text-transform:uppercase;} /*header+footer*/ footer{font-size:.75em;} header{margin:0 auto;} h1{font-size:2em; line-height:1.25; padding:.5em 0;} h1 span{display:inline-block;} /*layout*/ article{background:#bcb3a3; max-width:850px; margin:2em auto; font-size:.85em; color:#4a3d2a; padding:.5em;} article ::selection{background:#aaa08e; color:inherit;} h2{font-weight:normal; padding:0 0 .5em; font-size:.85em;} .imgs{margin:.25em 0;} .imgs a:hover,.imgs a:focus,.imgs a:active{opacity:.5;} article p{text-align:left;} figcaption{padding:.5em; color:inherit;} .flag{float:left; margin-right:.5em;} .tr p{margin:.35em 0 .35em 1.5em; line-height:1.35;} hr{opacity:0;} .an{margin-top:-.5em; line-height:1.35;} #fin .an{margin-bottom:-1em;} article a:hover,article a:focus,article a:active{color:#866147;} #end{background:#313338; border-radius:.25em; max-width:850px; margin:0 auto; padding:1em; line-height:1.5;} #end div{margin:-1em 0;} #end q{font-weight:bold;} #end ul{margin:1em 0 1.15em; list-style-type:none;} #end li{margin:.5em 0;} /*bigger*/ @media only screen and (min-width:550px){figcaption{font-size:1em; max-width:27.5em; margin:-.5em auto 0;} .an{font-size:.85em; margin-left:1.75em; padding-right:3.25em;} #fin .an{margin-bottom:-.5em;}} /*next*/ #nx{margin-top:2em;} #nx a:hover,#nx a:focus,#nx a:active{opacity:.75;}"
 
 scribs:
@@ -76,7 +76,7 @@ scribs:
 ---
 <header markdown="1">
 # <span>Close enough.</span> – <span lang="hr">Dovoljno blizu.</span>
-Part of the ongoing <a href="{%include url.html%}/hrvatski">Croatian/<span lang="hr">hrvatski</span> saga</a>. My ever-patient friend & teacher Weeb asked me to translate a sentence..\..
+Part of the ongoing <a href="index-v0">Croatian/<span lang="hr">hrvatski</span> saga</a>. My ever-patient friend & teacher Weeb asked me to translate a sentence..\..
 </header>
 <main><article><h2>2023/04/04</h2>{%for scrib in page.scribs%}<figure{%if scrib.id%} id="{{scrib.id}}"{%endif%}><div class="imgs"><a href="{%include url.html%}/assets/img/hr/2023-04-04/{{scrib.img}}.png"><img src="{%include url.html%}/assets/img/hr/2023-04-04/{{scrib.img}}.png" alt="{{scrib.alt}}"></a></div><figcaption>{%if scrib.tr-hr%}<div class="tr"><div class="tr-hr"><span class="flag">🇭🇷</span>{{scrib.tr-hr|markdownify}}</div><div class="tr-en"><span class="flag">🇺🇸</span>{{scrib.tr-en|markdownify}}</div></div>{%endif%}{%if scrib.an%}<hr><div class="an">{{scrib.an|markdownify}}</div>{%endif%}</figcaption></figure>{%endfor%}</article><div id="end"><div markdown="1">
 The sentence was <q>Mari is listening to the violin playing of her brother Sunny.</q>

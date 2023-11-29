@@ -4,10 +4,18 @@ title:
 back: kuci
 next: 
 
-css: "#biljke{background:#d2d4bc; background:linear-gradient(#d2d4bc,#d7d0b5); color:#60571a;} #biljke h2{color:#776f32;} #biljke ::selection{background:#bcb996; color:#60571a;} #biljke a{text-decoration-color:#bcb996;} #biljke .note a{text-decoration-color:#6c6e72;} #biljke a:hover,#biljke a:active,#biljke a:focus{color:inherit; opacity:.5;} #biljke em.omo,.nob{font-weight:normal !important;} #biljke .tr-en em.omo strong{font-style:italic; font-weight:normal;} #mlijeko .note p{text-align:center;} #mlijeko hr{display:none;} .noi [lang=hr]{font-style:normal;}"
+css: "#biljke{background:#d2d4bc; background:linear-gradient(#d2d4bc,#d7d0b5); color:#60571a;} #biljke h2{color:#776f32;} #biljke ::selection{background:#bcb996; color:#60571a;} #biljke a{text-decoration-color:#bcb996;} #biljke .note a{text-decoration-color:#6c6e72;} #biljke a:hover,#biljke a:active,#biljke a:focus{color:inherit; opacity:.5;} #biljke em.omo,.nob{font-weight:normal !important;} #biljke .tr-en em.omo strong{font-style:italic; font-weight:normal;} #mlijeko .note p{text-align:center;} #mlijeko hr{display:none;} .noi [lang=hr]{font-style:normal;}
+/*TEMP*/ header .wrap div{color:yellow;} header .wrap div p:first-child{margin-bottom:1em;}"
 
 h1: "???"
-htxt: ??
+htxt: |-
+  [when I get around to updating this it can probably safely be called The Milk Steak Saga or similar. not that it's much of a "saga" but it shows up more than once]
+  
+  +other notes that are better put here than languishing in discord:
+  - wait fuck the lake comic should have a full transcription, if only hidden in the code. ima ne smisla bez image
+  - "milk steak" = Steak Mlijeka, NE "mlijeko steak-a"... oops.
+  - "he doesn't even like tofu!" = "Njemu se ni ne sviđa tofu!" (uncorrected jer,, Jest Basil)
+  - Prijatelji Nemoj Dopustiti Prijateljima Uživati U Mlijeku Steaka
 
 scribs:
   - dt: 2023-08-22

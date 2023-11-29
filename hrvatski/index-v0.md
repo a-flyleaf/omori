@@ -1,7 +1,7 @@
 ---
 layout: ws
 title: "Language is a Concept!/Jezik je Pojam!"
-back: art/roundup-2023-03
+back: changelog
 css: "/*layout*/ body{background:#1e1f22; font-family:verdana,sans-serif; line-height:1.65; color:#e0e1e5; text-align:center;} /*hr*/ [lang=hr]{font-style:italic;} [lang=hr] [lang=en],.noi{font-style:normal;} [lang=hr] em{font-weight:bold;} .nob{font-weight:normal !important;} [lang=hr] em strong{text-transform:uppercase;} /*layout*/ footer{font-size:.75em;} header{margin:0 auto;} h1{font-size:2em; line-height:1.25; padding:.5em 0;} article{background:#313338; border-radius:.25em; max-width:850px; margin:1em auto; padding:1em;} h2{font-weight:normal; color:#82858f; font-size:.85em;} .imgs{margin:1em 0;} .imgs a:hover,.imgs a:focus,.imgs a:active{opacity:.5;} article p{text-align:left;} .tr{overflow:auto; padding:0 1em .5em;} .imgs img{border-radius:5px;} .tr div{width:50%; float:left;} .tr-hr{padding-right:.5em;} .tr-en{padding-left:.5em;} .flag{display:block; margin-bottom:-1em;} .an{padding:.75em 1em 0;} /*decoration*/ article p a{background:#4e5058; padding:0 .25em; text-decoration:none; border-radius:.25em; margin:0 -.1em;} article p a:hover,article p a:focus,article p a:active{color:#fff; background:#5865f2;} article u{text-decoration-thickness:.125em; text-decoration-color:#888a8e;} article s{color:#82858f} /*tiny*/ @media only screen and (max-width:550px){.tr{padding:0 0 .5em;} .an{padding:.75em 0 0; margin-bottom:-1em;} .tr div{width:100%; padding:0;}} /*next*/ #nx{margin-top:2em;} #nx a:hover,#nx a:focus,#nx a:active{opacity:.75;}"
 
 scribs:

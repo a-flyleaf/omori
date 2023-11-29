@@ -7,6 +7,7 @@ css: "/*core*/ body{font-family:'comic sans ms',sans-serif; font-size:18px; back
 /*content*/ .nosho{opacity:0; height:0; overflow:hidden;} h2,h3{text-transform:uppercase; font-size:1.25em; letter-spacing:.05em;}
 .tog{padding:.5em 0;} .tog:focus,.tog:hover,.tog:active,.backup:hover,.backup:active,.backup:focus{background:rgba(0,0,0,.25); outline-color:#33e0ff;}
 details>summary{list-style:none; color:#33e0ff;} details>summary::marker,details>summary::-webkit-details-marker{display:none;} summary:hover,summary:active,summary:focus{opacity:.95;} figure summary{display:inline-block; line-height:0; cursor:default;}
+.gaem>summary::after{content:'▼'; display:block; margin-top:.5em;} .gaem[open]>summary::after{content:none;}
 figure{text-align:center;} figcaption{max-width:800px; margin:0 auto; font-size:16px;} figcaption a{text-decoration:none;}
 .whomst{font-weight:bold;} blockquote{font-family:'century schoolbook',times,serif; background:#000; background:rgba(0,0,0,.35); margin:.5em; padding:.5em;} small{color:#b2a196;} figcaption p{margin:.5em 0;}
 figure:last-of-type,figure:last-of-type figcaption{margin-bottom:0 !important;} .backup{text-decoration:none; display:inline-block; padding:.5em;}
