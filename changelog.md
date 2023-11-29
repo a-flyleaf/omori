@@ -19,7 +19,7 @@ log:
       - code: core layouts/site setup
       - full page: [splash (index.html)](index.html)
       - words: main content (full about & links, notes for other pages)
-      - full page: [Black Space reference table](black-space)
+      - full page: [Black&nbsp;Space reference table](black-space)
   - dt: 2023-02-21
     line: Continued working on site.
     done: |-
@@ -176,12 +176,14 @@ log:
       - [standalone art version](art/hr-serious)
       - [version with translation](hrvatski/lake)
       - ’nother page (incomplete)
+  - dt: 2023-11-28
+    line: Updated <a href="black-space">Black&nbsp;Space</a> to reflect Fandom wiki changes & fix images.
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
 		<header><h1>Changelog</h1><a href="a-space">✕</a></header>
 		<hr>
-		<main>{%for log in page.log%}<article><h2>{{log.dt}}</h2><p><span>Today I thought about <span class="omo">Omori</span>.</span> <span>{{log.line}}</span></p>{%if log.done%}<div class="done">{{log.done|markdownify}}</div>{%endif%}</article>{%endfor%}</main>
+		<main>{%for log in page.log%}<article><h2>{{log.dt}}</h2><p><span>Today I updated the <span class="omo">Omori</span> site.</span> <span>{{log.line}}</span></p>{%if log.done%}<div class="done">{{log.done|markdownify}}</div>{%endif%}</article>{%endfor%}</main>
 	</div><div id="bar">
 		<a href="https://unsplash.com/photos/4Zaq5xY5M_c" class="lt-box">BG credit</a>
 		<div class="lt-box">2023</div>

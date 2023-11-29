@@ -2,67 +2,69 @@
 layout: ws
 title: Black Space, but with the areas titled as the game code intended.
 permalink: black-space
-css: "body{font-family:courier,monospace; background:#000; color:#fff; line-height:1.5;} ::selection{background:#000; color:red;} h1{font-size:1.5em; line-height:1.25; max-width:22.5em;} #desc{max-width:50em; font-size:.85em;} a{text-decoration-color:#808080;} th{font-weight:normal; text-transform:uppercase;} td.omo a{text-decoration:none;} th:last-child{text-align:left;} th,td{padding:0 .5em;} td.omo{text-align:center;} .img a:focus,.img a:hover,.img a active{opacity:.5;} .img img{border:1px solid #404040;} td:last-child{padding:.5em;} .bs-note{color:#dfdfdf; text-align:center; font-size:.75em; padding:0 !important;} .bs-note p{margin:0 .5em 1.5em;} @media only screen and (min-width:825px){td:last-child .nm{margin-top:-1em;}} ul{line-height:1.25;} hr{max-width:50em; margin:1em 0;} @media only screen and (min-width:1000px){#melt{background:url(assets/img/bs-omori-static.png); height:448px; width:286px; position:fixed; bottom:-71px; left:950px;}}"
+css: "body{font-family:courier,monospace; background:#000; color:#fff; line-height:1.5;} ::selection{background:#000; color:red;} h1{font-size:1.5em; line-height:1.25; max-width:22.5em;} #desc{max-width:50em; font-size:.85em;} a{text-decoration-color:#808080;} th{font-weight:normal; text-transform:uppercase;} td.omo a{text-decoration:none;} th:last-child{text-align:left;} th,td{padding:0 .5em;} td.omo{text-align:center;} .img a:focus,.img a:hover,.img a active{opacity:.5;} .img img{border:1px solid #404040;} td:last-child{padding:.5em;} .bs-note{color:#dfdfdf; text-align:center; font-size:.75em; padding:0 !important;} .bs-note p{margin:0 .5em 1.5em;} @media only screen and (min-width:825px){td:last-child .nm{margin-top:-1em;}} ul{line-height:1.25;} hr{max-width:50em; margin:1em 0;} @media only screen and (min-width:1000px){#melt{background:url(assets/img/bs-omori-static.png); height:448px; width:286px; position:fixed; bottom:-71px; left:950px;}}
+del{color:#bfbfbf; font-size:.85em; display:block; margin-bottom:.5em;}"
 dark: y
 
 area:
-- wiki: pain
+- wiki: static world
+  imgfix: STATIC_WORLD
   file: suspense
   mapid: 448
-  img: 3/30/PAIN_AREA.png
+  img: a/aa/STATIC_WORLD.png
   ost:
     nm: Fleur
     yt: "_1hnWBULqR4"
     ext: C7AkMXqlm4U
-- wiki: disco
-  file: subconscious spill
+- file: subconscious spill
   mapid: 445
-  img: 1/17/DISCO_AREA.png
+  img: 4/4f/SUBCONSCIOUS_SPILL.png
   ost:
     nm: Distance
     yt: 0PzXw9b40P8
     ext: ye33CJx1oWU
-- wiki: scribble
-  file: looping black field
+- file: looping black field
   mapid: 265
-  img: 5/5d/SCRIBBLE_AREA.png
+  img: 5/59/LOOPING_BLACK_FIELD.png
   ost:
     nm: Drone
     yt: O8tPpbqFwtI
     ext: Zq01hq7yEzQ
-- wiki: town
+- wiki: the neighborhood
+  imgfix: TOWN_AREA
   file: neighborhood
   mapid: 505
-  img: 3/32/TOWN_AREA.png
+  img: 8/85/THE_NEIGHBORHOOD.png
   ost:
     nm: Calm
     yt: Reo1K7xouBY
     ext: 7belT3MRC5w
-- wiki: backyard
-  file: forest of stumps
+- file: forest of stumps
+  imgfix: BACKYARD_AREA
   mapid: 454
   img: b/bf/BACKYARD_AREA.png
   ost:
     nm: Glade
     yt: 8a8Ev1DmWVE
     ext: fyBF5oiN7io
-- wiki: punishment
-  file: cat dissection
+- file: cat dissection
+  imgfix: PUNISHMENT_AREA
   mapid: 451
   img: 5/53/PUNISHMENT_AREA.png
   ost:
     nm: 56-12-2
     yt: RHraiUG3vFY
     ext: okd0w8xUxKU
-- wiki: watermelon
-  file: watermelon path
+- file: watermelon path
+  imgfix: WATERMELON_AREA
   mapid: 458
   img: 4/4a/WATERMELON_AREA.png
   ost:
     nm: Bloom
     yt: XNYJ73n5tf4
     ext: h4R15dJCm0w
-- wiki: beach
+- wiki: pink beach
+  imgfix: BEACH_AREA
   file: scribbles
   img: f/fb/BEACH_AREA.png
   ost:
@@ -71,16 +73,16 @@ area:
     yt: OGwi7G59Lfc
     ext: fEjvFprshik
   note: \*No map available.
-- wiki: spider
-  file: spider forest
+- file: spider forest
+  imgfix: SPIDER_AREA
   mapid: 459
   img: 0/00/SPIDER_AREA.png
   ost:
     nm: 5ths
     yt: wJ3lnnpJYdc
     ext: 7CZ6p-AfCz8
-- wiki: rain
-  file: safe spot
+- file: safe spot
+  imgfix: RAIN_AREA
   mapid: 507
   img: d/d3/RAIN_AREA.png
   ost:
@@ -88,8 +90,8 @@ area:
     bc: spaces-in-between
     yt: ljAyy-dhAz0
     ext: Pyzlc_0eE_E
-- wiki: faceless
-  file: meat room
+- file: meat room
+  imgfix: FACELESS_AREA
   mapid: 509
   img: b/b5/FACELESS_AREA.png
   ost:
@@ -97,7 +99,8 @@ area:
     bc: waiting-for
     yt: S0JCCYueIz0
     ext: CKFUVY22I4Y
-- wiki: treehouse
+- wiki: nighttime treehouse
+  imgfix: TREEHOUSE_AREA
   file: construction in the lake
   mapid: 460
   img: f/fe/TREEHOUSE_AREA.png
@@ -105,8 +108,8 @@ area:
     nm: Nawa
     yt: 0gkam5PYRbE
     ext: tuq0Ej9uIeg
-- wiki: fishbowl
-  file: fish out of water
+- file: fish out of water
+  imgfix: FISHBOWL_AREA
   mapid: 510
   img: e/e9/FISHBOWL_AREA.png
   ost:
@@ -114,8 +117,8 @@ area:
     bc: white-pillars
     yt: daT8cW5Nv7A
     ext: LfZP6KkmH4A
-- wiki: raft
-  file: Basil's raft path
+- file: Basil's raft path
+  imgfix: RAFT_AREA
   mapid: 463
   img: b/be/RAFT_AREA.png
   ost:
@@ -123,8 +126,8 @@ area:
     bc: come-and-see
     yt: OCTYy4I54d8
     ext: 8oZVk3jOQK4
-- wiki: mirror
-  file: twoside
+- file: twoside
+  imgfix: MIRROR_AREA
   mapid: 512
   img: f/f4/MIRROR_AREA.png
   ost:
@@ -132,22 +135,22 @@ area:
     bc: friendsssssss
     yt: "Ybn__4TMGYQ"
     ext: jQfbU0EYs-c
-- wiki: bed
-  file: time
+- file: time
+  imgfix: BED_AREA
   mapid: 511
   img: d/de/BED_AREA.png
   note: >-
     †There *is* a sound here (a clock ticking, an occasional ding) but it's not on the soundtrack.
-- wiki: reef
-  file: incubation
+- file: incubation
+  imgfix: REEF_AREA
   mapid: 506
   img: e/e5/REEF_AREA.png
   ost:
     nm: Numbers
     yt: 4Q-nIrhdsGY
     ext: La-fmuirToI
-- wiki: neighbor
-  file: friends playground
+- file: friends playground
+  imgfix: NEIGHBOR_AREA
   mapid: 464
   img: 7/73/NEIGHBOR_AREA.png
   ost:
@@ -160,9 +163,11 @@ area:
 
 <main>
 <div id="desc" markdown="1">
-Why does [the Fandom wiki](https://omori.fandom.com/wiki/BLACK_SPACE#BLACK_SPACE) assign Area names when the (superior, IMO) labels *in the actual project data* are right there in the References sections?! (Seriously, if you know, [please tell me](about#contact).) Filenames double-checked against the [data dump](https://goats.dev/omori/maps.html).
+~~Why does [the Fandom wiki](https://omori.fandom.com/wiki/BLACK_SPACE#BLACK_SPACE) assign Area names when the (superior, IMO) labels *in the actual project data* are right there in the References sections?! (Seriously, if you know, [please tell me](about#contact).)~~ <b>update November 2023</b>: So at some point between February (when I made this page) and now, the Fandom wiki changed the names over from entirely made-up "Areas" to, for the *most* part, the actual names [in the game data](https://goats.dev/omori/maps.html). Yet there are still several outliers, to my utter befuddlement, and so this page remains.
 
-Also wanted to put the thumbnails near the track links for faster reference than opening the entire wiki page. In the interest of not using official assets, images are hotlinked from, uh, the Fandom wiki. (I have a love-hate relationship with it, yes.) These URLs will probably break at some point.
+It would remain whether the wiki changed them all or not, actually. But I digress.
+
+Also wanted to put the thumbnails near the track links for faster reference than opening the entire page. In the interest of not using official assets, images are hotlinked from, uh, the Fandom wiki. (I have a love-hate relationship with it, yes.) These URLs will probably break at some point.
 
  **Excludes "Black Space 2"** because I haven't played that route yet.
 </div>
@@ -179,8 +184,11 @@ Also wanted to put the thumbnails near the track links for faster reference than
 			<li><a href="https://piped.video/watch?v=L5_GpNYLQb0&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">YouTube (extended)</a></li>
 		</ul></td>
 	</tr>{%for ar in page.area%}<tr>
-		<td class="omo"><a href="https://omori.fandom.com/wiki/{{ar.wiki|upcase}}_AREA">{{ar.wiki|capitalize}} Area</a><br><b>{%if ar.mapid%}<a href="https://goats.dev/omori/map.html#{{ar.mapid}}">{%endif%}{{ar.file}}{%if ar.mapid%}</a>{%endif%}</b>{%unless ar.mapid%}*{%endunless%}</td>
-		<td class="img"><a href="https://omori.fandom.com/wiki/{{ar.wiki|upcase}}_AREA?file={{ar.wiki|upcase}}_AREA.png"><img src="https://static.wikia.nocookie.net/omori/images/{{ar.img}}" alt="{{ar.file}}"></a></td>
+		<td class="omo">{%if ar.wiki%}
+			<a href="https://omori.fandom.com/wiki/{{ar.wiki|upcase|replace:" ","_"}}">“{{ar.wiki}}”</a><br>{%endif%}
+			<b>{%if ar.mapid%}<a href="https://goats.dev/omori/map.html#{{ar.mapid}}">{%endif%}{{ar.file}}{%if ar.mapid%}</a>{%endif%}</b>{%unless ar.mapid%}*{%endunless%}
+		</td>
+		<td class="img"><a href="https://omori.fandom.com/wiki/{%if ar.wiki%}{{ar.wiki|upcase|replace:" ","_"}}{%else%}{{ar.file|upcase|replace:" ","_"}}{%endif%}?file={%if ar.imgfix%}{{ar.imgfix}}{%else%}{{ar.file|upcase|replace:" ","_"}}{%endif%}.png"><img src="https://static.wikia.nocookie.net/omori/images/{{ar.img}}" alt="{{ar.file}}"></a></td>
 		<td>{%if ar.ost%}<div class="nm"><b>{{ar.ost.nm}}</b></div><ul>
 			<li><a href="https://omori.bandcamp.com/track/{%if ar.ost.bc%}{{ar.ost.bc}}{%else%}{{ar.ost.nm|downcase}}{%endif%}">Bandcamp</a></li>
 			<li><a href="https://piped.video/watch?v={{ar.ost.yt}}&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">YouTube (official)</a></li>
