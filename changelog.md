@@ -88,7 +88,7 @@ log:
       - page draft: [piano](piano)
       - [Omori (Omori)](omori)
   - dt: 2023-04-25
-    line: Updated the piano thing.
+    line: Cleaned up the piano page.
     done: |-
       - art: [standalone gif](art/h20)
   - dt: 2023-05-01
@@ -177,11 +177,12 @@ log:
       - [version with translation](hrvatski/lake)
       - ’nother page (incomplete)
   - dt: 2023-11-28
-    line: "Tweaked some things:"
+    line: "Assorted changes:"
     done: |-
-      - <a href="black-space">Black&nbsp;Space</a>: updated to reflect Fandom wiki changes & fix images
-      - <a href="meta">meta</a>: fixed broken navigation on pre-hikikomori posts
-      - <a href="art">art index</a>: display pixel thumbnails on smaller screens
+      - tweakage:
+        - <a href="black-space">Black&nbsp;Space</a>: noted Fandom wiki changes, fixed broken images
+        - <a href="meta">meta</a>: fixed broken navigation on pre-hikikomori posts
+        - <a href="art">art index</a>: display pixel thumbnails on smaller screens
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
