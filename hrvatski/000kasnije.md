@@ -13,10 +13,10 @@ scribs:
   - dt: 2023-08-22
     id: biljke
     note: |-
-      remember when I was like "there's a weird amount of <span lang="hr" class="noi">hrvatski</span> in [this one](ostatak-aprila#bonding)." yeah I've learned a lot since and now they just casually use it 90% of the time ig. #character-development
+      remember when I was like "there's a weird amount of <span lang="hr" class="noi">hrvatski</span> in [this one](ostatak-aprila#bonding)." yeah I've learned a lot since and now they just casually use it 90% of the time ig. #character-development <span style="background:yellow;color:#000;">[this can be the page note, if nothing else seems relevant]</span>
     typ: ml cn
     imgs:
-    - alt: "Aubrey pays Basil a visit. Seems he’s been gardening a lot. Presenting a stack of plant tags to Aubrey, Basil cheerily suggests a role reversal, explains, and tags a plant to demonstrate. Beat, with Aubrey lookng back at all the flowers. She has a couple comments, but Basil pushes her right along."
+    - alt: "Aubrey pays Basil a visit. Seems he’s been gardening a lot. Presenting a stack of plant tags to Aubrey, Basil cheerily suggests a role reversal, explains, and tags a sunflower to demonstrate. Beat, with Aubrey lookng back at all the flowers. She has a couple comments, but Basil pushes her right along."
       img: _a
       tr-hr: |-
         <span class="omo">Basil</span>: <q lang="hr">Danas! Želim pokušavat nešto... <span lang="en">uh,</span> nov!</q>  
@@ -26,12 +26,10 @@ scribs:
         
         <span class="omo">Basil</span>: <q>A-hem--- Reversal role-a~!</q><sup>[2]</sup>  
         [tag, tape over picture:] <span lang="hr">Nemoj gledati!!!</span>  
-        [tag, flower name (Latin):] <i lang="hr" class="omo">Helianthus annus</i>  
-        [tag, flower name (Croatian):] <span lang="hr">Jednogodišniji suncokret</span>  
         <span class="omo">Basil</span>: <q lang="hr">Napisao sam **dva** imena cvijeća...</q>  
         <span class="omo">Basil</span>: <q lang="hr"><span lang="en">You match!</span> Učiš!!~</q>
         
-        <span class="omo">Aubrey</span>: <q lang="hr">... *Gdge* li naučio si ovi.</q>  
+        <span class="omo">Aubrey</span>: <q lang="hr">... *Gdge* naučio si ovi.</q>  
         <span class="omo">Basil</span>: <q>uhh Internet!</q>  
         <span class="omo">Aubrey</span>: <q lang="hr">Koji kurac je <i>"ptiće mlijeko"</i></q><sup>[3]</sup>  
         <span class="omo">Basil</span>: <q lang="hr"><em class="omo">Sretno!!!</em></q>
@@ -43,8 +41,6 @@ scribs:
         
         <span class="omo">Basil</span>: <q>A-hem--- Reversal of roles!</q><sup>[2]</sup>  
         [tag, tape over picture:] Don't look!!!  
-        [tag, flower name (Latin):] <i class="omo">Helianthus annus</i>  
-        [tag, flower name (Croatian):] <span lang="hr">Jednogodišniji suncokret</span>  
         <span class="omo">Basil</span>: <q>I wrote **two** names of flowers...</q>  
         <span class="omo">Basil</span>: <q>You match! You learn!!~</q>
         
@@ -55,10 +51,10 @@ scribs:
       fn: |-
         <sup>[1]</sup> Fun with adjective gendering! It's not always a 1:1 end-letter match, but it happens to line up here.
         
-        <sup>[2]</sup> Grammatical case thing. Tacking Croatian morphemes onto English words is not Technically Correct by any means, but it happens a lot behind the scenes so whatever. (It's also relevant to ["ghosts pasta"](ostatak-aprila#mamma-mari-a), although the <q lang="hr" class="noi">-a</q> is redundant there.)
+        <sup>[2]</sup> Grammatical case thing. Tacking Croatian morphemes onto English words is not Technically Correct by any means, but it happens a lot behind the scenes so whatever. (Hence also, ["ghosts pasta"](ostatak-aprila#mamma-mari-a).)
         
         <sup>[3]</sup> Found this through a little Wikipedia journey: [plant symbolism](https://en.wikipedia.org/wiki/List_of_plants_with_symbolism) → boatload of tabs → checked which ones had a Croatian name in the language dropdown → grabbed [the most nonsensical](https://hr.wikipedia.org/wiki/Pti%C4%8Dje_mlijeko). <i>Ornithogalum</i> will be of no help here.
-    - alt: "Later, Basil chills on the front steps. Aubrey is very, very done. / Joining him on the stair, she says something that makes him panic slightly. Quick exchange, after which Aubrey takes a pen, writes on a leftover tag, and sticks it in Basil's hair. Thus he is labeled: “Bosiljak”."
+    - alt: "Later, Basil chills on the front steps. There’s a tag sticking out of various plant clusters, and Aubrey is very, very done. / Joining him on the stair, she says something that makes him panic slightly. Quick exchange, after which Aubrey takes a pen, writes on a leftover tag, and sticks it in Basil's hair. Thus he is labeled: “Bosiljak”."
       img: _b
       tr-hr: |-
         <span class="omo" lang="hr">(Puno) Kasnije.</span>
@@ -92,8 +88,6 @@ scribs:
     id: mlijeko
     typ: sn
     note: |-
-      <span style="background:yellow;color:#000;">[maybe in description of above instead of a standalone? depends on whatever follows]</span>
-      
       Re:"bird's milk," Weeb linked [this<span class="x"> ("Fight Milk" from <i>It's Always Sunny in Philadelphia</i>)</span>](https://piped.video/watch?v=37VebUxrbKI).
     imgs:
     - alt: "Kids this time: Aubrey yells about some kind of milk to a very unamused Kel, who’s lactose intolerant. Basil just offers “Y-yeah— Da, what she said!” / As in the video, Aubrey gets excited and inadvertently punches Basil in the face. / Immediate Concern: “/Oh god sorry are you okay/”; Basil offers a dizzy thumbs up. (Far as Kel’s concerned, “This is why milk sucks…”)"

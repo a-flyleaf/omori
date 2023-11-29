@@ -6,7 +6,6 @@ da: talking-idek-what-to-call-this-978881293
 big: y
 desc: |-
   Comic in which Basil and Aubrey have a talk by the lake. Description & full translation on the page linked below.
-css: "#a-date{display:none;}"
 ---
 Doesn't have a title. Date is somewhat fudged; started this on August 11th, worked nonconsecutively til the 22nd, and fixed things on the 24th. Fullsize is upscaled 150% just because.
 

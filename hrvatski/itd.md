@@ -153,13 +153,13 @@ scribs:
       tr-hr: |-
         <q lang="hr">moje malo miau miau</q>
         
-        <span lang="hr">(molim ignoraj car Europi. hvala.)</span>
+        <span lang="hr">(molim</span> ignoraj car <span lang="hr">Europi. hvala.)</span>
       tr-en: |-
         <q>my [little meow meow](https://knowyourmeme.com/memes/poor-little-meow-meow)</q>
         
-        (please ignore the car of Europe. hvala.)
+        (please ignore the car of Europe. thank.)
     an: |-
-      Ripped shamelessly from [someone else's version](https://web.archive.org/web/20230824132530/https://nitter.net/lunectar/status/1536848167802634240). The note about the European car is because Hero's on the viewer's left, same as [the original meme](https://knowyourmeme.com/memes/why-does-x-call-you-babygirl).
+      Ripped shamelessly from [someone else's version](https://web.archive.org/web/20230824132530/https://nitter.net/lunectar/status/1536848167802634240). The note about the European car is because Hero is on the viewer's left, same as [the original meme](https://knowyourmeme.com/memes/why-does-x-call-you-babygirl), and that's normally something I would've redrawn to "fix" but I didn't notice until too late. Oh well!
 ---
 ČčĆćĐđŠšŽž
 …‘’“”—
