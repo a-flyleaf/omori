@@ -183,6 +183,7 @@ log:
         - <a href="black-space">Black&nbsp;Space</a>: noted Fandom wiki changes, fixed broken images
         - <a href="meta">meta</a>: fixed broken navigation on pre-hikikomori posts
         - <a href="art">art index</a>: display pixel thumbnails on smaller screens
+      - <a href="art/scribbrey">new art</a>
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
