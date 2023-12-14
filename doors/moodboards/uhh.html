@@ -1,0 +1,64 @@
+---
+layout: base
+title: imagine how is board the mood
+css: "
+/*general page*/
+body{background:#efefef;}
+header,footer{text-align:center; padding:1em;}
+a{transition:.15s ease-in-out;} a:hover,a:active,a:focus{opacity:.75;} footer a:hover,footer a:active,footer a:focus{opacity:.5;}
+header ::selection,footer ::selection{background:#000; color:#808080;} footer ::selection{background:#bfbfbf;}
+header .box{padding:.5em; margin:0 auto; max-width:25em;} h1.box{margin-bottom:1em;} header p{margin:.25em 0;}
+section{padding:1em;}
+#cc{background:#fff; display:inline-block; padding:.75em 1em; margin-bottom:1em; font-family:'source sans pro',sans-serif;} #asper{color:#808080; margin-bottom:.25em;}
+
+/*grid template (copypasted from test page)*/ .grid{list-style-type:none; margin:0; max-width:620px; max-height:620px; display:grid; grid-template-columns:repeat(3,1fr); grid-template-rows:repeat(3,1fr); column-gap:10px; row-gap:10px;} .grid img{object-fit:cover; width:100%; display:block; height:100%;}
+.grid{border:1px solid #bfbfbf; padding:10px; max-width:640px; max-height:640px; margin:0 auto;} li{overflow:hidden;}
+
+/*character-specific*/
+#omori{background:#fff;} #omori ::selection{background:#000; color:#000;}
+#omori .grid{border:3px solid #000;}
+	#o1{grid-column:2/3;}
+	#o2{grid-column:1/4; padding:1em; text-align:center; font-style:italic; text-transform:lowercase; font-weight:bold; /*https://stackoverflow.com/questions/79461/how-can-i-vertically-align-elements-in-a-div/31078418#31078418*/ display:flex; align-items:center;}
+		#waitingfor{letter-spacing:.05em; font-size:1.25em; line-height:1.15; width:100%;} #smthn{text-shadow:#8f0000 0 2px;}
+	#o4{grid-column:3/4;}
+
+#sunny{background:#fff; background-image:url(../../assets/img/moodboard/s-bg.png); background-attachment:fixed;} #sunny ::selection{background:#efefef; background:rgba(0,0,0,.05); color:#fff;}
+#sunny .grid{background:#f7f7f7; background:rgba(255,255,255,.5); border:3px solid #000; border-color:rgba(0,0,0,.15);}
+.rq{display:inline-block;}
+	#s2{grid-column:3/3;}
+	#s3{grid-column:1/4; font-family:palatino,'palatino linotype',garamond,serif; font-style:italic; padding:1em; color:#808080; color:rgba(0,0,0,.5); display:flex; align-items:center; background:linear-gradient(#f7f7f7,#fff 35%,#f7f7f7); background:linear-gradient(rgba(255,255,255,0),#fff 35%,rgba(255,255,255,0));}
+		#s3>span{width:100%;}
+		.rq{display:block; width:100%; font-size:1.25em; margin:.5em 0;}
+		.rq:nth-child(2){text-align:center; text-transform:lowercase; padding-left:3em;}
+		.rq:nth-child(3){text-align:right;} .rq:nth-child(3)::before{content:'…';}
+	#s4{grid-column:2/3;}
+"
+---
+<header>
+	<h1 class="box"><i class="omo">Omori</i> moodboards</h1>
+	<div class="box"><p><span>Just for the heck of it.</p><p>Image credits are in clickthroughs.</p><p class="x">If you’re not using CSS, this page looks nothing like it’s supposed to.</p></div>
+</header>
+
+<main>
+	<section id="omori"><h2 class="x">Omori</h2>
+	<ul class="grid o">
+		<li id="o1"><a href="https://www.flickr.com/photos/pulpolux/8181527/in/photolist-Q9enqT-5WMTzk-Q9f4dZ-PzhCdq-Q9dJMc-NUEveP-7iuz5z-Q9ecJD-PXWSYR-NUDui2-Q9dEeV-7u8mNH-avoykJ-2mNEa1e-2mNAWA8-VQvTrP-HW5P-Q5TJJJ-5WSb1U-J6Ykww-J6WTE2-LNsfo3-8iw2F6-wdtLN-7fzJ99-5CnnZh-JKmCdC-5zBeQ-7UCSCg-7UG89m-7q1vdt-9F8aBS-4FHLqW-K8iiTm-K28qos-JeQEJC-JeQCKC-KbgJjv-K28ico-4FHL69-dM2xRW-JeTAi-wk5Zu-8XJHwC-29qM93q-kCnB7-2wtsNm-6K55qY-xzYo1-j83ES" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/o-lightbulb.png" alt="Light bulb."></a></li>
+		<li id="o2" class="box"><span id="waitingfor">Waiting for <span id="smthn">something</span> to happen?</span></li>
+		<li id="o3"><a href="https://unsplash.com/photos/red-and-silver-kitchen-knife-vwI_eMs-2Ms" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/o-knife.png" alt="Knife."></a></li>
+		<li id="o4"><a href="https://unsplash.com/photos/white-spiral-notebook-on-brown-wooden-table-dgVSuJu58C0" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/o-notebook.png" alt="Sketchbook."></a></li>
+	</ul></section>
+	<!--aubrey kel hero basil mari-->
+	<section id="sunny"><h2 class="x">Sunny</h2>
+	<ul class="grid">
+		<li id="s1"><a href="https://www.flickr.com/photos/analuportfolio/11509398605/in/photolist-ix3FdZ-2Rus9s-8AMytS-2ezsh8q-DdUeA-MgzjvQ-2eE43WF-6Ga4Ev-5bMN3R-DdTY8-26oMUFW-29k83v7-PCvvi-8AMAns-USS13u-56feUr-dn1FUN-9Jh6QH-YiTjaE-PCvvp-9qmXhd-2kAmkmT-9JjVes-6PGBCE-8AJvHv-6BL5X8-2Rq2mV-4WDvQu-9zJJ9m-9p3yjK-8AMAj3-28iTg8L-9p6LCJ-8M8SzB-dFKLMg-5syGW5-YvY8Po-2n5Gv9J-8AJvDF-PCvvF-dTWMGA-9p6EF9-ZgJSUB-4vA3cM-9p3ELe-Ey989V-ef5oei-9p6G97-9p3FtH-8sVPNd" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/s-doodles.png" alt="Doodles of flowers."></a></li>
+		<li id="s2"><a href="https://unsplash.com/photos/brown-violin-with-brown-violin-bow-beside-white-electronic-keyboard-dWcUncxocQY" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/s-violin.png" alt="A violin leaning against a piano."></a></li>
+		<li id="s3"><span><span class="rq">You’ll forgive yourself…</span> <span class="rq">Won’t you…</span> <span class="rq"><span class="omo">Sunny</span>?</span></span></li>
+		<li id="s4"><a href="https://www.flickr.com/photos/jspad/2392424367/in/photolist-4DpNpZ-5PQypb-9mA9a-xRkrXS-dv8bv6-66zB8g-3KSpFv-utpmu-3c8vJE-AAyZs-dYiSwK-NJHaxu-MefDQk-SdXowr-PQMnxX-NJGRJJ-PN32Q9-PN2tww-QTpcZu-7MoSaW-CNw9BK-Q9ecJD-c7a7Xj-dFs8nU-RBQTEA-69PGuW-QUXVVJ-7MjTX8-dTYs4V-5nVYzg-S7k5Cu-c9VgAQ-5cxBk9-23xHJUj-7QU9KJ-cbr1eC-c2H1oh-9zZvw6-9Z2DoZ-8VKyoZ-7eS19E-v7kxb-PscmpJ-7ajntd-2iYM718-2iYKwxC-5y24qd-84NqCP-rqtYD-vYJtE" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/s-lightbulb.png" alt="A broken lightbulb."></a></li>
+	</ul></section>
+</main>
+<!--<li><a href="IMGLINK" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/L-ITEM.png" alt="WHAT"></a></li>-->
+
+<footer>
+	<div id="cc"><p id="asper">Quotes from the game itself. As per the terms of some photography used:</p><p xmlns:cc="http://creativecommons.org/ns#">This work is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"></a></p></div>
+	<div><a href="a-space"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a></div>
+</footer>
