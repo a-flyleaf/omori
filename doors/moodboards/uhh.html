@@ -4,15 +4,18 @@ title: imagine how is board the mood
 css: "
 /*general page*/
 body{background:#efefef;}
-header,footer{text-align:center; padding:1em;}
+header,footer{text-align:center; padding:2em 1em;}
 a{transition:.15s ease-in-out;} a:hover,a:active,a:focus{opacity:.75;} footer a:hover,footer a:active,footer a:focus{opacity:.5;}
 header ::selection,footer ::selection{background:#000; color:#808080;} footer ::selection{background:#bfbfbf;}
 header .box{padding:.5em; margin:0 auto; max-width:25em;} h1.box{margin-bottom:1em;} header p{margin:.25em 0;}
-section{padding:1em;}
-#cc{background:#fff; display:inline-block; padding:.75em 1em; margin-bottom:1em; font-family:'source sans pro',sans-serif;} #asper{color:#808080; margin-bottom:.25em;}
+@media only screen and (min-width:680px){#mob{display:none;}}
+header span{display:inline-block;}
+section{padding:2.5em 1em;}
+#cc{background:#fff; display:inline-block; padding:.75em 1em; margin-bottom:2.5em; font-family:'source sans pro',sans-serif;} #asper{color:#808080; margin-bottom:.25em;}
 
-/*grid template (copypasted from test page)*/ .grid{list-style-type:none; margin:0; max-width:620px; max-height:620px; display:grid; grid-template-columns:repeat(3,1fr); grid-template-rows:repeat(3,1fr); column-gap:10px; row-gap:10px;} .grid img{object-fit:cover; width:100%; display:block; height:100%;}
-.grid{border:1px solid #bfbfbf; padding:10px; max-width:640px; max-height:640px; margin:0 auto;} li{overflow:hidden;}
+/*grid template*/ .grid{list-style-type:none; margin:0; max-width:620px; max-height:620px; display:grid; grid-template-columns:repeat(3,1fr); grid-template-rows:repeat(3,1fr); column-gap:10px; row-gap:10px;} .grid img{object-fit:cover; width:100%; display:block; height:100%;}
+.grid{padding:10px; max-width:640px; max-height:640px; margin:0 auto;} li{overflow:hidden;}
+.dlg,.txt{display:block;} .txt li{height:100%;}
 
 /*character-specific*/
 #omori{background:#fff;} #omori ::selection{background:#000; color:#000;}
@@ -22,21 +25,42 @@ section{padding:1em;}
 		#waitingfor{letter-spacing:.05em; font-size:1.25em; line-height:1.15; width:100%;} #smthn{text-shadow:#8f0000 0 2px;}
 	#o4{grid-column:3/4;}
 
+#aubrey{background:#ffdfff;} #aubrey ::selection{background:#ff008f; color:#000; text-shadow:none;}
+#aubrey .grid{background:#000;}
+	#a1,#a5{grid-column:1/3;}
+	#a3{background:#800023; background-image:url(../../assets/img/moodboard/a-window.png); color:#fff; font-family:'century schoolbook',serif; position:relative; display:inline-grid;}
+		#a3 span{display:inline-block; font-size:1.15em; padding:.25em .5em; text-shadow:#000 0 0 .5em,#000 0 0 .25em; font-variant:small-caps; text-transform:lowercase;}
+		#a3 .dlg{width:100%;}
+		#a3 span:nth-child(2){text-align:right; bottom:0; position:absolute;}
+	#a4{grid-column:2/4;}
+
+/*kel hero*/
+
+#basil{background:#000020;} #basil ::selection{background:#637a46; color:#dfdaae; text-shadow:none;}
+#basil .grid{background:#dfffee;}
+	#b2,#b6{grid-column:2/4;}
+	#b3{grid-column:1/3;}
+	#b4{background-image:url(../../assets/img/moodboard/b-roots.png); color:#fff; padding:1em; text-transform:lowercase; display:flex; align-items:center;}
+		#b4>span{font-family:garamond,serif; text-align:center;}
+		#b4 .dlg{max-width:8em; margin:.25em auto; display:inline-block; text-shadow:#000 0 0 .5em,#000 0 0 .25em;}
+		#b4 ::selection{background:#000; color:#ff0000;}
+
+/*mari*/
+
 #sunny{background:#fff; background-image:url(../../assets/img/moodboard/s-bg.png); background-attachment:fixed;} #sunny ::selection{background:#efefef; background:rgba(0,0,0,.05); color:#fff;}
 #sunny .grid{background:#f7f7f7; background:rgba(255,255,255,.5); border:3px solid #000; border-color:rgba(0,0,0,.15);}
-.rq{display:inline-block;}
 	#s2{grid-column:3/3;}
 	#s3{grid-column:1/4; font-family:palatino,'palatino linotype',garamond,serif; font-style:italic; padding:1em; color:#808080; color:rgba(0,0,0,.5); display:flex; align-items:center; background:linear-gradient(#f7f7f7,#fff 35%,#f7f7f7); background:linear-gradient(rgba(255,255,255,0),#fff 35%,rgba(255,255,255,0));}
 		#s3>span{width:100%;}
-		.rq{display:block; width:100%; font-size:1.25em; margin:.5em 0;}
-		.rq:nth-child(2){text-align:center; text-transform:lowercase; padding-left:3em;}
-		.rq:nth-child(3){text-align:right;} .rq:nth-child(3)::before{content:'…';}
+		#s3 .dlg{width:100%; font-size:1.25em; margin:.5em 0;}
+		#s3 .dlg:nth-child(2){text-align:center; text-transform:lowercase; padding-left:3em;}
+		#s3 .dlg:nth-child(3){text-align:right;} #s3 .dlg:nth-child(3)::before{content:'…';}
 	#s4{grid-column:2/3;}
 "
 ---
 <header>
 	<h1 class="box"><i class="omo">Omori</i> moodboards</h1>
-	<div class="box"><p><span>Just for the heck of it.</p><p>Image credits are in clickthroughs.</p><p class="x">If you’re not using CSS, this page looks nothing like it’s supposed to.</p></div>
+	<div class="box"><p><span>Just for the heck of it.<span id="mob"><span class="x"> (notice for mobile:)</span> Designed for <b>wider browser windows</b> than this.</span></p><p><span>Quotes taken directly from the game.</span> <span>Image credits are in clickthroughs.</span></p><p class="x">If you’re not using CSS, this page looks nothing like it’s supposed to.</p></div>
 </header>
 
 <main>
@@ -47,18 +71,89 @@ section{padding:1em;}
 		<li id="o3"><a href="https://unsplash.com/photos/red-and-silver-kitchen-knife-vwI_eMs-2Ms" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/o-knife.png" alt="Knife."></a></li>
 		<li id="o4"><a href="https://unsplash.com/photos/white-spiral-notebook-on-brown-wooden-table-dgVSuJu58C0" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/o-notebook.png" alt="Sketchbook."></a></li>
 	</ul></section>
-	<!--aubrey kel hero basil mari-->
+	<section id="aubrey"><h2 class="x">Aubrey</h2>
+	<ul class="grid">
+		<li id="a1"><a href="https://www.flickr.com/photos/mbbenfield/48424572576/in/photolist-2gM7AkJ-84FbFP-8aYjFw-iMctW-iMctX-2h6teWZ-2jsA3ah-fHSJ3e-ehVmJQ-2nAciPw-KD4JM3-s2UQH9-26wXxBJ-7S7VPv-a8xQ5C-a8uYCT-8wcA13-2iTtBR7-26wXxnW-5c2cJS-2nGn3a1-2m9Bhyw-VtRgxj-WB2DNC-2maq5SN-JVHF7d-fregJe-2ma6Loa-JnzGQT-WECxi4-8fP3WE-Kj1MeR-5vmCM-4RCrze-KNnzCV-9y85D8-agvuF2-2jN1dxK-a7LAnR-2MQ2G-agvtS2-ic8H7t-NGLryR-Jva7rS-VPd8E1-8fKNxa-VtRnvb-VSspKF-VSst5X-2oWtrLk" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/a-gladiolus.png" alt="gladiolus"></a></li>
+		<li id="a2"><a href="https://unsplash.com/photos/a-person-holding-a-slice-of-watermelon-on-a-beach-oChMoJYQhK4" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/a-watermelon.png" alt="watermelon"></a></li>
+		<a href="https://www.flickr.com/photos/graefin/5607728544/in/photolist-9xx5jU-Ns6fS1-F9ycaw-9e2rs6-7v8Xpi-6eZZtg-eKFUn-27V4RuL-88sdFd-qwRoNL-LuSGf-bfhRb6-kyJyJx-8syxjY-a48uW-7VXcdj-FsHTck-sHiEDr-6YyG5-RbYgiZ-qufRS-35QNjy-ucG83D-EL9P7Y-68dLZd-8esi3m-96YDPZ-DBGafx-71Ee-21bxZEV-JzHbj-9ZUL3a-27DW3gX-at8HxD-8zDe3E-X1qsQL-e5Fk7W-VVhEMm-e5zFvP-qn1HNJ-Kdnozd-RkJpfp-71Eg-a1RYSF-b8ZX6-gFdEr6-21qgY2U-8p2ovU-WqVwSy-4CuihX" target="_blank" class="txt"><li id="a3"><span class="dlg">And the Aubrey that was your friend…</span> <span class="dlg">She’s long gone, too.</span></li></a>
+		<li id="a4"><a href="https://unsplash.com/photos/brown-wooden-church-chair-LrWiFN7tibU" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/a-church.png" alt="church pews"></a></li>
+		<li id="a5"><a href="https://unsplash.com/photos/black-and-white-cable-cars-under-cloudy-sky-during-daytime-Gn-1HNyipwI" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/a-wire.png" alt="shoes on a wire"></a></li>
+		<li id="a6"><a href="https://unsplash.com/photos/a-row-of-yellow-pinwheels-sitting-next-to-each-other-fbAE8zfPsWU" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/a-pinwheel.png" alt="pinwheel"></a></li>
+	</ul>
+	</section>
+	<!--
+	[to Sunny, dream] Yeah... I think we'll always be best friends. That's okay with you too, right?
+	[to Basil, Faraway] We're still friends. I want you to know that, okay?
+	<section id="kel"><h2 class="x">Kel</h2>
+	<ul class="grid">
+		<li id="k1"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="k2"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="k3"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="k4"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="k5"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="k6"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="k7"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="k8"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="k9"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+	</ul>
+	</section>
+	<!--
+		Thanks, guys... Don't worry about me too much, okay?
+		I'm happy that we're all here... so that we can face this together.
+	-/->
+	<section id="hero"><h2 class="x">Hero</h2>
+	<ul class="grid">
+		<li id="h1"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="h2"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="h3"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="h4"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="h5"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="h6"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="h7"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="h8"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="h9"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+	</ul>
+	</section>
+	-->
+	<section id="basil"><h2 class="x">Basil</h2>
+	<ul class="grid">
+		<li id="b1"><a href="https://www.flickr.com/photos/netzanette/7717053328/in/photolist-bdoQut-7dW4ja-FTtyCZ-cKVV6A-PETFK-pfYPsq-btG75a-bqEr3-5UhpLU-89juVj-4U1Y6H-4XKkh4-KXxSM-5gmygK-7ZW4PH-7i4fR-fYny1i-5yuTNE-aHWobR-FRbxvq-Fa2Gc-oHR4uf-NosUH-3cbRv2-8GNHiX-4qBM7r-KAY6sN-4qBM6z-Lk5qhg-LsPPaE-pL6Fm-9akrhD-4qFRpU-4qFRp1-6ZFtE6-6ZkWUs-9brjKm-92T96p-hDGT-8QQMVz-cge1mS-yirAR-6xUHkt-6MfQsq-vTjR5-af6Vwb-6ZaRWH-6Fga3d-8Wcjcx-7G2es1" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/b-hands.png" alt="hands held"></a></li>
+		<li id="b2"><a href="https://unsplash.com/photos/a-pile-of-old-photos-and-postcards-sitting-on-top-of-each-other-P2aOvMMUJnY" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/b-photos.png" alt="scattered photographs"></a></li>
+		<li id="b3"><a href="https://www.flickr.com/photos/jspad/48776457208/in/photolist-2hjd6o9-82FZkA-82FWu1-3Uopv-6GsGYS-5TiLMz-7hEWU8-2g5Dz4w-67Av4b-Ud9D8C-o8vn3C-DcK119-8SUMWb-2nae78u-89mdxk-NDE6y-c7KsF1-2i9y8sg-9w2hJK-7Ak9xe-wRbc4u-eHZWa6-4TBWvW-EPqRWd-4weH5-e2bmP8-3Uook-abyQMG-7VAhVd-K1F8U-2SwhKs-4TjFm5-28HH5-J33WM-z5cGiv-5VpXov-2ixjBF-k5Jjn-3myBE-5WwSXQ-2m772jq-bB8j25-2ieRo34-2aZ7QDz-5dHjA-4MkJDN-2jfNwCY-2YF3yz-3n4ZFo-2k2YoSq" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/b-jumprope.png" alt="tangled"></a></li>
+		<a href="https://www.flickr.com/photos/evaekeblad/14877165900/in/photolist-oEDn7m-aoG8xy-9WcvJe-7gZc2q-kro8mn-cDfrZY-5eeRQ2-dT14rT-hNCiWD-8kVboW-jCb5Hk-aoG9VG-dp188F-9P81om-NtxExA-bQQq9-9WCU3q-e35Jic-diYFvR-MN6j6u-9WCU1Q-p12rAr-9d7VV2-dcyK2R-6h8dU6-8rHbEG-4zZdUf-6iSFm-aRQ6UM-3kZn36-8KQqPK-qsBHwW-2hZTCk-eUgyjT-szvYr-7pQcbV-4kvVY-qQ84e-y3XXA-Je9Rq-2jdrUZd-2mewJ4K-WZh9xY-7cLCgr-tgY9kz-K6ffAZ-2okzDob-8SeLhc-27rfpbG-5UGJGw" target="_blank" class="txt"><li id="b4"><span><span class="dlg">That’s how I always want to be like…</span> <span class="dlg">someone who always sees the bright side of things.</span></span></li></a>
+		<li id="b5"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="b6"><a href="https://unsplash.com/photos/a-large-field-of-sunflowers-in-the-sun-gfdTDji8tiI" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/b-sunflowers.png" alt="sunflowers"></a></li>
+	</ul>
+	</section>
+	<!--no quote!! she is dead.
+	<section id="mari"><h2 class="x">Mari</h2>
+	<ul class="grid">
+		<li id="m1"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="m2"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="m3"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="m4"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="m5"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="m6"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="m7"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="m8"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+		<li id="m9"><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+	</ul>
+	</section>
+	-->
 	<section id="sunny"><h2 class="x">Sunny</h2>
 	<ul class="grid">
 		<li id="s1"><a href="https://www.flickr.com/photos/analuportfolio/11509398605/in/photolist-ix3FdZ-2Rus9s-8AMytS-2ezsh8q-DdUeA-MgzjvQ-2eE43WF-6Ga4Ev-5bMN3R-DdTY8-26oMUFW-29k83v7-PCvvi-8AMAns-USS13u-56feUr-dn1FUN-9Jh6QH-YiTjaE-PCvvp-9qmXhd-2kAmkmT-9JjVes-6PGBCE-8AJvHv-6BL5X8-2Rq2mV-4WDvQu-9zJJ9m-9p3yjK-8AMAj3-28iTg8L-9p6LCJ-8M8SzB-dFKLMg-5syGW5-YvY8Po-2n5Gv9J-8AJvDF-PCvvF-dTWMGA-9p6EF9-ZgJSUB-4vA3cM-9p3ELe-Ey989V-ef5oei-9p6G97-9p3FtH-8sVPNd" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/s-doodles.png" alt="Doodles of flowers."></a></li>
 		<li id="s2"><a href="https://unsplash.com/photos/brown-violin-with-brown-violin-bow-beside-white-electronic-keyboard-dWcUncxocQY" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/s-violin.png" alt="A violin leaning against a piano."></a></li>
-		<li id="s3"><span><span class="rq">You’ll forgive yourself…</span> <span class="rq">Won’t you…</span> <span class="rq"><span class="omo">Sunny</span>?</span></span></li>
+		<li id="s3"><span><span class="dlg">You’ll forgive yourself…</span> <span class="dlg">Won’t you…</span> <span class="dlg">Sunny?</span></span></li>
 		<li id="s4"><a href="https://www.flickr.com/photos/jspad/2392424367/in/photolist-4DpNpZ-5PQypb-9mA9a-xRkrXS-dv8bv6-66zB8g-3KSpFv-utpmu-3c8vJE-AAyZs-dYiSwK-NJHaxu-MefDQk-SdXowr-PQMnxX-NJGRJJ-PN32Q9-PN2tww-QTpcZu-7MoSaW-CNw9BK-Q9ecJD-c7a7Xj-dFs8nU-RBQTEA-69PGuW-QUXVVJ-7MjTX8-dTYs4V-5nVYzg-S7k5Cu-c9VgAQ-5cxBk9-23xHJUj-7QU9KJ-cbr1eC-c2H1oh-9zZvw6-9Z2DoZ-8VKyoZ-7eS19E-v7kxb-PscmpJ-7ajntd-2iYM718-2iYKwxC-5y24qd-84NqCP-rqtYD-vYJtE" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/s-lightbulb.png" alt="A broken lightbulb."></a></li>
 	</ul></section>
 </main>
-<!--<li><a href="IMGLINK" target="_blank"><img src="{%include url.html%}/assets/img/moodboard/L-ITEM.png" alt="WHAT"></a></li>-->
+<!--
+<li><a href="IMGLINK" target="_blank"><img src="https://via.placeholder.com/1x1.png" alt="WHAT"></a></li>
+{%include url.html%}/assets/img/moodboard/L-ITEM.png
+-->
 
 <footer>
 	<div id="cc"><p id="asper">Quotes from the game itself. As per the terms of some photography used:</p><p xmlns:cc="http://creativecommons.org/ns#">This work is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"></a></p></div>
-	<div><a href="a-space"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a></div>
+	<div><a href="{%include url.html%}/a-space"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a></div>
 </footer>
