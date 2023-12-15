@@ -168,6 +168,8 @@ log:
     line: <a href="art/roundup-2023-06">July art roundup</a> is a thing.
   - dt: 2023-08-02
     line: <a href="art/headshots">Drew a thing</a>.
+  - dt: 2023-08-19
+    line: Fiddled with <a href="doors/moodboards/test">a moodboard-draft</a>.
   - dt: 2023-08-23
     line: <a href="art/banana">Drew a thing</a>.
   - dt: 2023-08-24
@@ -184,6 +186,12 @@ log:
         - <a href="meta">meta</a>: fixed broken navigation on pre-hikikomori posts
         - <a href="art">art index</a>: display pixel thumbnails on smaller screens
       - <a href="art/scribbrey">new art</a>
+  - dt: 2023-12-13
+    line: Further <a href="doors/moodboards/uhh">moodboard experimentation</a>.
+    done: |-
+      [note to self, moodboard links will probably need updating later]
+  - dt: 2023-12-14
+    line: Substantial work on the <a href="achievements">achievements page</a> (still unfinished).
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
