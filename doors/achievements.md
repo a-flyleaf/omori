@@ -8,18 +8,28 @@ th{vertical-align:middle;}
 td p{margin:0;} td br{margin-bottom:.25em;} td ul,td ol{margin:.15em 0 .15em 1em;} td li ul{margin:0 0 0 1em;}
 .chk th{width:2em;} td.chk{text-align:center;}
 
-.canon{font-family:sans-serif;} .canon p{display:inline-block;} .canon>p{font-size:.85em; margin-left:.5em;}
+.canon{font-family:sans-serif;} .canon p{display:inline-block;} .canon>p{font-size:.8em;}
 
-.copy{max-height:10em; overflow-y:scroll; background:#efefef; font-family:consolas,monospace; font-size:.75em;} .copy .omo{text-transform:none;}
+.copy{max-height:15em; overflow-y:scroll; background:#efefef; font-family:consolas,monospace; font-size:.75em; padding:0 1em;} #md{padding:1em;}
+.copy a{text-decoration:none; pointer-events:none;}
+.copy strong,.copy b{font-weight:normal;} .copy em,.copy i{font-style:normal;}
+.copy .omo{text-transform:none;}
+
+.pad1 td{padding-top:.5em;} .pad2 td{padding-bottom:.75em;}
 
 @media print{
 	.wrap{padding:0;}
+	.pad1 td,.pad2 td{padding:.25em;}
 	
 	th,td{border:2pt solid lightgray;}
 	td:nth-child(3){max-width:2in;}
-	/*https://stackoverflow.com/questions/4730216/keep-an-html-element-from-spanning-multiple-pages-when-printed/4730244#4730244*/ tr.pad1{page-break-after:avoid;} tr.pad2{page-break-before:avoid;}
+	/*https://stackoverflow.com/questions/4730216/keep-an-html-element-from-spanning-multiple-pages-when-printed/4730244#4730244*/ tr.pad1{page-break-after:avoid;} tr.pad2{page-break-before:avoid;} /*this... doesn't seem to work, at least not on my computer, but oh well*/
 	
-	footer{display:none;}
+	a{text-decoration:none;} /*https://www.sitepoint.com/css-printer-friendly-pages/#addsupplementarycontent*/ a::after{content: ' (' attr(href) ')'; font-size:.8em;}
+	
+	.note::after{content:'achievement list from the OMORI wiki; reordered with notes by a-flyleaf last updated 2023 Dec.14'; text-align:right; margin:5pt; display:block; font-size:.8em; font-family:sans-serif; max-width:33em; float:right; line-height:1.5;}
+	
+	#check,footer{display:none;}
 }"
 
 # sorting note to self:
@@ -536,7 +546,7 @@ achievements:
 # achievements (WIP)
 there sure are a lot of them.
 
-basically lifted off [the fandom wiki](https://omori.fandom.com/wiki/ACHIEVEMENTS), but with separate [how-to info](#how-to) for ease of reading/copying. <span style="background:yellow;">**should be [printer-friendly](https://www.sitepoint.com/css-printer-friendly-pages/)!** [this is a self-reminder; there's *some* printer-specific CSS here but not a lot]</span>
+basically lifted off [the fandom wiki](https://omori.fandom.com/wiki/ACHIEVEMENTS), but with separate [how-to info](#how-to) for ease of reading/copying. <span style="background:yellow;">**should be [printer-friendly](https://www.sitepoint.com/css-printer-friendly-pages/)!** [this is a self-reminder; there's *some* printer-specific CSS here but I should keep checking it as the page develops]</span>
 
 ----
 
@@ -550,9 +560,9 @@ T: True Route, touch grass \| H: "Hikikomori," don't do that
 	</thead>
 	<tbody>{%assign ach=page.achievements|sort:"order"%}{%for a in ach%}
 		<tr class="pad1">
-			{%if a.rt==1%}<td rowspan="2" class="chk">■</td><td rowspan="2" class="chk">□</td>{%endif%}
-			{%if a.rt==2%}<td rowspan="2" class="chk">□</td><td rowspan="2" class="chk">■</td>{%endif%}
-			{%if a.rt==3%}<td rowspan="2" class="chk">■</td><td rowspan="2" class="chk">■</td>{%endif%}
+			{%if a.rt==1%}<td rowspan="2" class="chk">✔</td><td rowspan="2" class="chk">✗</td>{%endif%}
+			{%if a.rt==2%}<td rowspan="2" class="chk">✗</td><td rowspan="2" class="chk">✔</td>{%endif%}
+			{%if a.rt==3%}<td rowspan="2" class="chk">✔</td><td rowspan="2" class="chk">✔</td>{%endif%}
 			<td class="canon">
 				<b>{{a.nm|markdownify}}</b>
 				{{a.dc|markdownify}}
@@ -560,20 +570,19 @@ T: True Route, touch grass \| H: "Hikikomori," don't do that
 		</tr>
 		<tr class="pad2"><td{%unless a.how%} style="background:yellow;"{%endunless%}><!--TEMP <span style="font-family:courier; display:inline-block; border:1px solid #bfbfbf; padding:0 .25em; width:7em">ORDER: <span style="float:right;">{{a.order}}</span></span> <!--/TEMP-->{{a.how|markdownify}}</td></tr>
 	{%endfor%}</tbody>
-</table>
+</table><div class="note"></div>
 
+<section id="check" markdown="1">
 ## checklists
-<span style="background:yellow;">[to be updated with the better how-to]</span>
+note that links and other formatting (bold, italics) in the info column isn't mirrored here due to coding limitations
 
-<!--
 ### markdown
-<div class="copy" id="md">{%for a in page.achievements%}- [ ] **{{a.nm}}**: {{a.dc}} ({%if a.rt==1%}true{%else%}{%if a.rt==2%}hiki{%else%}{%if a.rt==3%}both{%if a.typ=="story"%}, story checkpoint{%endif%}{%endif%}{%endif%}{%endif%}){%if a.how%}&nbsp;&nbsp;<br>
-({{a.how.howto}}{%if a.how.tr%}TRUE: {{a.how.tr}} \| HIKI: {{a.how.hk}}{%endif%}){%endif%}<br>{%endfor%}</div>
+<div class="copy" id="md">TR = True Route \| HR = Hikikomori Route \| br = both routes&nbsp;&nbsp;<br>\* = story checkpoint<br>{%for a in ach%}<br>- [ ] ({%if a.rt==1%}TR{%else%}{%if a.rt==2%}HR{%else%}{%if a.rt==3%}br{%if a.typ=="story"%}\*{%endif%}{%endif%}{%endif%}{%endif%}) **{{a.nm}}**: {{a.dc}}&nbsp;&nbsp;<br>{{a.how|replace:'- ','<br>&nbsp;&nbsp;- '}}<br>{%endfor%}</div>
 
 ### plaintext
-<div class="copy" id="pt">{%for a in page.achievements%}{ {{a.nm}} } {{a.dc}} ({%if a.rt==1%}true{%else%}{%if a.rt==2%}hiki{%else%}{%if a.rt==3%}both{%if a.typ=="story"%}, story checkpoint{%endif%}{%endif%}{%endif%}{%endif%}){%if a.how%}&nbsp;&nbsp;<br>
-({{a.how.howto}}{%if a.how.tr%}TRUE: {{a.how.tr}} \| HIKI: {{a.how.hk}}{%endif%}){%endif%}<br><br>{%endfor%}</div>
--->
+<div class="copy" id="pt"><br>[TR] = True Route | [HR] = Hikikomori Route | [br] = both routes<br>* = story checkpoint<br>{%for a in ach%}<br>{%if a.rt==1%}[TR]{%else%}{%if a.rt==2%}[HR]{%else%}{%if a.rt==3%}[br]{%if a.typ=="story"%}*{%endif%}{%endif%}{%endif%}{%endif%} { {{a.nm}} } {{a.dc}}<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{a.how|replace:'- ','<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- '}}<br>{%endfor%}</div>
+</section>
+<!--copy javascript? https://www.w3schools.com/howto/howto_js_copy_clipboard.asp-->
 
 <!--## Processes
 for the drawn-out ones where, if you miss one step or progress the story, you've locked out the whole achievement-->
