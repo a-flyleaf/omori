@@ -6,11 +6,21 @@ css: "
 table{border-collapse:collapse;} th,td{border:1px solid #bfbfbf; padding:.25em; vertical-align:top;}
 th{vertical-align:middle;}
 td p{margin:0;} td br{margin-bottom:.25em;} td ul,td ol{margin:.15em 0 .15em 1em;} td li ul{margin:0 0 0 1em;}
-.chk th{width:2em;}
-td:nth-of-type(1),td:nth-of-type(2){text-align:center;}
+.chk th{width:2em;} td.chk{text-align:center;}
+
+.canon{font-family:sans-serif;} .canon p{display:inline-block;} .canon>p{font-size:.85em; margin-left:.5em;}
 
 .copy{max-height:10em; overflow-y:scroll; background:#efefef; font-family:consolas,monospace; font-size:.75em;} .copy .omo{text-transform:none;}
-"
+
+@media print{
+	.wrap{padding:0;}
+	
+	th,td{border:2pt solid lightgray;}
+	td:nth-child(3){max-width:2in;}
+	/*https://stackoverflow.com/questions/4730216/keep-an-html-element-from-spanning-multiple-pages-when-printed/4730244#4730244*/ tr.pad1{page-break-after:avoid;} tr.pad2{page-break-before:avoid;}
+	
+	footer{display:none;}
+}"
 
 # sorting note to self:
 # 000-099 Prologue (Vast Forest, Otherworld)
@@ -526,11 +536,7 @@ achievements:
 # achievements (WIP)
 there sure are a lot of them.
 
-basically lifted off [the fandom wiki](https://omori.fandom.com/wiki/ACHIEVEMENTS), but with separate [how-to info](#how-to) for ease of reading/copying. <span style="background:yellow;">**should be [printer-friendly](https://www.sitepoint.com/css-printer-friendly-pages/)!** [this is a self-reminder, there's no fancy printer formatting yet]</span>
-
-+also maybe probably reorder by like... earliest possible time to achieve it? namely because the wiki just clumps them all together by area which is Mildly confusing, and also there are Processes.
-
-<!-- +lmao I don't actually need the "tr/hk" separation, every Single other how-to is one-line. will futz with that later though -->
+basically lifted off [the fandom wiki](https://omori.fandom.com/wiki/ACHIEVEMENTS), but with separate [how-to info](#how-to) for ease of reading/copying. <span style="background:yellow;">**should be [printer-friendly](https://www.sitepoint.com/css-printer-friendly-pages/)!** [this is a self-reminder; there's *some* printer-specific CSS here but not a lot]</span>
 
 ----
 
@@ -539,23 +545,21 @@ T: True Route, touch grass \| H: "Hikikomori," don't do that
 
 <table>
 	<thead>
-		<tr><th colspan="2">routes</th><th rowspan="2">official name & description</th><th rowspan="2">additional how-to</th></tr>
+		<tr><th colspan="2">routes</th><th rowspan="2" id="info">info</th></tr>
 		<tr class="chk"><th>T</th><th>H</th></tr>
 	</thead>
-	<tbody>{%assign ach=page.achievements|sort:"order"%}{%for a in ach%}<tr{%unless a.order%} style="background:cyan;"{%endunless%}>
-		{%if a.rt==1%}<td>■</td><td>□</td>{%endif%}
-		{%if a.rt==2%}<td>□</td><td>■</td>{%endif%}
-		{%if a.rt==3%}<td>■</td><td>■</td>{%endif%}
-		<td>
-			<b>{{a.nm|markdownify}}</b>
-			{{a.dc|markdownify}}
-		</td>
-		<td{%unless a.how%} style="background:yellow;"{%endunless%}><!--TEMP--><span style="font-family:courier; display:inline-block; border:1px solid #bfbfbf; padding:0 .25em; width:7em">ORDER: <span style="float:right;">{{a.order}}</span></span><!--/TEMP-->{{a.how|markdownify}}</td>
-		
-		<!--
-		></td><td{%if a.rt==3%}><span class="x">both</span><{%else%}><{%endif%}/td><td></td>
-		-->
-	</tr>{%endfor%}</tbody>
+	<tbody>{%assign ach=page.achievements|sort:"order"%}{%for a in ach%}
+		<tr class="pad1">
+			{%if a.rt==1%}<td rowspan="2" class="chk">■</td><td rowspan="2" class="chk">□</td>{%endif%}
+			{%if a.rt==2%}<td rowspan="2" class="chk">□</td><td rowspan="2" class="chk">■</td>{%endif%}
+			{%if a.rt==3%}<td rowspan="2" class="chk">■</td><td rowspan="2" class="chk">■</td>{%endif%}
+			<td class="canon">
+				<b>{{a.nm|markdownify}}</b>
+				{{a.dc|markdownify}}
+			</td>
+		</tr>
+		<tr class="pad2"><td{%unless a.how%} style="background:yellow;"{%endunless%}><!--TEMP <span style="font-family:courier; display:inline-block; border:1px solid #bfbfbf; padding:0 .25em; width:7em">ORDER: <span style="float:right;">{{a.order}}</span></span> <!--/TEMP-->{{a.how|markdownify}}</td></tr>
+	{%endfor%}</tbody>
 </table>
 
 ## checklists
