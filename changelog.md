@@ -47,7 +47,7 @@ log:
     line: Cleaned up site for launch.
     done: |-
       - full page: [the actual index](a-space)
-      - art: <a href="art/roundup-2023-02">Februrary roundup</a>
+      - art: [February roundup](art/roundup-2023-02)
   - dt: 2023-03-01
     line: <a href="art/mar1">Drew a thing</a>.
   - dt: 2023-03-02
@@ -182,16 +182,22 @@ log:
     line: "Assorted changes:"
     done: |-
       - tweakage:
-        - <a href="black-space">Black&nbsp;Space</a>: noted Fandom wiki changes, fixed broken images
-        - <a href="meta">meta</a>: fixed broken navigation on pre-hikikomori posts
-        - <a href="art">art index</a>: display pixel thumbnails on smaller screens
-      - <a href="art/scribbrey">new art</a>
+        - [Black&nbsp;Space](black-space): noted Fandom wiki changes, fixed broken images
+        - [meta](meta): fixed broken navigation on pre-hikikomori posts
+        - [art index](art): display pixel thumbnails on smaller screens
+      - [new art](art/scribbrey)
   - dt: 2023-12-13
     line: Further <a href="doors/moodboards/uhh">moodboard experimentation</a>.
     done: |-
       [note to self, moodboard links will probably need updating later]
   - dt: 2023-12-14
     line: Substantial work on the <a href="achievements">achievements page</a> (still unfinished).
+  - dt: 2023-12-22
+    line: "Writing updates:"
+    done: |-
+      - [index](writing/index): actual not-placeholder info
+      - ["Unraveling"](writing/unraveling): story from a few months ago
+# note to self: use markdown links if possible, else a href
 ---
 <div id="lt-content"><div id="laptop">
 	<div class="box">
