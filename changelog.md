@@ -195,7 +195,7 @@ log:
   - dt: 2023-12-22
     line: "Writing updates:"
     done: |-
-      - [index](writing/index): actual not-placeholder info
+      - [index](writing/index): actual not-placeholder info, miscellaneous tweakage
       - ["Unraveling"](writing/unraveling): story from a few months ago
 # note to self: use markdown links if possible, else a href
 ---

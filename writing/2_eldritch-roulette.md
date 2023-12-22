@@ -3,13 +3,31 @@ layout: base
 title: "Unraveling."
 permalink: writing/unraveling
 
-css: ""
+css: "body{background:#000; color:#efefef; font-family:'franklin gothic book',helvetica,sans-serif; line-height:1.15;} ::selection{background:#000; color:#bfbfbf;} a{color:#93c7ef; text-decoration:none;} a:hover,a:focus,a:active{color:#efefef; text-decoration-color:#808080;}
+.wrap{max-width:47.5em; margin:0 auto;} main{font-family:perpetua,palatino,'book antiqua',serif; font-size:1.35em; line-height:1.45; background:#202020; padding:1em 1.5em; box-shadow:#202020 0 0 50em,#202020 0 0 35em,#202020 0 0 25em,#202020 0 0 5em,#202020 0 0 3em,#202020 0 0 1em;}
+main p{text-indent:1.5em;} main p:first-of-type,.lb p,.lb+p{text-indent:0;} .lb{text-align:center; margin:.5em 0; opacity:.15;}
+
+.meta{padding:1em 2em; line-height:1.5; color:#bfbfbf;} .meta ::selection{background:#202020; color:#808080;}
+header{text-align:center; margin-bottom:5em;} h1{font-size:3em; font-family:perpetua,georgia,serif; font-style:italic; letter-spacing:-.025em; margin-top:2.5em;} header blockquote{font-style:italic; margin-top:-.25em;}
+
+footer{background:#000; background:linear-gradient(/*https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient#gradient_with_multi-position_color-stops*/
+	rgba(0,0,0,.15),
+	rgba(0,0,0,.15) 1.5em,
+	rgba(0,0,0,.35) 1.5em 3.25em,
+	rgba(0,0,0,.5) 3.25em 5.5em,
+	rgba(0,0,0,.75) 5.5em 7.5em,
+	rgba(0,0,0,.85) 7.5em 10em,black 10em
+); padding-top:75em !important; margin-top:-2em;}
+footer .wrap{max-width:43.5em;} footer p{max-width:38em;}
+{}#back{margin:2em 0 .5em;} #back a{opacity:.35; transition:1s ease-in-out;} #back a:hover,#back a:focus,#back a:active{margin-left:-1em; opacity:1; padding-right:1em;}"
 ---
 <div class="wrap">
-<header>
-	<h1>Unraveling.</h1>
+<header class="meta">
+	<h1>Unraveling</h1>
 	<blockquote><p>For the <a href="https://astriiformes.tumblr.com/tagged/AUroulette2023/chrono">AU Roulette Challenge</a> prompt “cosmic horror.”</p></blockquote>
 </header>
+
+<hr class="x">
 
 <main markdown="1">
 Mari plucks from her head a single string, and lies it at the altar of perfection. She needs only to master this performance. It will be her undoing.
@@ -48,7 +66,7 @@ No, Sunny loves her, Mari reminds herself, and wants to do her good; and she lov
 
 <i>Why do mistakes happen?</i> It's a question Mari turned to, night after night, bed-bound from an injury that had no right to have occurred. Externally her composure hit every note---can't rush the healing process, little brother; these things take time---but internally, a diminuendo.
 
-She'd needed books to sleep for years. It was a hobby; then a habit; now a crutch. Volumes scholarly and pulpy alike she gorged on, and still nothing pleased her. How maddening it was, to just *sit there,* and play to a perfection that the wraps around her leg disproved with the subtlety of a torn web.
+She'd needed books to sleep for years. It was a hobby; then a habit; now a crutch. Volumes scholarly and pulpy alike she gorged on, and still nothing pleased her. How maddening it was, to just *sit there,* and to play in the name of a perfection that the wraps around her leg disproved with the subtlety of a torn web.
 
 And so just once, in a fit of weakness, she enlisted help.
 
@@ -106,7 +124,7 @@ She thanks it for its guidance, and tells it to wait. In its silence she hears e
 
 For the next several days, Sunny is a maestro. Mari has allowed him solo practice, and here at last he exceeds. His melodies soar, her praises are endless, and he even wakes with renewed vigor---
 
-And yet. Enter piano; exit his competence. Worse is that Mari now *knows* he hasn't given up; when he gets it right she can almost see his smile, and when he (still too often) gets it *wrong* his reinvigorated passion turns against him, twisting his expression into a momentary but intense fury. It is a horrid thing to witness, and even more damning to hear, as the duo's frustrations circle each other in a gladiatorial dance---until finally, without fail, Sunny capitulates.
+And yet. Enter piano; exit his competence. Worse is that Mari now *knows* he hasn't given up; when he gets it right she can almost see his smile, and when he (still too often) gets it *wrong* his reinvigorated passion turns against him, twisting his expression into a momentary but intense fury. It is a horrid thing to witness, and even more damning to hear, as the duo's frustrations circle each other in a gladiatorial dance---until finally, every time, Sunny capitulates.
 
 For now, Mari allows him to walk. She does not *like* that he turns away; but she likes less that, even now, he leaves so much wanting.
 
@@ -118,7 +136,7 @@ The introduction must be slow.
 
 "See?" she says. "It won't hurt you. Be patient."
 
-Sunny stifles a shiver as the tendril creeps up his palm, sinewy and slick as a newborn. Poor boy must think this is a nightmare; after all, Mari told everyone to keep away from this place, and the implicitly the sentiment had included them, too. But there was so much she hadn't accounted for then. When this is through, Sunny will grasp its necessity.
+Sunny stifles a shiver as the tendril creeps up his palm, sinewy and slick as a newborn. Poor boy must think this is a nightmare; after all, Mari told everyone to keep away from this place, and the implicitly the sentiment had included the two of them, too. But there was so much she hadn't accounted for then. When this is through, Sunny will grasp its necessity.
 
 "It's not as scary as you think," Mari lies, rubbing her brother's shoulders, readying herself on the occasion the tendril might snake around his arm and *tug*. She reminds herself that *it,* as she has read, has little interest in senseless violence. One must only be willing.
 
@@ -162,10 +180,13 @@ Why must he act confused? Little brother shakes; big sister asks only for his tr
 
 Sunny shoves.
 </main>
-<footer>
-	<blockquote><p>Thanks to <a href="https://archiveofourown.org/users/azhdarchidaen">azhdarchidaen</a> for running the roulette &amp; tossing some prompts to a rando. I feel like the “cosmic horror” aspects ended up being more window dressing than a proper Alternate Universe, but I had a lot of fun researching the genre! Here’s something I’ve been itching to write ever since I learned about <a href="https://omori.fandom.com/wiki/SOMETHING#QUOTES">a certain piece of unused dialogue</a>.</p></blockquote>
-	<p>+additional behind-the-scenes [TBA?]</p>
-	
-	<a href="{%include url.html%}/writing"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a>
-</footer>
+
+<hr class="x">
 </div>
+
+<footer class="meta"><div class="wrap">
+	<blockquote><p>Thanks to <a href="https://archiveofourown.org/users/azhdarchidaen">azhdarchidaen</a> for running the roulette &amp; tossing some prompts to a rando. Although I feel like the AU aspects ended up being more window dressing than a proper Alternate Universe, the core concept is something I’ve been itching to write ever since I learned about <a href="https://omori.fandom.com/wiki/SOMETHING#QUOTES">a certain piece of unused dialogue</a>.</p></blockquote>
+	<!--<p id="bonus">+additional behind-the-scenes [TBA?]</p>-->
+	
+	<div id="back"><a href="{%include url.html%}/writing"><img src="{%include url.html%}/assets/img/fork-mini.png" alt="back"></a></div>
+</div></footer>
