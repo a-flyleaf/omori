@@ -132,7 +132,7 @@ log:
   - dt: 2023-06-28
     line: Wrote <a href="meta/not-meta">a meta(?)post</a>.
   - dt: 2023-07-02
-    line: <a lang="hr" href="hrvatski/itd">Hrvatski opet.</a>
+    line: <a lang="hr" href="hrvatski/itd">Hrvatski opet</a>.
   - dt: 2023-07-05
     line: "Did some little things:"
     done: |-
@@ -197,6 +197,8 @@ log:
     done: |-
       - [index](writing/index): actual not-placeholder info, miscellaneous tweakage
       - ["Unraveling"](writing/unraveling): story from a few months ago
+  - dt: 2024-01-08
+    line: <a href="art/aubeymation">Drew/animated a thing</a>.
 # note to self: use markdown links if possible, else a href
 ---
 <div id="lt-content"><div id="laptop">
