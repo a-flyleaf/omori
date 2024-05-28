@@ -145,21 +145,6 @@ scribs:
         <strong class="omo">All these years you were afraid of *nothing*</strong>
     an: |-
       "Ni o čemu" is not the big deal I drew it as: it means "about nothing." As for why the word <q lang="hr">ničemu</q> ("nothing," on its own) gets split? Grammatical shenanigans. Which are not actually that complicated now that I have context but, once more in the name of art, [Exaggerated Reaction Funney](https://knowyourmeme.com/memes/dramatic-dmitry)..\..
-  - dt: 2023-08-21
-    id: nja
-    typ: sn
-    imgs:
-    - alt: "Hero, driving, asks Sunny “Why does Basil call you [phrase in Croatian]?”. Thought box from Sunny: “You’re going to stop talking for a little while.”"
-      tr-hr: |-
-        <q lang="hr">moje malo miau miau</q>
-        
-        <span lang="hr">(molim</span> ignoraj car <span lang="hr">Europi. hvala.)</span>
-      tr-en: |-
-        <q>my [little meow meow](https://knowyourmeme.com/memes/poor-little-meow-meow)</q>
-        
-        (please ignore the car of Europe. thank.)
-    an: |-
-      Ripped shamelessly from [someone else's version](https://web.archive.org/web/20230824132530/https://nitter.net/lunectar/status/1536848167802634240). The note about the European car is because Hero is on the viewer's left, same as [the original meme](https://knowyourmeme.com/memes/why-does-x-call-you-babygirl), and that's normally something I would've redrawn to "fix" but I didn't notice until too late. Oh well!
 ---
 ČčĆćĐđŠšŽž
 …‘’“”—

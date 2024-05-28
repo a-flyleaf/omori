@@ -2,6 +2,7 @@
 layout: hr
 title: A talk by a lake.
 back: kuci
+next: prijateljstvo
 
 css: "#h-info .ln{display:block;} small{display:block; margin-top:1.5em; font-size:.85em; font-style:italic;} h2{display:none;} figure{padding-top:1em; margin-bottom:0 !important;} article{background:#635e56; color:#dfd8c9;} figure:nth-child(3) p:first-child{margin-bottom:1em;} figure ::selection{background:#443F39;}"
 
