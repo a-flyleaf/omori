@@ -29,6 +29,7 @@ linked on the index via ~~mini door, draw a new one~~ oh what if it's a key actu
 	- the LP has some of these non-OST tracks, or at least the Black Space clock one and *presumably* others
 - what's a 90s-style indie site without random one-off pages. like, you type in "[url]/kel" and get a SLAM DUNK gif or something.
 	- ~~omori~~, sunny?, kel, hero, aubrey, basil, ~~mari~~, something
+	- IT HAS BEEN OVER A YEAR you know what would be funny as shit for the basil page. just a Wall. 100x100 icons of Every Single Creacher (the jokey ones only). i bet there's an Amount
 
 ### /doors (and art thing)
 linked somewhere, but nowhere specific

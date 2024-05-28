@@ -199,6 +199,8 @@ log:
       - ["Unraveling"](writing/unraveling): story from a few months ago
   - dt: 2024-01-08
     line: <a href="art/aubeymation">Drew/animated a thing</a>.
+  - dt: 2024-05-27
+    line: <a href="hrvatski/prijateljstvo" lang="hr"><i>Konačno...!</i></a>
 # note to self: use markdown links if possible, else a href
 ---
 <div id="lt-content"><div id="laptop">
