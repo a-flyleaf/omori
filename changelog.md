@@ -201,6 +201,8 @@ log:
     line: <a href="art/aubeymation">Drew/animated a thing</a>.
   - dt: 2024-05-27
     line: <a href="hrvatski/prijateljstvo" lang="hr"><i>Konačno...!</i></a>
+  - dt: 2024-06-01
+    line: <a href="art/roundup-2023-08">August art roundup</a> is a thing.
 # note to self: use markdown links if possible, else a href
 ---
 <div id="lt-content"><div id="laptop">
@@ -210,5 +212,5 @@ log:
 		<main>{%for log in page.log%}<article><h2>{{log.dt}}</h2><p><span>Today I updated the <span class="omo">Omori</span> site.</span> <span>{{log.line}}</span></p>{%if log.done%}<div class="done">{{log.done|markdownify}}</div>{%endif%}</article>{%endfor%}</main>
 	</div><div id="bar">
 		<a href="https://unsplash.com/photos/4Zaq5xY5M_c" class="lt-box">BG credit</a>
-		<div class="lt-box">2023</div>
+		<div class="lt-box">2023–2024</div>
 </div><!--/#bar--></div></div>
