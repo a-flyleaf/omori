@@ -180,8 +180,8 @@ Also wanted to put the thumbnails near the track links for faster reference than
 		<td class="img"><a href="https://omori.fandom.com/wiki/BLACK_SPACE?file=BLACK_SPACE.png"><img src="https://static.wikia.nocookie.net/omori/images/c/c3/BLACK_SPACE.png" alt="blackspace entrance"></a></td>
 		<td><div class="nm"><b>Welcome Again.</b></div><ul>
 			<li><a href="https://omori.bandcamp.com/track/welcome-again">Bandcamp</a></li>
-			<li><a href="https://piped.video/watch?v=gAWLivIzTKc&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">YouTube (official)</a></li>
-			<li><a href="https://piped.video/watch?v=L5_GpNYLQb0&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">YouTube (extended)</a></li>
+			<li><a href="https://youtube.com/watch?v=gAWLivIzTKc&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">YouTube (official)</a></li>
+			<li><a href="https://youtube.com/watch?v=L5_GpNYLQb0&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">YouTube (extended)</a></li>
 		</ul></td>
 	</tr>{%for ar in page.area%}<tr>
 		<td class="omo">{%if ar.wiki%}
@@ -191,8 +191,8 @@ Also wanted to put the thumbnails near the track links for faster reference than
 		<td class="img"><a href="https://omori.fandom.com/wiki/{%if ar.wiki%}{{ar.wiki|upcase|replace:" ","_"}}{%else%}{{ar.file|upcase|replace:" ","_"}}{%endif%}?file={%if ar.imgfix%}{{ar.imgfix}}{%else%}{{ar.file|upcase|replace:" ","_"}}{%endif%}.png"><img src="https://static.wikia.nocookie.net/omori/images/{{ar.img}}" alt="{{ar.file}}"></a></td>
 		<td>{%if ar.ost%}<div class="nm"><b>{{ar.ost.nm}}</b></div><ul>
 			<li><a href="https://omori.bandcamp.com/track/{%if ar.ost.bc%}{{ar.ost.bc}}{%else%}{{ar.ost.nm|downcase}}{%endif%}">Bandcamp</a></li>
-			<li><a href="https://piped.video/watch?v={{ar.ost.yt}}&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">YouTube (official)</a></li>
-			<li><a href="https://piped.video/watch?v={{ar.ost.ext}}&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">YouTube (extended)</a></li>
+			<li><a href="https://youtube.com/watch?v={{ar.ost.yt}}&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">YouTube (official)</a></li>
+			<li><a href="https://youtube.com/watch?v={{ar.ost.ext}}&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">YouTube (extended)</a></li>
 		</ul>{%else%}[N/A]†{%endif%}</td>
 	</tr>{%if ar.note%}<tr colspan="3">
 		<td class="bs-note" colspan="3">{{ar.note|markdownify}}</td>
@@ -201,8 +201,8 @@ Also wanted to put the thumbnails near the track links for faster reference than
 		<td class="img"><a href="https://omori.fandom.com/wiki/CHURCH_OF_SOMETHING?file=CHURCH_OF_SOMETHING.png"><img src="https://static.wikia.nocookie.net/omori/images/1/11/CHURCH_OF_SOMETHING.png" alt="Church of Something"></a></td>
 		<td><div class="nm"><b>Orchard</b> → <b>Temple</b></div><ul>
 			<li>Bandcamp: <a href="https://omori.bandcamp.com/track/orchard">Orchard</a> & <a href="https://omori.bandcamp.com/track/temple">Temple</a></li>
-			<li>YouTube (official): <a href="https://piped.video/watch?v=g7lfPT4jNQQ&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">Orchard</a> & <a href="https://piped.video/watch?v=wiGmzLwTy5o&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">Temple</a></li>
-			<li>YouTube (extended): <a href="https://piped.video/watch?v=7fYiUa4nmVQ&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">Orchard</a> & <a href="https://piped.video/watch?v=6k2pFv2JRP8&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">Temple</a></li>
+			<li>YouTube (official): <a href="https://youtube.com/watch?v=g7lfPT4jNQQ&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">Orchard</a> & <a href="https://youtube.com/watch?v=wiGmzLwTy5o&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">Temple</a></li>
+			<li>YouTube (extended): <a href="https://youtube.com/watch?v=7fYiUa4nmVQ&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">Orchard</a> & <a href="https://youtube.com/watch?v=6k2pFv2JRP8&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">Temple</a></li>
 		</ul></td>
 	</tr><tr colspan="3">
 		<td class="bs-note" colspan="3"><p>‡Has two maps; <a href="https://goats.dev/omori/map.html#457">the second</a> is longer.</p></td>
@@ -211,8 +211,8 @@ Also wanted to put the thumbnails near the track links for faster reference than
 		<td class="img"><a href="https://omori.fandom.com/wiki/RED_SPACE?file=RED_SPACE.png"><img src="https://static.wikia.nocookie.net/omori/images/f/f3/RED_SPACE.png" alt="Red Space"></a></td>
 		<td><div class="nm"><b>Listening</b></div><ul>
 			<li><a href="https://omori.bandcamp.com/track/listening">Bandcamp</a></li>
-			<li><a href="https://piped.video/watch?v=OWrUZC__Tgc&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">YouTube (official)</a></li>
-			<li><a href="https://piped.video/watch?v=Lm3db0PAEW8&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">YouTube (extended)</a></li>
+			<li><a href="https://youtube.com/watch?v=OWrUZC__Tgc&list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0">YouTube (official)</a></li>
+			<li><a href="https://youtube.com/watch?v=Lm3db0PAEW8&list=PL5QdldG84gVPz0-lTq4uzId3d3jTmxxv7">YouTube (extended)</a></li>
 		</ul></td>
 	</tr></tbody>
 </table>

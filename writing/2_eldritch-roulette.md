@@ -136,7 +136,7 @@ The introduction must be slow.
 
 "See?" she says. "It won't hurt you. Be patient."
 
-Sunny stifles a shiver as the tendril creeps up his palm, sinewy and slick as a newborn. Poor boy must think this is a nightmare; after all, Mari told everyone to keep away from this place, and the implicitly the sentiment had included the two of them, too. But there was so much she hadn't accounted for then. When this is through, Sunny will grasp its necessity.
+Sunny stifles a shiver as the tendril creeps up his palm, sinewy and slick as a newborn. Poor boy must think this is a nightmare; after all, Mari told everyone to keep away from this place, and implicitly the sentiment had included the two of them, too. But there was so much she hadn't accounted for then. When this is through, Sunny will grasp its necessity.
 
 "It's not as scary as you think," Mari lies, rubbing her brother's shoulders, readying herself on the occasion the tendril might snake around his arm and *tug*. She reminds herself that *it,* as she has read, has little interest in senseless violence. One must only be willing.
 

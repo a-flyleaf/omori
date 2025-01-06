@@ -11,13 +11,11 @@ css: "#pg-img{margin-top:-1.5em;} @media only screen and (min-width:50em){#pg-im
 Not comprehensive.
 - [Official Website (English)](https://www.omori-game.com/en)
 - [Bandcamp](https://omori.bandcamp.com/)
-- Twitter\*
-	- <span class="omo">@[Omori_game](https://nitter.net/OMORI_GAME/)</span> -- Tweetsite infohub.
-	- @[_omocat](https://nitter.net/_OMOCAT) -- The studio; same name as the creator's personal handle.
-	- @[its_omocat](https://nitter.net/its_omocat) -- The person.
+- Twitter
+	- <span class="omo">@[Omori_game](https://twitter.com/OMORI_GAME/)</span> -- Tweetsite infohub.
+	- @[_omocat](https://twitter.com/_OMOCAT) -- The studio; same name as the creator's personal handle.
+	- @[its_omocat](https://twitter.com/its_omocat) -- The person.
 - [Omocat's Tumblr](https://www.omocat-blog.com/)
-
-\*linked via Nitter, a Twitter frontend without the noise. If you want the source links, replace "nitter.net" in the URL with "twitter.com".
 
 <div class="para" markdown="1">
 ## Fanmade Resources
@@ -31,12 +29,14 @@ A forum-based playthrough of the entire game, with most dialogue transcribed, so
 - <b>[Omoriboy Archive](https://alexanderjt.neocities.org/omoriboy)</b>  
 Manually-created mirror of the blog posts that started it all. The original blogs are inaccessible even with a Tumblr login, but some (if not all?) posts were [reblogged by Omocat](https://www.omocat-blog.com/tagged/omori/chrono).
 - <b>[The Cutting Room Floor](https://tcrf.net/OMORI)</b>  
-Massive, *massive* pages detailing various content from the files that got cut and/or changed between versions. And as of November 2023, they're still not done!!
+Massive, *massive* pages detailing various content from the files that got cut and/or changed between versions. And as of January 2025, they're still not done!!
 - <b>[Spriters Resource spriterips](https://www.spriters-resource.com/pc_computer/omori/)</b>  
-As of November 2023 this is neither comprehensive nor well-organized, with [the Switch sprites being a separate page entirely](https://www.spriters-resource.com/nintendo_switch/omori/). But in a pinch, it loads a lot faster than the Fandom pages.
+As of January 2025 this is neither comprehensive nor well-organized, with [the Switch sprites being a separate page entirely](https://www.spriters-resource.com/nintendo_switch/omori/). But in a pinch, it loads a lot faster than the Fandom pages.
 - <b>[RPG-Maker Restore-Images](https://petschko.org/tools/mv_decrypter/)</b>  
 Not technically <span class="omo">Omori</span>-related, but if you own the game on Steam, you can use this to rip the sprite sheets yourself ;V (Requires familiarity with your Program Files to find the dang things. Might make a page/folder guide about this later....) (also see: [Unused Graphics at TCRF](https://tcrf.net/OMORI/Unused_Graphics) (main page linked above))
 	- you can get the music this way, too! have yet to do that myself, though; stay tuned.... <small>(pun not intended.)</small>
+- <b>[omori-media-files](https://github.com/luluwaffless/omori-media-files)</b>  
+As an alternative to the above, someone put a bunch of the files directly on GitHub. Don't be surprised if this link gets taken down eventually, but it sure is there.
 - <b>[OST Heardle](https://omori-heardle-2-5.glitch.me/)</b>  
 Not technically a *resource,* I Just Think [It's Fun](heardle)
 </div>
