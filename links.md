@@ -36,7 +36,7 @@ As of January 2025 this is neither comprehensive nor well-organized, with [the S
 Not technically <span class="omo">Omori</span>-related, but if you own the game on Steam, you can use this to rip the sprite sheets yourself ;V (Requires familiarity with your Program Files to find the dang things. Might make a page/folder guide about this later....) (also see: [Unused Graphics at TCRF](https://tcrf.net/OMORI/Unused_Graphics) (main page linked above))
 	- you can get the music this way, too! have yet to do that myself, though; stay tuned.... <small>(pun not intended.)</small>
 - <b>[omori-media-files](https://github.com/luluwaffless/omori-media-files)</b>  
-As an alternative to the above, someone put a bunch of the files directly on GitHub. Don't be surprised if this link gets taken down eventually, but it sure is there.
+As an alternative to the above, someone put a bunch of the files directly on GitHub. Don't be surprised if this repository gets taken down eventually, but it sure does exist.
 - <b>[OST Heardle](https://omori-heardle-2-5.glitch.me/)</b>  
 Not technically a *resource,* I Just Think [It's Fun](heardle)
 </div>
